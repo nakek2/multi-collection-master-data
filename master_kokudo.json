@@ -1,7 +1,7 @@
 {
   "genre": "kokudo",
-  "version": "2026.08.1",
-  "updated_at": "2026-08-18T00:00:00Z",
+  "version": "20260825.141711",
+  "updated_at": "2026-08-25T05:17:11Z",
   "spots": [
     {
       "spot_id": "spot_kokudo_001",
@@ -23,7 +23,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0001",
-          "item_name": "1",
+          "item_name": "国道1号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -31,7 +31,7 @@
         },
         {
           "item_id": "kokudo_K-0024",
-          "item_name": "24",
+          "item_name": "国道24号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -46,7 +46,7 @@
       "longitude": 136.402466,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "中部",
+      "district": "東海",
       "address": "三重県亀山市関町萩原39-39",
       "contact": "",
       "business_hours": "",
@@ -59,7 +59,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0001",
-          "item_name": "1",
+          "item_name": "国道1号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -67,7 +67,7 @@
         },
         {
           "item_id": "kokudo_K-0025",
-          "item_name": "25",
+          "item_name": "国道25号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -95,7 +95,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0001",
-          "item_name": "1",
+          "item_name": "国道1号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -110,7 +110,7 @@
       "longitude": 138.117554,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県島田市竹下62",
       "contact": "",
       "business_hours": "",
@@ -123,7 +123,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0001",
-          "item_name": "1",
+          "item_name": "国道1号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -131,7 +131,7 @@
         },
         {
           "item_id": "kokudo_K-0473",
-          "item_name": "473",
+          "item_name": "国道473号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -159,7 +159,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0001",
-          "item_name": "1",
+          "item_name": "国道1号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -187,7 +187,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0002",
-          "item_name": "2",
+          "item_name": "国道2号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -195,7 +195,7 @@
         },
         {
           "item_id": "kokudo_K-0185",
-          "item_name": "185",
+          "item_name": "国道185号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -223,7 +223,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0002",
-          "item_name": "2",
+          "item_name": "国道2号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -231,7 +231,7 @@
         },
         {
           "item_id": "kokudo_K-0316",
-          "item_name": "316",
+          "item_name": "国道316号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -259,7 +259,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0002",
-          "item_name": "2",
+          "item_name": "国道2号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -287,7 +287,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0002",
-          "item_name": "2",
+          "item_name": "国道2号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -315,7 +315,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0002",
-          "item_name": "2",
+          "item_name": "国道2号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -323,7 +323,7 @@
         },
         {
           "item_id": "kokudo_K-0043",
-          "item_name": "43",
+          "item_name": "国道43号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -351,7 +351,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0003",
-          "item_name": "3",
+          "item_name": "国道3号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -359,7 +359,7 @@
         },
         {
           "item_id": "kokudo_K-0268",
-          "item_name": "268",
+          "item_name": "国道268号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -387,7 +387,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0003",
-          "item_name": "3",
+          "item_name": "国道3号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -395,7 +395,7 @@
         },
         {
           "item_id": "kokudo_K-0328",
-          "item_name": "328",
+          "item_name": "国道328号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -423,7 +423,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0003",
-          "item_name": "3",
+          "item_name": "国道3号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -431,7 +431,7 @@
         },
         {
           "item_id": "kokudo_K-0495",
-          "item_name": "495",
+          "item_name": "国道495号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -459,7 +459,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0004",
-          "item_name": "4",
+          "item_name": "国道4号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -467,7 +467,7 @@
         },
         {
           "item_id": "kokudo_K-0281",
-          "item_name": "281",
+          "item_name": "国道281号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -495,7 +495,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0004",
-          "item_name": "4",
+          "item_name": "国道4号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -523,7 +523,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0004",
-          "item_name": "4",
+          "item_name": "国道4号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -531,7 +531,7 @@
         },
         {
           "item_id": "kokudo_K-0016",
-          "item_name": "16",
+          "item_name": "国道16号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -559,7 +559,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0004",
-          "item_name": "4",
+          "item_name": "国道4号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -567,7 +567,7 @@
         },
         {
           "item_id": "kokudo_K-0394",
-          "item_name": "394",
+          "item_name": "国道394号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -595,7 +595,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0004",
-          "item_name": "4",
+          "item_name": "国道4号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -623,7 +623,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0004",
-          "item_name": "4",
+          "item_name": "国道4号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -651,7 +651,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0005",
-          "item_name": "5",
+          "item_name": "国道5号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -679,7 +679,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0006",
-          "item_name": "6",
+          "item_name": "国道6号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -687,7 +687,7 @@
         },
         {
           "item_id": "kokudo_K-0245",
-          "item_name": "245",
+          "item_name": "国道245号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -715,7 +715,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0006",
-          "item_name": "6",
+          "item_name": "国道6号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -743,7 +743,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0006",
-          "item_name": "6",
+          "item_name": "国道6号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -771,7 +771,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0006",
-          "item_name": "6",
+          "item_name": "国道6号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -799,7 +799,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0007",
-          "item_name": "7",
+          "item_name": "国道7号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -827,7 +827,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0007",
-          "item_name": "7",
+          "item_name": "国道7号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -842,7 +842,7 @@
       "longitude": 139.523163,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県村上市猿沢1215",
       "contact": "",
       "business_hours": "",
@@ -855,7 +855,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0007",
-          "item_name": "7",
+          "item_name": "国道7号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -883,7 +883,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0007",
-          "item_name": "7",
+          "item_name": "国道7号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -891,7 +891,7 @@
         },
         {
           "item_id": "kokudo_K-0280",
-          "item_name": "280",
+          "item_name": "国道280号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -919,7 +919,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0008",
-          "item_name": "8",
+          "item_name": "国道8号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -934,7 +934,7 @@
       "longitude": 138.004303,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県糸魚川市大字能生小泊3596-2",
       "contact": "",
       "business_hours": "",
@@ -947,7 +947,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0008",
-          "item_name": "8",
+          "item_name": "国道8号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -975,7 +975,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0008",
-          "item_name": "8",
+          "item_name": "国道8号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -983,7 +983,7 @@
         },
         {
           "item_id": "kokudo_K-0157",
-          "item_name": "157",
+          "item_name": "国道157号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1011,7 +1011,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0008",
-          "item_name": "8",
+          "item_name": "国道8号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1039,7 +1039,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0008",
-          "item_name": "8",
+          "item_name": "国道8号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1067,7 +1067,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0009",
-          "item_name": "9",
+          "item_name": "国道9号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1075,7 +1075,7 @@
         },
         {
           "item_id": "kokudo_K-0315",
-          "item_name": "315",
+          "item_name": "国道315号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1103,7 +1103,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0009",
-          "item_name": "9",
+          "item_name": "国道9号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1111,7 +1111,7 @@
         },
         {
           "item_id": "kokudo_K-0179",
-          "item_name": "179",
+          "item_name": "国道179号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1139,7 +1139,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0009",
-          "item_name": "9",
+          "item_name": "国道9号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1147,7 +1147,7 @@
         },
         {
           "item_id": "kokudo_K-0261",
-          "item_name": "261",
+          "item_name": "国道261号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1175,7 +1175,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0009",
-          "item_name": "9",
+          "item_name": "国道9号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1203,7 +1203,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0010",
-          "item_name": "10",
+          "item_name": "国道10号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1211,7 +1211,7 @@
         },
         {
           "item_id": "kokudo_K-0219",
-          "item_name": "219",
+          "item_name": "国道219号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1239,7 +1239,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0010",
-          "item_name": "10",
+          "item_name": "国道10号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1267,7 +1267,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0011",
-          "item_name": "11",
+          "item_name": "国道11号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1295,7 +1295,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0011",
-          "item_name": "11",
+          "item_name": "国道11号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1303,7 +1303,7 @@
         },
         {
           "item_id": "kokudo_K-0030",
-          "item_name": "30",
+          "item_name": "国道30号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1331,7 +1331,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0011",
-          "item_name": "11",
+          "item_name": "国道11号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1339,7 +1339,7 @@
         },
         {
           "item_id": "kokudo_K-0028",
-          "item_name": "28",
+          "item_name": "国道28号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1367,7 +1367,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0012",
-          "item_name": "12",
+          "item_name": "国道12号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1395,7 +1395,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0013",
-          "item_name": "13",
+          "item_name": "国道13号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1423,7 +1423,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0013",
-          "item_name": "13",
+          "item_name": "国道13号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1451,7 +1451,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0013",
-          "item_name": "13",
+          "item_name": "国道13号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1479,7 +1479,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0014",
-          "item_name": "14",
+          "item_name": "国道14号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1487,7 +1487,7 @@
         },
         {
           "item_id": "kokudo_K-0296",
-          "item_name": "296",
+          "item_name": "国道296号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1515,7 +1515,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0015",
-          "item_name": "15",
+          "item_name": "国道15号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1543,7 +1543,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0016",
-          "item_name": "16",
+          "item_name": "国道16号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1571,7 +1571,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0017",
-          "item_name": "17",
+          "item_name": "国道17号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1579,7 +1579,7 @@
         },
         {
           "item_id": "kokudo_K-0354",
-          "item_name": "354",
+          "item_name": "国道354号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1607,7 +1607,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0017",
-          "item_name": "17",
+          "item_name": "国道17号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1622,7 +1622,7 @@
       "longitude": 138.813477,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県南魚沼郡湯沢町大字神立字奈良山57-1",
       "contact": "",
       "business_hours": "",
@@ -1635,7 +1635,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0017",
-          "item_name": "17",
+          "item_name": "国道17号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1663,7 +1663,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0018",
-          "item_name": "18",
+          "item_name": "国道18号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1678,7 +1678,7 @@
       "longitude": 138.205032,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "長野県上田市小泉字塩田川原字道下2575-2",
       "contact": "",
       "business_hours": "",
@@ -1691,7 +1691,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0018",
-          "item_name": "18",
+          "item_name": "国道18号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1706,7 +1706,7 @@
       "longitude": 136.879745,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "愛知県名古屋市中村区椿町7-23",
       "contact": "",
       "business_hours": "",
@@ -1719,7 +1719,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0019",
-          "item_name": "19",
+          "item_name": "国道19号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1727,7 +1727,7 @@
         },
         {
           "item_id": "kokudo_K-0022",
-          "item_name": "22",
+          "item_name": "国道22号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1742,7 +1742,7 @@
       "longitude": 137.716949,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "長野県木曽郡木曽町福島2010-1",
       "contact": "",
       "business_hours": "",
@@ -1755,7 +1755,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0019",
-          "item_name": "19",
+          "item_name": "国道19号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1770,7 +1770,7 @@
       "longitude": 138.799042,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "山梨県甲州市大和町初鹿野2248",
       "contact": "",
       "business_hours": "",
@@ -1783,7 +1783,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0020",
-          "item_name": "20",
+          "item_name": "国道20号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1811,7 +1811,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0020",
-          "item_name": "20",
+          "item_name": "国道20号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1819,7 +1819,7 @@
         },
         {
           "item_id": "kokudo_K-0412",
-          "item_name": "412",
+          "item_name": "国道412号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1834,7 +1834,7 @@
       "longitude": 138.114487,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "長野県諏訪市大手1-1-1 JR諏訪駅前",
       "contact": "",
       "business_hours": "",
@@ -1847,7 +1847,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0020",
-          "item_name": "20",
+          "item_name": "国道20号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1862,7 +1862,7 @@
       "longitude": 137.017059,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "岐阜県美濃加茂市太田本町2-3-31",
       "contact": "",
       "business_hours": "",
@@ -1875,7 +1875,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0021",
-          "item_name": "21",
+          "item_name": "国道21号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1890,7 +1890,7 @@
       "longitude": 137.475723,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "愛知県豊橋市東細谷町字一里山100-1",
       "contact": "",
       "business_hours": "",
@@ -1903,7 +1903,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0023",
-          "item_name": "23",
+          "item_name": "国道23号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1911,7 +1911,7 @@
         },
         {
           "item_id": "kokudo_K-0259",
-          "item_name": "259",
+          "item_name": "国道259号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1926,7 +1926,7 @@
       "longitude": 136.735397,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "中部",
+      "district": "東海",
       "address": "三重県伊勢市黒瀬町字高麗田1348-1",
       "contact": "",
       "business_hours": "",
@@ -1939,7 +1939,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0023",
-          "item_name": "23",
+          "item_name": "国道23号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1967,7 +1967,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0024",
-          "item_name": "24",
+          "item_name": "国道24号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -1975,7 +1975,7 @@
         },
         {
           "item_id": "kokudo_K-0308",
-          "item_name": "308",
+          "item_name": "国道308号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2003,7 +2003,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0024",
-          "item_name": "24",
+          "item_name": "国道24号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2011,7 +2011,7 @@
         },
         {
           "item_id": "kokudo_K-0480",
-          "item_name": "480",
+          "item_name": "国道480号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2039,7 +2039,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0025",
-          "item_name": "25",
+          "item_name": "国道25号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2067,7 +2067,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0025",
-          "item_name": "25",
+          "item_name": "国道25号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2095,7 +2095,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0026",
-          "item_name": "26",
+          "item_name": "国道26号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2123,7 +2123,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0027",
-          "item_name": "27",
+          "item_name": "国道27号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2131,7 +2131,7 @@
         },
         {
           "item_id": "kokudo_K-0177",
-          "item_name": "177",
+          "item_name": "国道177号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2159,7 +2159,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0027",
-          "item_name": "27",
+          "item_name": "国道27号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2187,7 +2187,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0028",
-          "item_name": "28",
+          "item_name": "国道28号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2215,7 +2215,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0029",
-          "item_name": "29",
+          "item_name": "国道29号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2223,7 +2223,7 @@
         },
         {
           "item_id": "kokudo_K-0482",
-          "item_name": "482",
+          "item_name": "国道482号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2251,7 +2251,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0031",
-          "item_name": "31",
+          "item_name": "国道31号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2279,7 +2279,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0032",
-          "item_name": "32",
+          "item_name": "国道32号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2307,7 +2307,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0033",
-          "item_name": "33",
+          "item_name": "国道33号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2315,7 +2315,7 @@
         },
         {
           "item_id": "kokudo_K-0440",
-          "item_name": "440",
+          "item_name": "国道440号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2343,7 +2343,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0034",
-          "item_name": "34",
+          "item_name": "国道34号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2351,7 +2351,7 @@
         },
         {
           "item_id": "kokudo_K-0385",
-          "item_name": "385",
+          "item_name": "国道385号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2379,7 +2379,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0034",
-          "item_name": "34",
+          "item_name": "国道34号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2387,7 +2387,7 @@
         },
         {
           "item_id": "kokudo_K-0499",
-          "item_name": "499",
+          "item_name": "国道499号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2415,7 +2415,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0035",
-          "item_name": "35",
+          "item_name": "国道35号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2423,7 +2423,7 @@
         },
         {
           "item_id": "kokudo_K-0205",
-          "item_name": "205",
+          "item_name": "国道205号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2451,7 +2451,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0036",
-          "item_name": "36",
+          "item_name": "国道36号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2459,7 +2459,7 @@
         },
         {
           "item_id": "kokudo_K-0235",
-          "item_name": "235",
+          "item_name": "国道235号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2487,7 +2487,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0037",
-          "item_name": "37",
+          "item_name": "国道37号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2515,7 +2515,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0038",
-          "item_name": "38",
+          "item_name": "国道38号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2523,7 +2523,7 @@
         },
         {
           "item_id": "kokudo_K-0452",
-          "item_name": "452",
+          "item_name": "国道452号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2551,7 +2551,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0039",
-          "item_name": "39",
+          "item_name": "国道39号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2579,7 +2579,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0040",
-          "item_name": "40",
+          "item_name": "国道40号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2594,7 +2594,7 @@
       "longitude": 137.194397,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "岐阜県加茂郡白川町河岐181-2",
       "contact": "",
       "business_hours": "",
@@ -2607,7 +2607,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0041",
-          "item_name": "41",
+          "item_name": "国道41号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2615,7 +2615,7 @@
         },
         {
           "item_id": "kokudo_K-0256",
-          "item_name": "256",
+          "item_name": "国道256号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2630,7 +2630,7 @@
       "longitude": 136.342422,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "中部",
+      "district": "東海",
       "address": "三重県北牟婁郡紀北町東長島2410-73",
       "contact": "",
       "business_hours": "",
@@ -2643,7 +2643,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0042",
-          "item_name": "42",
+          "item_name": "国道42号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2651,7 +2651,7 @@
         },
         {
           "item_id": "kokudo_K-0260",
-          "item_name": "260",
+          "item_name": "国道260号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2679,7 +2679,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0044",
-          "item_name": "44",
+          "item_name": "国道44号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2707,7 +2707,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0045",
-          "item_name": "45",
+          "item_name": "国道45号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2735,7 +2735,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0045",
-          "item_name": "45",
+          "item_name": "国道45号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2763,7 +2763,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0045",
-          "item_name": "45",
+          "item_name": "国道45号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2771,7 +2771,7 @@
         },
         {
           "item_id": "kokudo_K-0102",
-          "item_name": "102",
+          "item_name": "国道102号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2799,7 +2799,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0046",
-          "item_name": "46",
+          "item_name": "国道46号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2827,7 +2827,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0047",
-          "item_name": "47",
+          "item_name": "国道47号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2855,7 +2855,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0047",
-          "item_name": "47",
+          "item_name": "国道47号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2883,7 +2883,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0048",
-          "item_name": "48",
+          "item_name": "国道48号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2911,7 +2911,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0048",
-          "item_name": "48",
+          "item_name": "国道48号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2926,7 +2926,7 @@
       "longitude": 139.225571,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県阿賀野市保田字沖組987-1",
       "contact": "",
       "business_hours": "",
@@ -2939,7 +2939,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0049",
-          "item_name": "49",
+          "item_name": "国道49号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2967,7 +2967,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0049",
-          "item_name": "49",
+          "item_name": "国道49号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -2995,7 +2995,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0050",
-          "item_name": "50",
+          "item_name": "国道50号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3023,7 +3023,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0051",
-          "item_name": "51",
+          "item_name": "国道51号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3051,7 +3051,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0051",
-          "item_name": "51",
+          "item_name": "国道51号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3059,7 +3059,7 @@
         },
         {
           "item_id": "kokudo_K-0356",
-          "item_name": "356",
+          "item_name": "国道356号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3074,7 +3074,7 @@
       "longitude": 138.469452,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "山梨県南巨摩郡富士川町青柳町1655-4",
       "contact": "",
       "business_hours": "",
@@ -3087,7 +3087,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0052",
-          "item_name": "52",
+          "item_name": "国道52号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3115,7 +3115,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0053",
-          "item_name": "53",
+          "item_name": "国道53号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3123,7 +3123,7 @@
         },
         {
           "item_id": "kokudo_K-0484",
-          "item_name": "484",
+          "item_name": "国道484号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3151,7 +3151,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0053",
-          "item_name": "53",
+          "item_name": "国道53号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3159,7 +3159,7 @@
         },
         {
           "item_id": "kokudo_K-0373",
-          "item_name": "373",
+          "item_name": "国道373号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3187,7 +3187,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0054",
-          "item_name": "54",
+          "item_name": "国道54号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3195,7 +3195,7 @@
         },
         {
           "item_id": "kokudo_K-0184",
-          "item_name": "184",
+          "item_name": "国道184号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3223,7 +3223,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0055",
-          "item_name": "55",
+          "item_name": "国道55号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3231,7 +3231,7 @@
         },
         {
           "item_id": "kokudo_K-0493",
-          "item_name": "493",
+          "item_name": "国道493号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3259,7 +3259,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0055",
-          "item_name": "55",
+          "item_name": "国道55号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3267,7 +3267,7 @@
         },
         {
           "item_id": "kokudo_K-0193",
-          "item_name": "193",
+          "item_name": "国道193号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3295,7 +3295,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0056",
-          "item_name": "56",
+          "item_name": "国道56号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3323,7 +3323,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0056",
-          "item_name": "56",
+          "item_name": "国道56号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3351,7 +3351,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0057",
-          "item_name": "57",
+          "item_name": "国道57号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3379,7 +3379,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0057",
-          "item_name": "57",
+          "item_name": "国道57号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3407,7 +3407,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0057",
-          "item_name": "57",
+          "item_name": "国道57号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3415,7 +3415,7 @@
         },
         {
           "item_id": "kokudo_K-0251",
-          "item_name": "251",
+          "item_name": "国道251号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3443,7 +3443,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0058",
-          "item_name": "58",
+          "item_name": "国道58号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3471,7 +3471,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0101",
-          "item_name": "101",
+          "item_name": "国道101号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3499,7 +3499,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0103",
-          "item_name": "103",
+          "item_name": "国道103号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3507,7 +3507,7 @@
         },
         {
           "item_id": "kokudo_K-0104",
-          "item_name": "104",
+          "item_name": "国道104号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3535,7 +3535,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0105",
-          "item_name": "105",
+          "item_name": "国道105号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3563,7 +3563,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0106",
-          "item_name": "106",
+          "item_name": "国道106号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3571,7 +3571,7 @@
         },
         {
           "item_id": "kokudo_K-0340",
-          "item_name": "340",
+          "item_name": "国道340号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3599,7 +3599,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0107",
-          "item_name": "107",
+          "item_name": "国道107号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3627,7 +3627,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0108",
-          "item_name": "108",
+          "item_name": "国道108号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3655,7 +3655,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0112",
-          "item_name": "112",
+          "item_name": "国道112号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3683,7 +3683,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0113",
-          "item_name": "113",
+          "item_name": "国道113号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3711,7 +3711,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0114",
-          "item_name": "114",
+          "item_name": "国道114号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3739,7 +3739,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0115",
-          "item_name": "115",
+          "item_name": "国道115号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3754,7 +3754,7 @@
       "longitude": 138.67392,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県柏崎市西山町坂田717-4",
       "contact": "",
       "business_hours": "",
@@ -3767,7 +3767,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0116",
-          "item_name": "116",
+          "item_name": "国道116号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3782,7 +3782,7 @@
       "longitude": 138.760132,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県十日町市本町六の1丁目71-26",
       "contact": "",
       "business_hours": "",
@@ -3795,7 +3795,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0117",
-          "item_name": "117",
+          "item_name": "国道117号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3803,7 +3803,7 @@
         },
         {
           "item_id": "kokudo_K-0253",
-          "item_name": "253",
+          "item_name": "国道253号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3831,7 +3831,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0118",
-          "item_name": "118",
+          "item_name": "国道118号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3859,7 +3859,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0119",
-          "item_name": "119",
+          "item_name": "国道119号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3887,7 +3887,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0120",
-          "item_name": "120",
+          "item_name": "国道120号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3895,7 +3895,7 @@
         },
         {
           "item_id": "kokudo_K-0401",
-          "item_name": "401",
+          "item_name": "国道401号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3923,7 +3923,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0121",
-          "item_name": "121",
+          "item_name": "国道121号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3951,7 +3951,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0122",
-          "item_name": "122",
+          "item_name": "国道122号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -3979,7 +3979,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0123",
-          "item_name": "123",
+          "item_name": "国道123号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4007,7 +4007,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0124",
-          "item_name": "124",
+          "item_name": "国道124号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4035,7 +4035,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0125",
-          "item_name": "125",
+          "item_name": "国道125号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4043,7 +4043,7 @@
         },
         {
           "item_id": "kokudo_K-0294",
-          "item_name": "294",
+          "item_name": "国道294号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4071,7 +4071,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0126",
-          "item_name": "126",
+          "item_name": "国道126号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4099,7 +4099,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0127",
-          "item_name": "127",
+          "item_name": "国道127号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4127,7 +4127,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0128",
-          "item_name": "128",
+          "item_name": "国道128号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4155,7 +4155,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0129",
-          "item_name": "129",
+          "item_name": "国道129号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4163,7 +4163,7 @@
         },
         {
           "item_id": "kokudo_K-0468",
-          "item_name": "468",
+          "item_name": "国道468号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4191,7 +4191,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0130",
-          "item_name": "130",
+          "item_name": "国道130号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4199,7 +4199,7 @@
         },
         {
           "item_id": "kokudo_K-0357",
-          "item_name": "357",
+          "item_name": "国道357号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4227,7 +4227,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0131",
-          "item_name": "131",
+          "item_name": "国道131号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4235,7 +4235,7 @@
         },
         {
           "item_id": "kokudo_K-0132",
-          "item_name": "132",
+          "item_name": "国道132号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4263,7 +4263,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0133",
-          "item_name": "133",
+          "item_name": "国道133号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4291,7 +4291,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0134",
-          "item_name": "134",
+          "item_name": "国道134号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4299,7 +4299,7 @@
         },
         {
           "item_id": "kokudo_K-0467",
-          "item_name": "467",
+          "item_name": "国道467号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4314,7 +4314,7 @@
       "longitude": 139.018036,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県賀茂郡河津町見高1266-65",
       "contact": "",
       "business_hours": "",
@@ -4327,7 +4327,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0135",
-          "item_name": "135",
+          "item_name": "国道135号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4342,7 +4342,7 @@
       "longitude": 138.931534,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県田方郡函南町塚本887-1",
       "contact": "",
       "business_hours": "",
@@ -4355,7 +4355,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0136",
-          "item_name": "136",
+          "item_name": "国道136号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4370,7 +4370,7 @@
       "longitude": 138.79512,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "山梨県富士吉田市上吉田2-5-1 富士山駅ビルQ-STA 1F",
       "contact": "",
       "business_hours": "",
@@ -4383,7 +4383,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0137",
-          "item_name": "137",
+          "item_name": "国道137号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4398,7 +4398,7 @@
       "longitude": 138.851822,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県駿東郡小山町須走338-44",
       "contact": "",
       "business_hours": "",
@@ -4411,7 +4411,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0138",
-          "item_name": "138",
+          "item_name": "国道138号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4426,7 +4426,7 @@
       "longitude": 138.940277,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "山梨県北都留郡小菅村3445",
       "contact": "",
       "business_hours": "",
@@ -4439,7 +4439,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0139",
-          "item_name": "139",
+          "item_name": "国道139号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4454,7 +4454,7 @@
       "longitude": 138.781586,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "山梨県山梨市三富川浦1822-20",
       "contact": "",
       "business_hours": "",
@@ -4467,7 +4467,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0140",
-          "item_name": "140",
+          "item_name": "国道140号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4482,7 +4482,7 @@
       "longitude": 138.424896,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "山梨県北杜市高根町長沢760",
       "contact": "",
       "business_hours": "",
@@ -4495,7 +4495,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0141",
-          "item_name": "141",
+          "item_name": "国道141号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4510,7 +4510,7 @@
       "longitude": 138.405258,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "長野県佐久市甲217-1",
       "contact": "",
       "business_hours": "",
@@ -4523,7 +4523,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0142",
-          "item_name": "142",
+          "item_name": "国道142号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4538,7 +4538,7 @@
       "longitude": 138.127975,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "長野県小県郡青木村大字村松26-1",
       "contact": "",
       "business_hours": "",
@@ -4551,7 +4551,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0143",
-          "item_name": "143",
+          "item_name": "国道143号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4579,7 +4579,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0144",
-          "item_name": "144",
+          "item_name": "国道144号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4587,7 +4587,7 @@
         },
         {
           "item_id": "kokudo_K-0406",
-          "item_name": "406",
+          "item_name": "国道406号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4615,7 +4615,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0145",
-          "item_name": "145",
+          "item_name": "国道145号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4643,7 +4643,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0146",
-          "item_name": "146",
+          "item_name": "国道146号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4658,7 +4658,7 @@
       "longitude": 137.854446,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "長野県北安曇郡松川村細野5721-39",
       "contact": "",
       "business_hours": "",
@@ -4671,7 +4671,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0147",
-          "item_name": "147",
+          "item_name": "国道147号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4686,7 +4686,7 @@
       "longitude": 137.838608,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "長野県北安曇郡白馬村北城6350",
       "contact": "",
       "business_hours": "",
@@ -4699,7 +4699,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0148",
-          "item_name": "148",
+          "item_name": "国道148号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4714,7 +4714,7 @@
       "longitude": 138.492599,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県静岡市清水区入船町13-15 エスパルスドリームプラザ本館1F",
       "contact": "",
       "business_hours": "",
@@ -4727,7 +4727,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0149",
-          "item_name": "149",
+          "item_name": "国道149号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4742,7 +4742,7 @@
       "longitude": 137.80397,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県磐田市白羽387-3",
       "contact": "",
       "business_hours": "",
@@ -4755,7 +4755,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0150",
-          "item_name": "150",
+          "item_name": "国道150号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4770,7 +4770,7 @@
       "longitude": 137.679077,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "愛知県北設楽郡豊根村坂宇場字宮ノ平2",
       "contact": "",
       "business_hours": "",
@@ -4783,7 +4783,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0151",
-          "item_name": "151",
+          "item_name": "国道151号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4798,7 +4798,7 @@
       "longitude": 138.077118,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "長野県下伊那郡大鹿村大字大河原390",
       "contact": "",
       "business_hours": "",
@@ -4811,7 +4811,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0152",
-          "item_name": "152",
+          "item_name": "国道152号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4826,7 +4826,7 @@
       "longitude": 137.63028,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "長野県下伊那郡平谷村252",
       "contact": "",
       "business_hours": "",
@@ -4839,7 +4839,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0153",
-          "item_name": "153",
+          "item_name": "国道153号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4854,7 +4854,7 @@
       "longitude": 137.009781,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "愛知県西尾市一色町治明下方18-1",
       "contact": "",
       "business_hours": "",
@@ -4867,7 +4867,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0155",
-          "item_name": "155",
+          "item_name": "国道155号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4882,7 +4882,7 @@
       "longitude": 136.834167,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "岐阜県大野郡白川村平瀬516-62",
       "contact": "",
       "business_hours": "",
@@ -4895,7 +4895,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0156",
-          "item_name": "156",
+          "item_name": "国道156号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4910,7 +4910,7 @@
       "longitude": 136.967865,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "岐阜県高山市荘川町猿丸88-1",
       "contact": "",
       "business_hours": "",
@@ -4923,7 +4923,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0158",
-          "item_name": "158",
+          "item_name": "国道158号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4951,7 +4951,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0159",
-          "item_name": "159",
+          "item_name": "国道159号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4959,7 +4959,7 @@
         },
         {
           "item_id": "kokudo_K-0470",
-          "item_name": "470",
+          "item_name": "国道470号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4987,7 +4987,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0160",
-          "item_name": "160",
+          "item_name": "国道160号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -4995,7 +4995,7 @@
         },
         {
           "item_id": "kokudo_K-0415",
-          "item_name": "415",
+          "item_name": "国道415号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5023,7 +5023,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0161",
-          "item_name": "161",
+          "item_name": "国道161号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5051,7 +5051,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0162",
-          "item_name": "162",
+          "item_name": "国道162号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5059,7 +5059,7 @@
         },
         {
           "item_id": "kokudo_K-0477",
-          "item_name": "477",
+          "item_name": "国道477号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5087,7 +5087,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0163",
-          "item_name": "163",
+          "item_name": "国道163号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5102,7 +5102,7 @@
       "longitude": 136.617462,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "中部",
+      "district": "東海",
       "address": "三重県四日市市安島1-1-20",
       "contact": "",
       "business_hours": "",
@@ -5115,7 +5115,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0164",
-          "item_name": "164",
+          "item_name": "国道164号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5123,7 +5123,7 @@
         },
         {
           "item_id": "kokudo_K-0365",
-          "item_name": "365",
+          "item_name": "国道365号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5151,7 +5151,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0165",
-          "item_name": "165",
+          "item_name": "国道165号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5179,7 +5179,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0166",
-          "item_name": "166",
+          "item_name": "国道166号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5187,7 +5187,7 @@
         },
         {
           "item_id": "kokudo_K-0370",
-          "item_name": "370",
+          "item_name": "国道370号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5202,7 +5202,7 @@
       "longitude": 136.708633,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "中部",
+      "district": "東海",
       "address": "三重県伊勢市宮後1-1-1",
       "contact": "",
       "business_hours": "",
@@ -5215,7 +5215,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0167",
-          "item_name": "167",
+          "item_name": "国道167号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5243,7 +5243,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0168",
-          "item_name": "168",
+          "item_name": "国道168号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5271,7 +5271,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0169",
-          "item_name": "169",
+          "item_name": "国道169号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5279,7 +5279,7 @@
         },
         {
           "item_id": "kokudo_K-0309",
-          "item_name": "309",
+          "item_name": "国道309号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5307,7 +5307,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0170",
-          "item_name": "170",
+          "item_name": "国道170号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5335,7 +5335,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0171",
-          "item_name": "171",
+          "item_name": "国道171号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5363,7 +5363,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0172",
-          "item_name": "172",
+          "item_name": "国道172号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5391,7 +5391,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0173",
-          "item_name": "173",
+          "item_name": "国道173号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5419,7 +5419,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0174",
-          "item_name": "174",
+          "item_name": "国道174号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5427,7 +5427,7 @@
         },
         {
           "item_id": "kokudo_K-0436",
-          "item_name": "436",
+          "item_name": "国道436号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5455,7 +5455,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0175",
-          "item_name": "175",
+          "item_name": "国道175号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5483,7 +5483,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0176",
-          "item_name": "176",
+          "item_name": "国道176号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5491,7 +5491,7 @@
         },
         {
           "item_id": "kokudo_K-0478",
-          "item_name": "478",
+          "item_name": "国道478号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5519,7 +5519,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0178",
-          "item_name": "178",
+          "item_name": "国道178号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5547,7 +5547,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0180",
-          "item_name": "180",
+          "item_name": "国道180号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5575,7 +5575,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0181",
-          "item_name": "181",
+          "item_name": "国道181号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5583,7 +5583,7 @@
         },
         {
           "item_id": "kokudo_K-0183",
-          "item_name": "183",
+          "item_name": "国道183号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5611,7 +5611,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0182",
-          "item_name": "182",
+          "item_name": "国道182号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5639,7 +5639,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0186",
-          "item_name": "186",
+          "item_name": "国道186号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5647,7 +5647,7 @@
         },
         {
           "item_id": "kokudo_K-0434",
-          "item_name": "434",
+          "item_name": "国道434号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5675,7 +5675,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0187",
-          "item_name": "187",
+          "item_name": "国道187号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5703,7 +5703,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0188",
-          "item_name": "188",
+          "item_name": "国道188号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5711,7 +5711,7 @@
         },
         {
           "item_id": "kokudo_K-0189",
-          "item_name": "189",
+          "item_name": "国道189号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5739,7 +5739,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0190",
-          "item_name": "190",
+          "item_name": "国道190号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5747,7 +5747,7 @@
         },
         {
           "item_id": "kokudo_K-0491",
-          "item_name": "491",
+          "item_name": "国道491号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5775,7 +5775,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0191",
-          "item_name": "191",
+          "item_name": "国道191号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5783,7 +5783,7 @@
         },
         {
           "item_id": "kokudo_K-0435",
-          "item_name": "435",
+          "item_name": "国道435号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5811,7 +5811,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0192",
-          "item_name": "192",
+          "item_name": "国道192号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5819,7 +5819,7 @@
         },
         {
           "item_id": "kokudo_K-0438",
-          "item_name": "438",
+          "item_name": "国道438号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5847,7 +5847,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0194",
-          "item_name": "194",
+          "item_name": "国道194号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5875,7 +5875,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0195",
-          "item_name": "195",
+          "item_name": "国道195号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5903,7 +5903,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0196",
-          "item_name": "196",
+          "item_name": "国道196号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5931,7 +5931,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0197",
-          "item_name": "197",
+          "item_name": "国道197号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5939,7 +5939,7 @@
         },
         {
           "item_id": "kokudo_K-0378",
-          "item_name": "378",
+          "item_name": "国道378号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5967,7 +5967,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0198",
-          "item_name": "198",
+          "item_name": "国道198号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -5975,7 +5975,7 @@
         },
         {
           "item_id": "kokudo_K-0199",
-          "item_name": "199",
+          "item_name": "国道199号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6003,7 +6003,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0200",
-          "item_name": "200",
+          "item_name": "国道200号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6031,7 +6031,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0201",
-          "item_name": "201",
+          "item_name": "国道201号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6039,7 +6039,7 @@
         },
         {
           "item_id": "kokudo_K-0322",
-          "item_name": "322",
+          "item_name": "国道322号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6067,7 +6067,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0202",
-          "item_name": "202",
+          "item_name": "国道202号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6095,7 +6095,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0203",
-          "item_name": "203",
+          "item_name": "国道203号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6123,7 +6123,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0204",
-          "item_name": "204",
+          "item_name": "国道204号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6151,7 +6151,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0206",
-          "item_name": "206",
+          "item_name": "国道206号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6179,7 +6179,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0207",
-          "item_name": "207",
+          "item_name": "国道207号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6187,7 +6187,7 @@
         },
         {
           "item_id": "kokudo_K-0444",
-          "item_name": "444",
+          "item_name": "国道444号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6215,7 +6215,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0208",
-          "item_name": "208",
+          "item_name": "国道208号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6243,7 +6243,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0209",
-          "item_name": "209",
+          "item_name": "国道209号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6271,7 +6271,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0210",
-          "item_name": "210",
+          "item_name": "国道210号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6299,7 +6299,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0211",
-          "item_name": "211",
+          "item_name": "国道211号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6327,7 +6327,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0212",
-          "item_name": "212",
+          "item_name": "国道212号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6335,7 +6335,7 @@
         },
         {
           "item_id": "kokudo_K-0500",
-          "item_name": "500",
+          "item_name": "国道500号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6363,7 +6363,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0213",
-          "item_name": "213",
+          "item_name": "国道213号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6391,7 +6391,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0217",
-          "item_name": "217",
+          "item_name": "国道217号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6419,7 +6419,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0218",
-          "item_name": "218",
+          "item_name": "国道218号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6427,7 +6427,7 @@
         },
         {
           "item_id": "kokudo_K-0325",
-          "item_name": "325",
+          "item_name": "国道325号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6455,7 +6455,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0220",
-          "item_name": "220",
+          "item_name": "国道220号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6463,7 +6463,7 @@
         },
         {
           "item_id": "kokudo_K-0224",
-          "item_name": "224",
+          "item_name": "国道224号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6491,7 +6491,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0221",
-          "item_name": "221",
+          "item_name": "国道221号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6519,7 +6519,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0222",
-          "item_name": "222",
+          "item_name": "国道222号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6547,7 +6547,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0223",
-          "item_name": "223",
+          "item_name": "国道223号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6575,7 +6575,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0225",
-          "item_name": "225",
+          "item_name": "国道225号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6603,7 +6603,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0226",
-          "item_name": "226",
+          "item_name": "国道226号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6611,7 +6611,7 @@
         },
         {
           "item_id": "kokudo_K-0269",
-          "item_name": "269",
+          "item_name": "国道269号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6639,7 +6639,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0227",
-          "item_name": "227",
+          "item_name": "国道227号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6667,7 +6667,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0228",
-          "item_name": "228",
+          "item_name": "国道228号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6695,7 +6695,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0229",
-          "item_name": "229",
+          "item_name": "国道229号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6703,7 +6703,7 @@
         },
         {
           "item_id": "kokudo_K-0276",
-          "item_name": "276",
+          "item_name": "国道276号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6731,7 +6731,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0230",
-          "item_name": "230",
+          "item_name": "国道230号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6759,7 +6759,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0231",
-          "item_name": "231",
+          "item_name": "国道231号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6787,7 +6787,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0232",
-          "item_name": "232",
+          "item_name": "国道232号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6815,7 +6815,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0233",
-          "item_name": "233",
+          "item_name": "国道233号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6843,7 +6843,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0234",
-          "item_name": "234",
+          "item_name": "国道234号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6871,7 +6871,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0236",
-          "item_name": "236",
+          "item_name": "国道236号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6899,7 +6899,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0237",
-          "item_name": "237",
+          "item_name": "国道237号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6927,7 +6927,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0238",
-          "item_name": "238",
+          "item_name": "国道238号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6955,7 +6955,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0239",
-          "item_name": "239",
+          "item_name": "国道239号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -6983,7 +6983,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0240",
-          "item_name": "240",
+          "item_name": "国道240号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7011,7 +7011,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0241",
-          "item_name": "241",
+          "item_name": "国道241号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7019,7 +7019,7 @@
         },
         {
           "item_id": "kokudo_K-0391",
-          "item_name": "391",
+          "item_name": "国道391号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7047,7 +7047,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0242",
-          "item_name": "242",
+          "item_name": "国道242号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7055,7 +7055,7 @@
         },
         {
           "item_id": "kokudo_K-0392",
-          "item_name": "392",
+          "item_name": "国道392号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7083,7 +7083,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0243",
-          "item_name": "243",
+          "item_name": "国道243号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7111,7 +7111,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0244",
-          "item_name": "244",
+          "item_name": "国道244号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7126,7 +7126,7 @@
       "longitude": 138.950104,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県駿東郡小山町用沢72-2",
       "contact": "",
       "business_hours": "",
@@ -7139,7 +7139,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0246",
-          "item_name": "246",
+          "item_name": "国道246号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7154,7 +7154,7 @@
       "longitude": 136.904388,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "愛知県知多郡南知多町大字豊浜字坂井9-1",
       "contact": "",
       "business_hours": "",
@@ -7167,7 +7167,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0247",
-          "item_name": "247",
+          "item_name": "国道247号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7182,7 +7182,7 @@
       "longitude": 137.159225,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "愛知県豊田市下市場町5-90-2",
       "contact": "",
       "business_hours": "",
@@ -7195,7 +7195,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0248",
-          "item_name": "248",
+          "item_name": "国道248号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7203,7 +7203,7 @@
         },
         {
           "item_id": "kokudo_K-0419",
-          "item_name": "419",
+          "item_name": "国道419号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7231,7 +7231,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0249",
-          "item_name": "249",
+          "item_name": "国道249号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7259,7 +7259,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0250",
-          "item_name": "250",
+          "item_name": "国道250号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7274,7 +7274,7 @@
       "longitude": 139.06778,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県魚沼市大栃山356-2",
       "contact": "",
       "business_hours": "",
@@ -7287,7 +7287,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0252",
-          "item_name": "252",
+          "item_name": "国道252号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7295,7 +7295,7 @@
         },
         {
           "item_id": "kokudo_K-0290",
-          "item_name": "290",
+          "item_name": "国道290号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7323,7 +7323,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0254",
-          "item_name": "254",
+          "item_name": "国道254号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7351,7 +7351,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0255",
-          "item_name": "255",
+          "item_name": "国道255号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7359,7 +7359,7 @@
         },
         {
           "item_id": "kokudo_K-0271",
-          "item_name": "271",
+          "item_name": "国道271号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7374,7 +7374,7 @@
       "longitude": 137.078812,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "岐阜県高山市清見町大原858-1",
       "contact": "",
       "business_hours": "",
@@ -7387,7 +7387,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0257",
-          "item_name": "257",
+          "item_name": "国道257号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7395,7 +7395,7 @@
         },
         {
           "item_id": "kokudo_K-0472",
-          "item_name": "472",
+          "item_name": "国道472号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7410,7 +7410,7 @@
       "longitude": 136.684219,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "中部",
+      "district": "東海",
       "address": "三重県桑名市寿町2-31-1",
       "contact": "",
       "business_hours": "",
@@ -7423,7 +7423,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0258",
-          "item_name": "258",
+          "item_name": "国道258号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7451,7 +7451,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0262",
-          "item_name": "262",
+          "item_name": "国道262号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7459,7 +7459,7 @@
         },
         {
           "item_id": "kokudo_K-0490",
-          "item_name": "490",
+          "item_name": "国道490号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7487,7 +7487,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0263",
-          "item_name": "263",
+          "item_name": "国道263号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7515,7 +7515,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0264",
-          "item_name": "264",
+          "item_name": "国道264号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7543,7 +7543,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0265",
-          "item_name": "265",
+          "item_name": "国道265号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7571,7 +7571,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0266",
-          "item_name": "266",
+          "item_name": "国道266号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7579,7 +7579,7 @@
         },
         {
           "item_id": "kokudo_K-0324",
-          "item_name": "324",
+          "item_name": "国道324号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7607,7 +7607,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0267",
-          "item_name": "267",
+          "item_name": "国道267号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7615,7 +7615,7 @@
         },
         {
           "item_id": "kokudo_K-0504",
-          "item_name": "504",
+          "item_name": "国道504号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7643,7 +7643,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0270",
-          "item_name": "270",
+          "item_name": "国道270号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7671,7 +7671,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0272",
-          "item_name": "272",
+          "item_name": "国道272号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7699,7 +7699,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0273",
-          "item_name": "273",
+          "item_name": "国道273号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7727,7 +7727,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0274",
-          "item_name": "274",
+          "item_name": "国道274号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7735,7 +7735,7 @@
         },
         {
           "item_id": "kokudo_K-0337",
-          "item_name": "337",
+          "item_name": "国道337号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7763,7 +7763,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0275",
-          "item_name": "275",
+          "item_name": "国道275号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7791,7 +7791,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0277",
-          "item_name": "277",
+          "item_name": "国道277号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7819,7 +7819,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0278",
-          "item_name": "278",
+          "item_name": "国道278号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7847,7 +7847,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0279",
-          "item_name": "279",
+          "item_name": "国道279号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7875,7 +7875,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0282",
-          "item_name": "282",
+          "item_name": "国道282号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7903,7 +7903,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0283",
-          "item_name": "283",
+          "item_name": "国道283号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7931,7 +7931,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0284",
-          "item_name": "284",
+          "item_name": "国道284号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7959,7 +7959,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0285",
-          "item_name": "285",
+          "item_name": "国道285号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -7987,7 +7987,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0286",
-          "item_name": "286",
+          "item_name": "国道286号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8015,7 +8015,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0287",
-          "item_name": "287",
+          "item_name": "国道287号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8043,7 +8043,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0288",
-          "item_name": "288",
+          "item_name": "国道288号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8058,7 +8058,7 @@
       "longitude": 138.933212,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県三条市須頃1-17",
       "contact": "",
       "business_hours": "",
@@ -8071,7 +8071,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0289",
-          "item_name": "289",
+          "item_name": "国道289号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8079,7 +8079,7 @@
         },
         {
           "item_id": "kokudo_K-0403",
-          "item_name": "403",
+          "item_name": "国道403号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8094,7 +8094,7 @@
       "longitude": 138.982422,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県魚沼市吉田1148",
       "contact": "",
       "business_hours": "",
@@ -8107,7 +8107,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0291",
-          "item_name": "291",
+          "item_name": "国道291号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8115,7 +8115,7 @@
         },
         {
           "item_id": "kokudo_K-0352",
-          "item_name": "352",
+          "item_name": "国道352号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8143,7 +8143,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0292",
-          "item_name": "292",
+          "item_name": "国道292号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8171,7 +8171,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0293",
-          "item_name": "293",
+          "item_name": "国道293号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8199,7 +8199,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0295",
-          "item_name": "295",
+          "item_name": "国道295号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8227,7 +8227,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0297",
-          "item_name": "297",
+          "item_name": "国道297号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8235,7 +8235,7 @@
         },
         {
           "item_id": "kokudo_K-0465",
-          "item_name": "465",
+          "item_name": "国道465号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8263,7 +8263,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0298",
-          "item_name": "298",
+          "item_name": "国道298号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8291,7 +8291,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0299",
-          "item_name": "299",
+          "item_name": "国道299号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8299,7 +8299,7 @@
         },
         {
           "item_id": "kokudo_K-0462",
-          "item_name": "462",
+          "item_name": "国道462号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8314,7 +8314,7 @@
       "longitude": 138.414566,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "山梨県北杜市須玉町若神子1436-1",
       "contact": "",
       "business_hours": "",
@@ -8327,7 +8327,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0300",
-          "item_name": "300",
+          "item_name": "国道300号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8342,7 +8342,7 @@
       "longitude": 137.621307,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "愛知県北設楽郡設楽町津具字見出10-1",
       "contact": "",
       "business_hours": "",
@@ -8355,7 +8355,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0301",
-          "item_name": "301",
+          "item_name": "国道301号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8363,7 +8363,7 @@
         },
         {
           "item_id": "kokudo_K-0420",
-          "item_name": "420",
+          "item_name": "国道420号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8378,7 +8378,7 @@
       "longitude": 136.92421,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "愛知県東海市富木島町洞ケ山47-1",
       "contact": "",
       "business_hours": "",
@@ -8391,7 +8391,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0302",
-          "item_name": "302",
+          "item_name": "国道302号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8419,7 +8419,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0303",
-          "item_name": "303",
+          "item_name": "国道303号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8427,7 +8427,7 @@
         },
         {
           "item_id": "kokudo_K-0367",
-          "item_name": "367",
+          "item_name": "国道367号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8455,7 +8455,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0304",
-          "item_name": "304",
+          "item_name": "国道304号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8483,7 +8483,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0305",
-          "item_name": "305",
+          "item_name": "国道305号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8491,7 +8491,7 @@
         },
         {
           "item_id": "kokudo_K-0417",
-          "item_name": "417",
+          "item_name": "国道417号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8506,7 +8506,7 @@
       "longitude": 136.511856,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "中部",
+      "district": "東海",
       "address": "三重県津市羽所町381",
       "contact": "",
       "business_hours": "",
@@ -8519,7 +8519,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0306",
-          "item_name": "306",
+          "item_name": "国道306号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8547,7 +8547,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0307",
-          "item_name": "307",
+          "item_name": "国道307号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8575,7 +8575,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0310",
-          "item_name": "310",
+          "item_name": "国道310号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8603,7 +8603,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0311",
-          "item_name": "311",
+          "item_name": "国道311号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8631,7 +8631,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0312",
-          "item_name": "312",
+          "item_name": "国道312号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8659,7 +8659,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0313",
-          "item_name": "313",
+          "item_name": "国道313号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8687,7 +8687,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0314",
-          "item_name": "314",
+          "item_name": "国道314号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8715,7 +8715,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0317",
-          "item_name": "317",
+          "item_name": "国道317号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8743,7 +8743,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0318",
-          "item_name": "318",
+          "item_name": "国道318号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8751,7 +8751,7 @@
         },
         {
           "item_id": "kokudo_K-0377",
-          "item_name": "377",
+          "item_name": "国道377号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8779,7 +8779,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0319",
-          "item_name": "319",
+          "item_name": "国道319号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8807,7 +8807,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0320",
-          "item_name": "320",
+          "item_name": "国道320号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8835,7 +8835,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0321",
-          "item_name": "321",
+          "item_name": "国道321号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8863,7 +8863,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0323",
-          "item_name": "323",
+          "item_name": "国道323号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8871,7 +8871,7 @@
         },
         {
           "item_id": "kokudo_K-0497",
-          "item_name": "497",
+          "item_name": "国道497号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8899,7 +8899,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0326",
-          "item_name": "326",
+          "item_name": "国道326号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8927,7 +8927,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0327",
-          "item_name": "327",
+          "item_name": "国道327号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8935,7 +8935,7 @@
         },
         {
           "item_id": "kokudo_K-0503",
-          "item_name": "503",
+          "item_name": "国道503号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8963,7 +8963,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0329",
-          "item_name": "329",
+          "item_name": "国道329号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8991,7 +8991,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0330",
-          "item_name": "330",
+          "item_name": "国道330号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -8999,7 +8999,7 @@
         },
         {
           "item_id": "kokudo_K-0332",
-          "item_name": "332",
+          "item_name": "国道332号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9027,7 +9027,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0331",
-          "item_name": "331",
+          "item_name": "国道331号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9035,7 +9035,7 @@
         },
         {
           "item_id": "kokudo_K-0507",
-          "item_name": "507",
+          "item_name": "国道507号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9063,7 +9063,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0333",
-          "item_name": "333",
+          "item_name": "国道333号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9071,7 +9071,7 @@
         },
         {
           "item_id": "kokudo_K-0450",
-          "item_name": "450",
+          "item_name": "国道450号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9099,7 +9099,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0334",
-          "item_name": "334",
+          "item_name": "国道334号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9127,7 +9127,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0335",
-          "item_name": "335",
+          "item_name": "国道335号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9155,7 +9155,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0336",
-          "item_name": "336",
+          "item_name": "国道336号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9183,7 +9183,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0338",
-          "item_name": "338",
+          "item_name": "国道338号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9211,7 +9211,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0339",
-          "item_name": "339",
+          "item_name": "国道339号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9239,7 +9239,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0341",
-          "item_name": "341",
+          "item_name": "国道341号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9267,7 +9267,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0342",
-          "item_name": "342",
+          "item_name": "国道342号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9295,7 +9295,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0343",
-          "item_name": "343",
+          "item_name": "国道343号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9323,7 +9323,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0344",
-          "item_name": "344",
+          "item_name": "国道344号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9338,7 +9338,7 @@
       "longitude": 139.457565,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県村上市桑川891-1",
       "contact": "",
       "business_hours": "",
@@ -9351,7 +9351,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0345",
-          "item_name": "345",
+          "item_name": "国道345号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9379,7 +9379,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0346",
-          "item_name": "346",
+          "item_name": "国道346号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9407,7 +9407,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0347",
-          "item_name": "347",
+          "item_name": "国道347号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9435,7 +9435,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0348",
-          "item_name": "348",
+          "item_name": "国道348号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9463,7 +9463,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0349",
-          "item_name": "349",
+          "item_name": "国道349号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9475,10 +9475,10 @@
       "spot_id": "spot_kokudo_310",
       "name": "佐渡UIターンサポートセンター",
       "latitude": 38.086956,
-      "longitude": 138.433014,
+      "longitude": 138.43301400000001,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県佐渡市両津夷62",
       "contact": "",
       "business_hours": "",
@@ -9491,7 +9491,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0350",
-          "item_name": "350",
+          "item_name": "国道350号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9506,7 +9506,7 @@
       "longitude": 138.806824,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県長岡市喜多町707",
       "contact": "",
       "business_hours": "",
@@ -9519,7 +9519,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0351",
-          "item_name": "351",
+          "item_name": "国道351号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9547,7 +9547,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0353",
-          "item_name": "353",
+          "item_name": "国道353号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9575,7 +9575,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0355",
-          "item_name": "355",
+          "item_name": "国道355号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9590,7 +9590,7 @@
       "longitude": 138.576721,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "山梨県甲府市下向山町1271",
       "contact": "",
       "business_hours": "",
@@ -9603,7 +9603,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0358",
-          "item_name": "358",
+          "item_name": "国道358号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9631,7 +9631,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0359",
-          "item_name": "359",
+          "item_name": "国道359号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9646,7 +9646,7 @@
       "longitude": 136.926086,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "岐阜県大野郡白川村荻町109",
       "contact": "",
       "business_hours": "",
@@ -9659,7 +9659,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0360",
-          "item_name": "360",
+          "item_name": "国道360号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9674,7 +9674,7 @@
       "longitude": 137.656769,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "長野県木曽郡木曽町開田高原末川3906-2",
       "contact": "",
       "business_hours": "",
@@ -9687,7 +9687,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0361",
-          "item_name": "361",
+          "item_name": "国道361号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9702,7 +9702,7 @@
       "longitude": 138.383057,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県静岡市葵区昭和町6-3",
       "contact": "",
       "business_hours": "",
@@ -9715,7 +9715,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0362",
-          "item_name": "362",
+          "item_name": "国道362号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9730,7 +9730,7 @@
       "longitude": 137.040497,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "愛知県尾張旭市東本地ケ原町1-36",
       "contact": "",
       "business_hours": "",
@@ -9743,7 +9743,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0363",
-          "item_name": "363",
+          "item_name": "国道363号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9771,7 +9771,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0364",
-          "item_name": "364",
+          "item_name": "国道364号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9786,7 +9786,7 @@
       "longitude": 136.968231,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "愛知県大府市梶田町4-12",
       "contact": "",
       "business_hours": "",
@@ -9799,7 +9799,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0366",
-          "item_name": "366",
+          "item_name": "国道366号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9827,7 +9827,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0368",
-          "item_name": "368",
+          "item_name": "国道368号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9835,7 +9835,7 @@
         },
         {
           "item_id": "kokudo_K-0369",
-          "item_name": "369",
+          "item_name": "国道369号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9863,7 +9863,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0371",
-          "item_name": "371",
+          "item_name": "国道371号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9871,7 +9871,7 @@
         },
         {
           "item_id": "kokudo_K-0425",
-          "item_name": "425",
+          "item_name": "国道425号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9899,7 +9899,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0372",
-          "item_name": "372",
+          "item_name": "国道372号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9927,7 +9927,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0374",
-          "item_name": "374",
+          "item_name": "国道374号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9955,7 +9955,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0375",
-          "item_name": "375",
+          "item_name": "国道375号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9963,7 +9963,7 @@
         },
         {
           "item_id": "kokudo_K-0486",
-          "item_name": "486",
+          "item_name": "国道486号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9991,7 +9991,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0376",
-          "item_name": "376",
+          "item_name": "国道376号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -9999,7 +9999,7 @@
         },
         {
           "item_id": "kokudo_K-0489",
-          "item_name": "489",
+          "item_name": "国道489号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10027,7 +10027,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0379",
-          "item_name": "379",
+          "item_name": "国道379号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10035,7 +10035,7 @@
         },
         {
           "item_id": "kokudo_K-0380",
-          "item_name": "380",
+          "item_name": "国道380号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10063,7 +10063,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0381",
-          "item_name": "381",
+          "item_name": "国道381号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10091,7 +10091,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0382",
-          "item_name": "382",
+          "item_name": "国道382号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10119,7 +10119,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0383",
-          "item_name": "383",
+          "item_name": "国道383号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10147,7 +10147,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0384",
-          "item_name": "384",
+          "item_name": "国道384号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10175,7 +10175,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0386",
-          "item_name": "386",
+          "item_name": "国道386号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10203,7 +10203,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0387",
-          "item_name": "387",
+          "item_name": "国道387号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10211,7 +10211,7 @@
         },
         {
           "item_id": "kokudo_K-0442",
-          "item_name": "442",
+          "item_name": "国道442号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10239,7 +10239,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0388",
-          "item_name": "388",
+          "item_name": "国道388号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10247,7 +10247,7 @@
         },
         {
           "item_id": "kokudo_K-0446",
-          "item_name": "446",
+          "item_name": "国道446号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10275,7 +10275,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0389",
-          "item_name": "389",
+          "item_name": "国道389号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10303,7 +10303,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0390",
-          "item_name": "390",
+          "item_name": "国道390号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10331,7 +10331,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0393",
-          "item_name": "393",
+          "item_name": "国道393号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10359,7 +10359,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0395",
-          "item_name": "395",
+          "item_name": "国道395号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10387,7 +10387,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0396",
-          "item_name": "396",
+          "item_name": "国道396号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10395,7 +10395,7 @@
         },
         {
           "item_id": "kokudo_K-0456",
-          "item_name": "456",
+          "item_name": "国道456号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10423,7 +10423,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0397",
-          "item_name": "397",
+          "item_name": "国道397号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10451,7 +10451,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0398",
-          "item_name": "398",
+          "item_name": "国道398号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10479,7 +10479,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0399",
-          "item_name": "399",
+          "item_name": "国道399号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10507,7 +10507,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0400",
-          "item_name": "400",
+          "item_name": "国道400号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10515,7 +10515,7 @@
         },
         {
           "item_id": "kokudo_K-0461",
-          "item_name": "461",
+          "item_name": "国道461号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10530,7 +10530,7 @@
       "longitude": 138.964294,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県新潟市西区上新栄町5-1-25",
       "contact": "",
       "business_hours": "",
@@ -10543,7 +10543,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0402",
-          "item_name": "402",
+          "item_name": "国道402号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10558,7 +10558,7 @@
       "longitude": 138.607941,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県十日町市松代3816-1",
       "contact": "",
       "business_hours": "",
@@ -10571,7 +10571,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0404",
-          "item_name": "404",
+          "item_name": "国道404号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10586,7 +10586,7 @@
       "longitude": 138.561462,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "長野県下水内郡栄村大字北信3746-1",
       "contact": "",
       "business_hours": "",
@@ -10599,7 +10599,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0405",
-          "item_name": "405",
+          "item_name": "国道405号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10627,7 +10627,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0407",
-          "item_name": "407",
+          "item_name": "国道407号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10655,7 +10655,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0408",
-          "item_name": "408",
+          "item_name": "国道408号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10683,7 +10683,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0409",
-          "item_name": "409",
+          "item_name": "国道409号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10711,7 +10711,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0410",
-          "item_name": "410",
+          "item_name": "国道410号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10726,7 +10726,7 @@
       "longitude": 138.91777,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "山梨県北都留郡丹波山村2901",
       "contact": "",
       "business_hours": "",
@@ -10739,7 +10739,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0411",
-          "item_name": "411",
+          "item_name": "国道411号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10754,7 +10754,7 @@
       "longitude": 139.033432,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "山梨県南都留郡道志村9745",
       "contact": "",
       "business_hours": "",
@@ -10767,7 +10767,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0413",
-          "item_name": "413",
+          "item_name": "国道413号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10782,7 +10782,7 @@
       "longitude": 138.9207,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県伊豆市湯ケ島892-6",
       "contact": "",
       "business_hours": "",
@@ -10795,7 +10795,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0414",
-          "item_name": "414",
+          "item_name": "国道414号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10823,7 +10823,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0416",
-          "item_name": "416",
+          "item_name": "国道416号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10838,7 +10838,7 @@
       "longitude": 136.976624,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "岐阜県加茂郡富加町羽生2170-1",
       "contact": "",
       "business_hours": "",
@@ -10851,7 +10851,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0418",
-          "item_name": "418",
+          "item_name": "国道418号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10879,7 +10879,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0421",
-          "item_name": "421",
+          "item_name": "国道421号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10907,7 +10907,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0422",
-          "item_name": "422",
+          "item_name": "国道422号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10935,7 +10935,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0423",
-          "item_name": "423",
+          "item_name": "国道423号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10963,7 +10963,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0424",
-          "item_name": "424",
+          "item_name": "国道424号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -10991,7 +10991,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0426",
-          "item_name": "426",
+          "item_name": "国道426号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11019,7 +11019,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0427",
-          "item_name": "427",
+          "item_name": "国道427号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11047,7 +11047,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0428",
-          "item_name": "428",
+          "item_name": "国道428号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11075,7 +11075,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0429",
-          "item_name": "429",
+          "item_name": "国道429号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11083,7 +11083,7 @@
         },
         {
           "item_id": "kokudo_K-0483",
-          "item_name": "483",
+          "item_name": "国道483号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11111,7 +11111,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0430",
-          "item_name": "430",
+          "item_name": "国道430号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11139,7 +11139,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0431",
-          "item_name": "431",
+          "item_name": "国道431号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11167,7 +11167,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0432",
-          "item_name": "432",
+          "item_name": "国道432号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11195,7 +11195,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0433",
-          "item_name": "433",
+          "item_name": "国道433号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11203,7 +11203,7 @@
         },
         {
           "item_id": "kokudo_K-0488",
-          "item_name": "488",
+          "item_name": "国道488号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11231,7 +11231,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0437",
-          "item_name": "437",
+          "item_name": "国道437号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11259,7 +11259,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0439",
-          "item_name": "439",
+          "item_name": "国道439号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11287,7 +11287,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0441",
-          "item_name": "441",
+          "item_name": "国道441号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11315,7 +11315,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0443",
-          "item_name": "443",
+          "item_name": "国道443号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11343,7 +11343,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0445",
-          "item_name": "445",
+          "item_name": "国道445号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11371,7 +11371,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0447",
-          "item_name": "447",
+          "item_name": "国道447号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11399,7 +11399,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0448",
-          "item_name": "448",
+          "item_name": "国道448号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11427,7 +11427,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0449",
-          "item_name": "449",
+          "item_name": "国道449号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11435,7 +11435,7 @@
         },
         {
           "item_id": "kokudo_K-0505",
-          "item_name": "505",
+          "item_name": "国道505号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11463,7 +11463,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0451",
-          "item_name": "451",
+          "item_name": "国道451号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11491,7 +11491,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0453",
-          "item_name": "453",
+          "item_name": "国道453号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11519,7 +11519,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0454",
-          "item_name": "454",
+          "item_name": "国道454号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11547,7 +11547,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0455",
-          "item_name": "455",
+          "item_name": "国道455号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11575,7 +11575,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0457",
-          "item_name": "457",
+          "item_name": "国道457号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11603,7 +11603,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0458",
-          "item_name": "458",
+          "item_name": "国道458号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11631,7 +11631,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0459",
-          "item_name": "459",
+          "item_name": "国道459号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11646,7 +11646,7 @@
       "longitude": 139.218796,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県阿賀野市南安野町2-2",
       "contact": "",
       "business_hours": "",
@@ -11659,7 +11659,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0460",
-          "item_name": "460",
+          "item_name": "国道460号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11687,7 +11687,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0463",
-          "item_name": "463",
+          "item_name": "国道463号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11715,7 +11715,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0464",
-          "item_name": "464",
+          "item_name": "国道464号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11743,7 +11743,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0466",
-          "item_name": "466",
+          "item_name": "国道466号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11758,7 +11758,7 @@
       "longitude": 138.782913,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県裾野市須山1761-1",
       "contact": "",
       "business_hours": "",
@@ -11771,7 +11771,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0469",
-          "item_name": "469",
+          "item_name": "国道469号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11786,7 +11786,7 @@
       "longitude": 137.358017,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "岐阜県高山市上宝町本郷575-1",
       "contact": "",
       "business_hours": "",
@@ -11799,7 +11799,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0471",
-          "item_name": "471",
+          "item_name": "国道471号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11814,7 +11814,7 @@
       "longitude": 137.841003,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "長野県飯田市龍峡町2丁目300",
       "contact": "",
       "business_hours": "",
@@ -11827,7 +11827,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0474",
-          "item_name": "474",
+          "item_name": "国道474号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11842,7 +11842,7 @@
       "longitude": 136.966354,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "岐阜県美濃加茂市加茂野町字伊勢山3582-1",
       "contact": "",
       "business_hours": "",
@@ -11855,7 +11855,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0475",
-          "item_name": "475",
+          "item_name": "国道475号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11883,7 +11883,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0476",
-          "item_name": "476",
+          "item_name": "国道476号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11911,7 +11911,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0479",
-          "item_name": "479",
+          "item_name": "国道479号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11939,7 +11939,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0481",
-          "item_name": "481",
+          "item_name": "国道481号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11967,7 +11967,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0485",
-          "item_name": "485",
+          "item_name": "国道485号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -11995,7 +11995,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0487",
-          "item_name": "487",
+          "item_name": "国道487号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -12023,7 +12023,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0492",
-          "item_name": "492",
+          "item_name": "国道492号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -12051,7 +12051,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0494",
-          "item_name": "494",
+          "item_name": "国道494号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -12079,7 +12079,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0496",
-          "item_name": "496",
+          "item_name": "国道496号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -12107,7 +12107,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0498",
-          "item_name": "498",
+          "item_name": "国道498号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -12135,7 +12135,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0501",
-          "item_name": "501",
+          "item_name": "国道501号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -12163,7 +12163,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0502",
-          "item_name": "502",
+          "item_name": "国道502号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
@@ -12191,7 +12191,7 @@
       "items": [
         {
           "item_id": "kokudo_K-0506",
-          "item_name": "506",
+          "item_name": "国道506号",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
