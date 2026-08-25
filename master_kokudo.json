@@ -1,7 +1,7 @@
 {
   "genre": "kokudo",
-  "version": "20260825.151345",
-  "updated_at": "2026-08-25T06:13:45Z",
+  "version": "20260825.151837",
+  "updated_at": "2026-08-25T06:18:37Z",
   "spots": [
     {
       "spot_id": "spot_kokudo_001",
@@ -15,7 +15,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.sanco-inn.co.jp/kyoto/",
       "image_urls": [
         "assets/images/spots/28-0l.gif"
       ],
@@ -51,7 +51,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://sekidora.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -87,7 +87,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.hakone.or.jp/501",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -115,7 +115,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://kadodooigawa.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -151,7 +151,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.chuo-kanko.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -179,7 +179,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.mihara-kankou.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -215,7 +215,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.nagasawa-garden.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -251,7 +251,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.town.misaki.osaka.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -279,7 +279,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.sej.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -307,7 +307,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.sej.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -343,7 +343,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.sej.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
