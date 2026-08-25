@@ -1,0 +1,2443 @@
+{
+  "genre": "goshouin",
+  "version": "2026.08.1",
+  "updated_at": "2026-08-18T00:00:00Z",
+  "spots": [
+    {
+      "spot_id": "spot_goshouin_001",
+      "name": "JAL PLAZA 1番ゲート店",
+      "latitude": 35.5494,
+      "longitude": 139.7798,
+      "prefecture": "東京都",
+      "region": "東日本",
+      "district": "大田区",
+      "address": "東京都大田区羽田空港",
+      "contact": "03-5757-9086",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-001",
+          "item_name": "羽田空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_002",
+      "name": "JAL PLAZA 3番ゲート店",
+      "latitude": 35.5494,
+      "longitude": 139.7798,
+      "prefecture": "東京都",
+      "region": "東日本",
+      "district": "大田区",
+      "address": "東京都大田区羽田空港",
+      "contact": "03-5757-9087",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-001",
+          "item_name": "羽田空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_003",
+      "name": "JAL PLAZA 7番ゲート店",
+      "latitude": 35.5494,
+      "longitude": 139.7798,
+      "prefecture": "東京都",
+      "region": "東日本",
+      "district": "大田区",
+      "address": "東京都大田区羽田空港",
+      "contact": "03-5757-9495",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-001",
+          "item_name": "羽田空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_004",
+      "name": "JAL PLAZA 9番ゲート店",
+      "latitude": 35.5494,
+      "longitude": 139.7798,
+      "prefecture": "東京都",
+      "region": "東日本",
+      "district": "大田区",
+      "address": "東京都大田区羽田空港",
+      "contact": "03-5757-9490",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-001",
+          "item_name": "羽田空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_005",
+      "name": "JAL PLAZA 14番ゲート店",
+      "latitude": 35.5494,
+      "longitude": 139.7798,
+      "prefecture": "東京都",
+      "region": "東日本",
+      "district": "大田区",
+      "address": "東京都大田区羽田空港",
+      "contact": "03-5757-9335",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-001",
+          "item_name": "羽田空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_006",
+      "name": "JAL PLAZA 15番ゲート店",
+      "latitude": 35.5494,
+      "longitude": 139.7798,
+      "prefecture": "東京都",
+      "region": "東日本",
+      "district": "大田区",
+      "address": "東京都大田区羽田空港",
+      "contact": "03-5757-9439",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-001",
+          "item_name": "羽田空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_007",
+      "name": "JAL PLAZA FLIGHT SHOP",
+      "latitude": 35.5494,
+      "longitude": 139.7798,
+      "prefecture": "東京都",
+      "region": "東日本",
+      "district": "大田区",
+      "address": "東京都大田区羽田空港",
+      "contact": "03-5757-9487",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-001",
+          "item_name": "羽田空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_008",
+      "name": "JAL PLAZA TABITUS+",
+      "latitude": 34.7855,
+      "longitude": 135.4383,
+      "prefecture": "大阪府",
+      "region": "西日本",
+      "district": "豊中市",
+      "address": "大阪府豊中市蛍池西町3-555",
+      "contact": "06-6856-0008",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-002",
+          "item_name": "伊丹空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_009",
+      "name": "JAL PLAZA",
+      "latitude": 34.7855,
+      "longitude": 135.4383,
+      "prefecture": "大阪府",
+      "region": "西日本",
+      "district": "豊中市",
+      "address": "大阪府豊中市蛍池西町3-555",
+      "contact": "06-6856-7400",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-002",
+          "item_name": "伊丹空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_010",
+      "name": "JAL PLAZA 出発ロビー店",
+      "latitude": 33.8272,
+      "longitude": 132.6997,
+      "prefecture": "愛媛県",
+      "region": "西日本",
+      "district": "松山市",
+      "address": "愛媛県松山市南吉田町2731",
+      "contact": "089-972-5630",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-003",
+          "item_name": "松山空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_011",
+      "name": "JAL PLAZA ゲート店",
+      "latitude": 33.8272,
+      "longitude": 132.6997,
+      "prefecture": "愛媛県",
+      "region": "西日本",
+      "district": "松山市",
+      "address": "愛媛県松山市南吉田町2731",
+      "contact": "089-972-5630",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-003",
+          "item_name": "松山空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_012",
+      "name": "JAL PLAZA ロビー店",
+      "latitude": 34.1328,
+      "longitude": 134.6067,
+      "prefecture": "徳島県",
+      "region": "西日本",
+      "district": "板野郡",
+      "address": "徳島県板野郡松茂町豊久字朝日野16-2",
+      "contact": "088-699-4155",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-004",
+          "item_name": "徳島空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_013",
+      "name": "JAL PLAZA ゲート店",
+      "latitude": 34.1328,
+      "longitude": 134.6067,
+      "prefecture": "徳島県",
+      "region": "西日本",
+      "district": "板野郡",
+      "address": "徳島県板野郡松茂町豊久字朝日野16-2",
+      "contact": "088-699-4155",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-004",
+          "item_name": "徳島空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_014",
+      "name": "JAL PLAZA 6番ゲート店",
+      "latitude": 33.5859,
+      "longitude": 130.4506,
+      "prefecture": "福岡県",
+      "region": "西日本",
+      "district": "福岡市",
+      "address": "福岡県福岡市博多区下臼井778-1",
+      "contact": "092-621-8700",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-005",
+          "item_name": "福岡空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_015",
+      "name": "JAL PLAZA 8番ゲート店",
+      "latitude": 33.5859,
+      "longitude": 130.4506,
+      "prefecture": "福岡県",
+      "region": "西日本",
+      "district": "福岡市",
+      "address": "福岡県福岡市博多区下臼井778-1",
+      "contact": "092-622-4693",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-005",
+          "item_name": "福岡空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_016",
+      "name": "JAL PLAZA 9番ゲート店",
+      "latitude": 33.5859,
+      "longitude": 130.4506,
+      "prefecture": "福岡県",
+      "region": "西日本",
+      "district": "福岡市",
+      "address": "福岡県福岡市博多区下臼井778-1",
+      "contact": "092-611-8810",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-005",
+          "item_name": "福岡空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_017",
+      "name": "JAL PLAZA 国際出発ロビー店",
+      "latitude": 33.5859,
+      "longitude": 130.4506,
+      "prefecture": "福岡県",
+      "region": "西日本",
+      "district": "福岡市",
+      "address": "福岡県福岡市博多区下臼井778-1",
+      "contact": "092-411-1011",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-005",
+          "item_name": "福岡空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_018",
+      "name": "JAL PLAZA 出発ロビー1号店",
+      "latitude": 26.1958,
+      "longitude": 127.6458,
+      "prefecture": "沖縄県",
+      "region": "西日本",
+      "district": "那覇市",
+      "address": "沖縄県那覇市鏡水150",
+      "contact": "098-857-6872",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-006",
+          "item_name": "那覇空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_019",
+      "name": "JAL PLAZA 22番ゲート店",
+      "latitude": 26.1958,
+      "longitude": 127.6458,
+      "prefecture": "沖縄県",
+      "region": "西日本",
+      "district": "那覇市",
+      "address": "沖縄県那覇市鏡水150",
+      "contact": "098-858-0261",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-006",
+          "item_name": "那覇空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_020",
+      "name": "JAL PLAZA 出発ロビー店",
+      "latitude": 42.7753,
+      "longitude": 141.6923,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "千歳市",
+      "address": "北海道千歳市美々",
+      "contact": "0123-46-2461",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-007",
+          "item_name": "新千歳空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_021",
+      "name": "JAL PLAZA 中央ゲート店",
+      "latitude": 42.7753,
+      "longitude": 141.6923,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "千歳市",
+      "address": "北海道千歳市美々",
+      "contact": "0123-46-2455",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-007",
+          "item_name": "新千歳空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_022",
+      "name": "JAL PLAZA 中央ゲート店",
+      "latitude": 34.8583,
+      "longitude": 136.8053,
+      "prefecture": "愛知県",
+      "region": "東日本",
+      "district": "常滑市",
+      "address": "愛知県常滑市セントレア1-1",
+      "contact": "0569-38-7062",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-008",
+          "item_name": "中部国際空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_023",
+      "name": "JAL PLAZA 6番ゲート店",
+      "latitude": 34.8583,
+      "longitude": 136.8053,
+      "prefecture": "愛知県",
+      "region": "東日本",
+      "district": "常滑市",
+      "address": "愛知県常滑市セントレア1-1",
+      "contact": "0569-38-7068",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-008",
+          "item_name": "中部国際空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_024",
+      "name": "skyJロビー店",
+      "latitude": 34.2142,
+      "longitude": 134.0156,
+      "prefecture": "香川県",
+      "region": "西日本",
+      "district": "高松市",
+      "address": "香川県高松市香南町岡1312-7",
+      "contact": "087-814-3419",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-009",
+          "item_name": "高松空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_025",
+      "name": "skyJゲート店",
+      "latitude": 34.2142,
+      "longitude": 134.0156,
+      "prefecture": "香川県",
+      "region": "西日本",
+      "district": "高松市",
+      "address": "香川県高松市香南町岡1312-7",
+      "contact": "087-815-8377",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-009",
+          "item_name": "高松空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_026",
+      "name": "ビッグサン",
+      "latitude": 33.5461,
+      "longitude": 133.6694,
+      "prefecture": "高知県",
+      "region": "西日本",
+      "district": "南国市",
+      "address": "高知県南国市久枝乙58",
+      "contact": "088-863-2907",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-010",
+          "item_name": "高知空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_027",
+      "name": "アカシア",
+      "latitude": 37.9558,
+      "longitude": 139.1206,
+      "prefecture": "新潟県",
+      "region": "東日本",
+      "district": "新潟市",
+      "address": "新潟県新潟市東区松浜町3710",
+      "contact": "025-275-2638",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-011",
+          "item_name": "新潟空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_028",
+      "name": "JAL PLAZA 出発ロビー店",
+      "latitude": 41.77,
+      "longitude": 140.8222,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "函館市",
+      "address": "北海道函館市高松町511",
+      "contact": "0138-59-3131",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-012",
+          "item_name": "函館空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_029",
+      "name": "JAL PLAZA 出発ロビー店",
+      "latitude": 43.0411,
+      "longitude": 144.1931,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "釧路市",
+      "address": "北海道釧路市鶴丘2",
+      "contact": "0154-57-5274",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-013",
+          "item_name": "釧路空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_030",
+      "name": "JAL PLAZA ゲート店",
+      "latitude": 43.0411,
+      "longitude": 144.1931,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "釧路市",
+      "address": "北海道釧路市鶴丘2",
+      "contact": "0154-57-5274",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-013",
+          "item_name": "釧路空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_031",
+      "name": "JAL PLAZA 出発ロビー店",
+      "latitude": 43.6708,
+      "longitude": 142.4475,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "東神楽町",
+      "address": "北海道上川郡東神楽町東2線16号98",
+      "contact": "0166-83-3659",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-014",
+          "item_name": "旭川空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_032",
+      "name": "JAL PLAZA ゲート店",
+      "latitude": 43.6708,
+      "longitude": 142.4475,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "東神楽町",
+      "address": "北海道上川郡東神楽町東2線16号98",
+      "contact": "0166-83-3659",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-014",
+          "item_name": "旭川空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_033",
+      "name": "JAL PLAZA 出発ロビー店",
+      "latitude": 42.7333,
+      "longitude": 143.2172,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "帯広市",
+      "address": "北海道帯広市泉町西9線中8-41",
+      "contact": "0155-64-5676",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-015",
+          "item_name": "帯広空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_034",
+      "name": "JAL PLAZA とかち野マルシェ店",
+      "latitude": 42.7333,
+      "longitude": 143.2172,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "帯広市",
+      "address": "北海道帯広市泉町西9線中8-41",
+      "contact": "0155-64-5676",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-015",
+          "item_name": "帯広空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_035",
+      "name": "JAL PLAZA 出発ロビー店",
+      "latitude": 43.8808,
+      "longitude": 144.1644,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "網走郡",
+      "address": "北海道網走郡大空町女満別中央201-3",
+      "contact": "0152-74-3516",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-016",
+          "item_name": "女満別空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_036",
+      "name": "JAL PLAZA ゲート店",
+      "latitude": 43.8808,
+      "longitude": 144.1644,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "網走郡",
+      "address": "北海道網走郡大空町女満別中央201-3",
+      "contact": "0152-74-3516",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-016",
+          "item_name": "女満別空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_037",
+      "name": "JAL PLAZA 出発ロビー店",
+      "latitude": 40.7347,
+      "longitude": 140.6906,
+      "prefecture": "青森県",
+      "region": "東日本",
+      "district": "青森市",
+      "address": "青森県青森市大谷小谷1-5",
+      "contact": "017-739-9809",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-017",
+          "item_name": "青森空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_038",
+      "name": "JAL PLAZA ゲート店",
+      "latitude": 40.7347,
+      "longitude": 140.6906,
+      "prefecture": "青森県",
+      "region": "東日本",
+      "district": "青森市",
+      "address": "青森県青森市大谷小谷1-5",
+      "contact": "017-739-9809",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-017",
+          "item_name": "青森空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_039",
+      "name": "JAL PLAZA おみやげプラザ",
+      "latitude": 35.7653,
+      "longitude": 140.3856,
+      "prefecture": "千葉県",
+      "region": "東日本",
+      "district": "成田市",
+      "address": "千葉県成田市古込1-1",
+      "contact": "0476-34-6205",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-018",
+          "item_name": "成田空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_040",
+      "name": "JAL PLAZA 63番ゲート店",
+      "latitude": 35.7653,
+      "longitude": 140.3856,
+      "prefecture": "千葉県",
+      "region": "東日本",
+      "district": "成田市",
+      "address": "千葉県成田市古込1-1",
+      "contact": "0476-34-6210",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-018",
+          "item_name": "成田空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_041",
+      "name": "JAL PLAZA 74番ゲート店",
+      "latitude": 35.7653,
+      "longitude": 140.3856,
+      "prefecture": "千葉県",
+      "region": "東日本",
+      "district": "成田市",
+      "address": "千葉県成田市古込1-1",
+      "contact": "0476-34-6212",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-018",
+          "item_name": "成田空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_042",
+      "name": "JAL PLAZA 82番ゲート店",
+      "latitude": 35.7653,
+      "longitude": 140.3856,
+      "prefecture": "千葉県",
+      "region": "東日本",
+      "district": "成田市",
+      "address": "千葉県成田市古込1-1",
+      "contact": "0476-34-6128",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-018",
+          "item_name": "成田空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_043",
+      "name": "JAL PLAZA 92番ゲート店",
+      "latitude": 35.7653,
+      "longitude": 140.3856,
+      "prefecture": "千葉県",
+      "region": "東日本",
+      "district": "成田市",
+      "address": "千葉県成田市古込1-1",
+      "contact": "0476-34-6217",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-018",
+          "item_name": "成田空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_044",
+      "name": "JAL PLAZA 出発ロビー店",
+      "latitude": 35.4136,
+      "longitude": 132.89,
+      "prefecture": "島根県",
+      "region": "西日本",
+      "district": "出雲市",
+      "address": "島根県出雲市斐川町沖洲2633-1",
+      "contact": "0853-72-6979",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-019",
+          "item_name": "出雲空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_045",
+      "name": "JAL PLAZA ゲート店",
+      "latitude": 35.4136,
+      "longitude": 132.89,
+      "prefecture": "島根県",
+      "region": "西日本",
+      "district": "出雲市",
+      "address": "島根県出雲市斐川町沖洲2633-1",
+      "contact": "0853-72-6979",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-019",
+          "item_name": "出雲空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_046",
+      "name": "JAL PLAZA ゲート店",
+      "latitude": 34.4361,
+      "longitude": 132.9194,
+      "prefecture": "広島県",
+      "region": "西日本",
+      "district": "三原市",
+      "address": "広島県三原市本郷町善入寺64-31",
+      "contact": "0848-86-8620",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-020",
+          "item_name": "広島空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_047",
+      "name": "JAL PLAZA 出発ロビー店",
+      "latitude": 33.8456,
+      "longitude": 131.0347,
+      "prefecture": "福岡県",
+      "region": "西日本",
+      "district": "北九州市",
+      "address": "福岡県北九州市小倉南区空港北町6",
+      "contact": "093-474-3811",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-021",
+          "item_name": "北九州空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_048",
+      "name": "JAL PLAZA 出発ロビー店",
+      "latitude": 31.8772,
+      "longitude": 131.4486,
+      "prefecture": "宮崎県",
+      "region": "西日本",
+      "district": "宮崎市",
+      "address": "宮崎県宮崎市大字赤江",
+      "contact": "0985-52-1136",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-022",
+          "item_name": "宮崎空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_049",
+      "name": "JAL PLAZA ゲート店",
+      "latitude": 33.4794,
+      "longitude": 131.7375,
+      "prefecture": "大分県",
+      "region": "西日本",
+      "district": "国東市",
+      "address": "大分県国東市安岐町下原13",
+      "contact": "0978-66-7351",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-023",
+          "item_name": "大分空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_050",
+      "name": "JAL PLAZA 出発ロビー 1号店",
+      "latitude": 31.8033,
+      "longitude": 130.7194,
+      "prefecture": "鹿児島県",
+      "region": "西日本",
+      "district": "霧島市",
+      "address": "鹿児島県霧島市溝辺町麓822",
+      "contact": "0995-58-2737",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-024",
+          "item_name": "鹿児島空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_051",
+      "name": "JAL PLAZA 出発ロビー 2号店",
+      "latitude": 31.8033,
+      "longitude": 130.7194,
+      "prefecture": "鹿児島県",
+      "region": "西日本",
+      "district": "霧島市",
+      "address": "鹿児島県霧島市溝辺町麓822",
+      "contact": "0995-58-4636",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-024",
+          "item_name": "鹿児島空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_052",
+      "name": "JAL PLAZA ゲート店",
+      "latitude": 32.9169,
+      "longitude": 129.9136,
+      "prefecture": "長崎県",
+      "region": "西日本",
+      "district": "大村市",
+      "address": "長崎県大村市箕島町593",
+      "contact": "0957-20-7166",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-025",
+          "item_name": "長崎空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_053",
+      "name": "JAL PLAZA ゲート店",
+      "latitude": 32.8372,
+      "longitude": 130.8547,
+      "prefecture": "熊本県",
+      "region": "西日本",
+      "district": "上益城郡",
+      "address": "熊本県上益城郡益城町大字小谷1802-2",
+      "contact": "096-232-5069",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-026",
+          "item_name": "熊本空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_054",
+      "name": "スカイショップ丘珠",
+      "latitude": 43.1161,
+      "longitude": 141.38,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "札幌市",
+      "address": "北海道札幌市東区丘珠町",
+      "contact": "011-785-5411",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-027",
+          "item_name": "札幌丘珠空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_055",
+      "name": "スカイマートビードル",
+      "latitude": 40.7033,
+      "longitude": 141.3683,
+      "prefecture": "青森県",
+      "region": "東日本",
+      "district": "三沢市",
+      "address": "青森県三沢市三沢下平",
+      "contact": "0176-51-1460",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-028",
+          "item_name": "三沢空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_056",
+      "name": "総合売店 萩",
+      "latitude": 38.1397,
+      "longitude": 140.9169,
+      "prefecture": "宮城県",
+      "region": "東日本",
+      "district": "名取市",
+      "address": "宮城県名取市下増田南原",
+      "contact": "022-383-6205",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-029",
+          "item_name": "仙台空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_057",
+      "name": "SKY SHOP BOOMERANG",
+      "latitude": 38.1397,
+      "longitude": 140.9169,
+      "prefecture": "宮城県",
+      "region": "東日本",
+      "district": "名取市",
+      "address": "宮城県名取市下増田南原",
+      "contact": "022-383-6205",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-029",
+          "item_name": "仙台空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_058",
+      "name": "こまQショップ１F売店",
+      "latitude": 36.3947,
+      "longitude": 136.4075,
+      "prefecture": "石川県",
+      "region": "東日本",
+      "district": "小松市",
+      "address": "石川県小松市浮柳町ヨ50",
+      "contact": "0761-23-6122",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-030",
+          "item_name": "小松空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_059",
+      "name": "hana AIRPORT SHOP＆CAF?(1Ｆ)",
+      "latitude": 39.4308,
+      "longitude": 141.1358,
+      "prefecture": "岩手県",
+      "region": "東日本",
+      "district": "花巻市",
+      "address": "岩手県花巻市東宮野目第2地割53",
+      "contact": "0198-26-5011",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-031",
+          "item_name": "花巻空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_060",
+      "name": "ヤマザキショップ山形空港店",
+      "latitude": 38.4119,
+      "longitude": 140.3714,
+      "prefecture": "山形県",
+      "region": "東日本",
+      "district": "東根市",
+      "address": "山形県東根市大字羽入字柏原新林3008",
+      "contact": "0237-53-1145",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-032",
+          "item_name": "山形空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_061",
+      "name": "空港売店 あ・えーる(2F)",
+      "latitude": 39.6156,
+      "longitude": 140.2186,
+      "prefecture": "秋田県",
+      "region": "東日本",
+      "district": "秋田市",
+      "address": "秋田県秋田市雄和椿川字山籠49",
+      "contact": "018-886-3367",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-033",
+          "item_name": "秋田空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_062",
+      "name": "プレミアムショップ(Yショップ)",
+      "latitude": 33.93,
+      "longitude": 131.2783,
+      "prefecture": "山口県",
+      "region": "西日本",
+      "district": "宇部市",
+      "address": "山口県宇部市沖宇部625",
+      "contact": "0836-32-7525",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-034",
+          "item_name": "山口宇部空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_063",
+      "name": "岡山特産館桃太郎館",
+      "latitude": 34.7578,
+      "longitude": 133.8553,
+      "prefecture": "岡山県",
+      "region": "西日本",
+      "district": "岡山市",
+      "address": "岡山県岡山市北区日応寺1277",
+      "contact": "086-294-5606",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-035",
+          "item_name": "岡山空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_064",
+      "name": "喫茶(売店)リラテック",
+      "latitude": 35.5136,
+      "longitude": 134.7869,
+      "prefecture": "兵庫県",
+      "region": "西日本",
+      "district": "豊岡市",
+      "address": "兵庫県豊岡市岩井字河谷1598-34",
+      "contact": "0796-26-1528",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-036",
+          "item_name": "但馬空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_065",
+      "name": "関西旅日記（国内線ターミナル）",
+      "latitude": 34.4347,
+      "longitude": 135.2442,
+      "prefecture": "大阪府",
+      "region": "西日本",
+      "district": "泉佐野市",
+      "address": "大阪府泉佐野市泉州空港北1",
+      "contact": "072-455-4195",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-037",
+          "item_name": "関西国際空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_066",
+      "name": "スカイショップタウン (展望ホール4F)",
+      "latitude": 34.4347,
+      "longitude": 135.2442,
+      "prefecture": "大阪府",
+      "region": "西日本",
+      "district": "泉佐野市",
+      "address": "大阪府泉佐野市泉州空港北1",
+      "contact": "072-455-2089",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-037",
+          "item_name": "関西国際空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_067",
+      "name": "空港内売店",
+      "latitude": 33.6622,
+      "longitude": 135.3622,
+      "prefecture": "和歌山県",
+      "region": "西日本",
+      "district": "西牟婁郡",
+      "address": "和歌山県西牟婁郡白浜町2926",
+      "contact": "0739-43-0095",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-038",
+          "item_name": "南紀白浜空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_068",
+      "name": "利尻空港 1階 自動販売機",
+      "latitude": 45.2422,
+      "longitude": 141.1861,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "利尻郡",
+      "address": "北海道利尻郡利尻富士町鴛泊本泊1143",
+      "contact": "050-1808-3855",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-039",
+          "item_name": "利尻空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_069",
+      "name": "辻 売店（奥尻港フェリーターミナル）",
+      "latitude": 42.0719,
+      "longitude": 139.4328,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "奥尻郡",
+      "address": "北海道奥尻郡奥尻町米岡185-3",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "01397-2-3237",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-040",
+          "item_name": "奥尻空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_070",
+      "name": "隠岐空港売店",
+      "latitude": 36.1811,
+      "longitude": 133.3253,
+      "prefecture": "島根県",
+      "region": "西日本",
+      "district": "隠岐郡",
+      "address": "島根県隠岐郡隠岐の島町岬町3560",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "08512-2-1457",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-041",
+          "item_name": "隠岐空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_071",
+      "name": "JAL PLAZA 出発ロビー店",
+      "latitude": 28.4306,
+      "longitude": 129.7125,
+      "prefecture": "鹿児島県",
+      "region": "西日本",
+      "district": "奄美市",
+      "address": "鹿児島県奄美市笠利町大字和野字長濱金久374-4",
+      "contact": "0997-63-2541",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-042",
+          "item_name": "奄美空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_072",
+      "name": "SKYSHOP銀河",
+      "latitude": 30.6083,
+      "longitude": 130.9572,
+      "prefecture": "鹿児島県",
+      "region": "西日本",
+      "district": "中種子町",
+      "address": "鹿児島県熊毛郡中種子町増田2675-58",
+      "contact": "0997-27-5678",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-043",
+          "item_name": "種子島空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_073",
+      "name": "屋久島空港 売店",
+      "latitude": 30.3853,
+      "longitude": 130.6586,
+      "prefecture": "鹿児島県",
+      "region": "西日本",
+      "district": "屋久島町",
+      "address": "鹿児島県熊毛郡屋久島町小瀬田501",
+      "contact": "0997-42-0091",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-044",
+          "item_name": "屋久島空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_074",
+      "name": "徳之島エアポートお土産センター",
+      "latitude": 27.8364,
+      "longitude": 128.8814,
+      "prefecture": "鹿児島県",
+      "region": "西日本",
+      "district": "天城町",
+      "address": "鹿児島県大島郡天城町浅間1",
+      "contact": "0997-85-3164",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-045",
+          "item_name": "徳之島空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_075",
+      "name": "与論空港売店",
+      "latitude": 27.0439,
+      "longitude": 128.4017,
+      "prefecture": "鹿児島県",
+      "region": "西日本",
+      "district": "与論町",
+      "address": "鹿児島県大島郡与論町立長358-1",
+      "contact": "0997-97-2961",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-046",
+          "item_name": "与論空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_076",
+      "name": "空港売店ますだ",
+      "latitude": 28.3192,
+      "longitude": 129.9281,
+      "prefecture": "鹿児島県",
+      "region": "西日本",
+      "district": "喜界町",
+      "address": "鹿児島県大島郡喜界町中里",
+      "contact": "0997-65-4388",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-047",
+          "item_name": "喜界空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_077",
+      "name": "シーワールドカフェショップ",
+      "latitude": 27.4322,
+      "longitude": 128.7058,
+      "prefecture": "鹿児島県",
+      "region": "西日本",
+      "district": "和泊町",
+      "address": "鹿児島県大島郡和泊町国頭字後利1732-1",
+      "contact": "0997-92-6002",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-048",
+          "item_name": "沖永良部空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_078",
+      "name": "Coralway石垣空港売店",
+      "latitude": 24.3964,
+      "longitude": 124.245,
+      "prefecture": "沖縄県",
+      "region": "西日本",
+      "district": "石垣市",
+      "address": "沖縄県石垣市字白保1960-104-1",
+      "contact": "0980-87-0158",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-049",
+          "item_name": "石垣空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_079",
+      "name": "与那国町漁協 空港売店",
+      "latitude": 24.4667,
+      "longitude": 122.9781,
+      "prefecture": "沖縄県",
+      "region": "西日本",
+      "district": "与那国町",
+      "address": "沖縄県八重山郡与那国町与那国4350",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "0980-87-2289、0980-87-2803",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-050",
+          "item_name": "与那国空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_080",
+      "name": "久米島印商店久米島空港店",
+      "latitude": 26.3639,
+      "longitude": 126.7139,
+      "prefecture": "沖縄県",
+      "region": "西日本",
+      "district": "久米島町",
+      "address": "沖縄県島尻郡久米島町字北原566-2",
+      "contact": "098-985-4890",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-051",
+          "item_name": "久米島空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_081",
+      "name": "南大東空港 売店",
+      "latitude": 25.845,
+      "longitude": 131.2619,
+      "prefecture": "沖縄県",
+      "region": "西日本",
+      "district": "島尻郡",
+      "address": "沖縄県島尻郡南大東村字在44",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "09802-2-2665",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-052",
+          "item_name": "南大東空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_082",
+      "name": "ハマユウ荘（北大東島宿泊施設）",
+      "latitude": 25.9458,
+      "longitude": 131.3328,
+      "prefecture": "沖縄県",
+      "region": "西日本",
+      "district": "島尻郡",
+      "address": "沖縄県島尻郡北大東村字中野214",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "09802-3-4880",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-053",
+          "item_name": "北大東空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_083",
+      "name": "大東ラグーン",
+      "latitude": 25.9458,
+      "longitude": 131.3328,
+      "prefecture": "沖縄県",
+      "region": "西日本",
+      "district": "島尻郡",
+      "address": "沖縄県島尻郡北大東村字中野214",
+      "contact": "098-023-4350",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-053",
+          "item_name": "北大東空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_084",
+      "name": "多良間空港 売店",
+      "latitude": 24.6536,
+      "longitude": 124.6756,
+      "prefecture": "沖縄県",
+      "region": "西日本",
+      "district": "多良間村",
+      "address": "沖縄県宮古郡多良間村字塩川2381-4",
+      "contact": "0980-79-2028",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-054",
+          "item_name": "多良間空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_085",
+      "name": "宮古空港売店 ぐりーんりーふ",
+      "latitude": 24.7828,
+      "longitude": 125.2953,
+      "prefecture": "沖縄県",
+      "region": "西日本",
+      "district": "宮古島市",
+      "address": "沖縄県宮古島市平良字下里1657-128",
+      "contact": "0980-72-7521",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-055",
+          "item_name": "宮古空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_086",
+      "name": "てぃだ待茶屋",
+      "latitude": 24.7828,
+      "longitude": 125.2953,
+      "prefecture": "沖縄県",
+      "region": "西日本",
+      "district": "宮古島市",
+      "address": "沖縄県宮古島市平良字下里1657-128",
+      "contact": "0980-73-1004",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-055",
+          "item_name": "宮古空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_goshouin_087",
+      "name": "中標津空港案内所（1階 到着ロビー）",
+      "latitude": 43.5775,
+      "longitude": 144.9606,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "標津郡",
+      "address": "北海道標津郡中標津町北中25-25",
+      "contact": "0153-73-5651",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "goshouin_H-056",
+          "item_name": "根室中標津空港",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    }
+  ]
+}

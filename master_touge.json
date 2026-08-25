@@ -1,0 +1,3591 @@
+{
+  "genre": "touge",
+  "version": "2026.08.1",
+  "updated_at": "2026-08-18T00:00:00Z",
+  "spots": [
+    {
+      "spot_id": "spot_touge_001",
+      "name": "寒風山回転展望台",
+      "latitude": 39.935013,
+      "longitude": 139.881607,
+      "prefecture": "秋田県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "秋田県男鹿市脇本富永字寒風山62-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0001",
+          "item_name": "寒風山パノラマライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_002",
+      "name": "道の駅 象潟ねむの丘",
+      "latitude": 39.219864,
+      "longitude": 139.89949,
+      "prefecture": "秋田県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "秋田県にかほ市象潟町字大塩越73-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0002",
+          "item_name": "鳥海グリーンライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0003",
+          "item_name": "鳥海ブルーライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_003",
+      "name": "神田家",
+      "latitude": 36.212223,
+      "longitude": 140.101395,
+      "prefecture": "茨城県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "茨城県つくば市筑波722",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0004",
+          "item_name": "筑波パープルライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_004",
+      "name": "つつじヶ丘レストハウス",
+      "latitude": 36.220688,
+      "longitude": 140.105164,
+      "prefecture": "茨城県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "茨城県つくば市筑波1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0005",
+          "item_name": "筑波フルーツライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0006",
+          "item_name": "筑波山",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_005",
+      "name": "道の駅 高田松原",
+      "latitude": 39.007076,
+      "longitude": 141.626099,
+      "prefecture": "岩手県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "岩手県陸前高田市気仙町土手影180",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0007",
+          "item_name": "笹ノ田峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_006",
+      "name": "おおふなぽーと",
+      "latitude": 39.062122,
+      "longitude": 141.721542,
+      "prefecture": "岩手県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "大船渡市大船渡町字茶屋前7-6",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0008",
+          "item_name": "通岡峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_007",
+      "name": "バイクの駅 大船渡",
+      "latitude": 39.063583,
+      "longitude": 141.718399,
+      "prefecture": "岩手県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "岩手県大船渡市大船渡町茶屋前158",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0008",
+          "item_name": "通岡峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_008",
+      "name": "碁石海岸レストハウス",
+      "latitude": 38.992203,
+      "longitude": 141.73822,
+      "prefecture": "岩手県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "岩手県大船渡市末崎町字大浜221-68",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0008",
+          "item_name": "通岡峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_009",
+      "name": "松尾八幡平ビジターセンター",
+      "latitude": 39.920555,
+      "longitude": 140.978821,
+      "prefecture": "岩手県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "岩手県八幡平市柏台1丁目28番地",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0009",
+          "item_name": "八幡平アスピーテライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_010",
+      "name": "八幡平山頂レストハウス",
+      "latitude": 39.766937,
+      "longitude": 140.694214,
+      "prefecture": "秋田県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "秋田県仙北市田沢湖田沢字大深沢国有林3016林班ト小班外",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0009",
+          "item_name": "八幡平アスピーテライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_011",
+      "name": "アネスト岩田スカイラウンジ　2階ティーラウンジ",
+      "latitude": 35.170765,
+      "longitude": 139.075562,
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "神奈川県足柄下郡湯河原町鍛冶屋955",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0010",
+          "item_name": "アネスト岩田ターンパイク箱根",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0018",
+          "item_name": "箱根ターンパイク",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_012",
+      "name": "道の駅 足柄・金太郎のふるさと",
+      "latitude": 35.326054,
+      "longitude": 139.1185,
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "神奈川県南足柄市竹松1117番地1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0011",
+          "item_name": "はこね金太郎ライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0015",
+          "item_name": "足柄峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_013",
+      "name": "手打ちそば 石庄庵",
+      "latitude": 35.402809,
+      "longitude": 139.238037,
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "神奈川県秦野市寺山1580",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0012",
+          "item_name": "ヤビツ峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0019",
+          "item_name": "裏ヤビツ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_014",
+      "name": "恵山亭",
+      "latitude": 35.500069,
+      "longitude": 139.214569,
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "神奈川県愛甲郡清川村宮ヶ瀬940-37",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0013",
+          "item_name": "宮ヶ瀬",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0019",
+          "item_name": "裏ヤビツ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_015",
+      "name": "道の駅 清川",
+      "latitude": 35.484276,
+      "longitude": 139.262299,
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "神奈川県愛甲郡清川村煤ヶ谷2129",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0013",
+          "item_name": "宮ヶ瀬",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_016",
+      "name": "茶屋本陣　畔屋（ほとりや）",
+      "latitude": 35.192562,
+      "longitude": 139.026779,
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "神奈川県足柄下郡箱根町箱根161-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0014",
+          "item_name": "七曲り",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0016",
+          "item_name": "長尾峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0017",
+          "item_name": "椿ライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0036",
+          "item_name": "乙女峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_017",
+      "name": "鎌原ドライブイン",
+      "latitude": 36.467445,
+      "longitude": 138.558395,
+      "prefecture": "群馬県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "群馬県吾妻郡嬬恋村鎌原1007",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0020",
+          "item_name": "つまごいパノラマライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_018",
+      "name": "嬬恋村観光案内所",
+      "latitude": 36.467445,
+      "longitude": 138.558395,
+      "prefecture": "群馬県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "群馬県吾妻郡嬬恋村鎌原710-136",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0020",
+          "item_name": "つまごいパノラマライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_019",
+      "name": "元祖ちからもち しげのや",
+      "latitude": 36.368824,
+      "longitude": 138.656387,
+      "prefecture": "長野県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "長野県北佐久郡軽井沢町峠町碓氷峠2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0021",
+          "item_name": "碓氷峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_020",
+      "name": "道の駅 尾瀬かたしな",
+      "latitude": 36.775787,
+      "longitude": 139.231995,
+      "prefecture": "群馬県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "群馬県利根郡片品村鎌田3967-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0022",
+          "item_name": "金精峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_021",
+      "name": "レーシングカフェ D’zGARAGE",
+      "latitude": 36.503117,
+      "longitude": 138.963196,
+      "prefecture": "群馬県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "群馬県渋川市渋川 3715-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0023",
+          "item_name": "秋名山",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0024",
+          "item_name": "榛名山",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_022",
+      "name": "伊香保おもちゃと人形自動車博物館（館内売店）",
+      "latitude": 36.461811,
+      "longitude": 138.971695,
+      "prefecture": "群馬県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "群馬県北群馬郡吉岡町上野田 2145",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0023",
+          "item_name": "秋名山",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_023",
+      "name": "伊香保温泉 さくらい旅館",
+      "latitude": 36.502747,
+      "longitude": 138.922302,
+      "prefecture": "群馬県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "群馬県渋川市伊香保町伊香保210-2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0023",
+          "item_name": "秋名山",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0024",
+          "item_name": "榛名山",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_024",
+      "name": "大蔵坊こばやし",
+      "latitude": 36.470348,
+      "longitude": 138.86142,
+      "prefecture": "群馬県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "群馬県高崎市榛名湖町847-2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0023",
+          "item_name": "秋名山",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0024",
+          "item_name": "榛名山",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_025",
+      "name": "ドライブイン名月館",
+      "latitude": 36.517929,
+      "longitude": 139.12822,
+      "prefecture": "群馬県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "群馬県前橋市富士見町赤城山33",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0025",
+          "item_name": "赤城山",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0026",
+          "item_name": "赤城北面道路",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_026",
+      "name": "青木旅館 本館",
+      "latitude": 36.517929,
+      "longitude": 139.12822,
+      "prefecture": "群馬県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "群馬県前橋市富士見町赤城山8",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0025",
+          "item_name": "赤城山",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0026",
+          "item_name": "赤城北面道路",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_027",
+      "name": "曽山商店",
+      "latitude": 36.517929,
+      "longitude": 139.12822,
+      "prefecture": "群馬県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "群馬県前橋市富士見町赤城山33",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0025",
+          "item_name": "赤城山",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0026",
+          "item_name": "赤城北面道路",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_028",
+      "name": "旅の駅　草木ドライブイン",
+      "latitude": 36.560341,
+      "longitude": 139.381363,
+      "prefecture": "群馬県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "群馬県みどり市東町草木75",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0027",
+          "item_name": "草木湖",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_029",
+      "name": "角屋",
+      "latitude": 36.300114,
+      "longitude": 138.761276,
+      "prefecture": "群馬県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "群馬県富岡市妙義町妙義10",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0028",
+          "item_name": "妙義山",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_030",
+      "name": "道の駅 川場田園プラザ （内 川場村観光協会）",
+      "latitude": 36.689865,
+      "longitude": 139.12085,
+      "prefecture": "群馬県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "群馬県利根郡川場村萩室385",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0029",
+          "item_name": "利根沼田望郷ライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_031",
+      "name": "LOVERS cafe",
+      "latitude": 36.105583,
+      "longitude": 139.102203,
+      "prefecture": "埼玉県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "埼玉県秩父郡長瀞町本野上742-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0030",
+          "item_name": "間瀬峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_032",
+      "name": "道の駅 大滝温泉",
+      "latitude": 35.910919,
+      "longitude": 138.829224,
+      "prefecture": "埼玉県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "埼玉県秩父市大滝4277-2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0031",
+          "item_name": "雁坂みち",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_033",
+      "name": "レストラン イデウラ",
+      "latitude": 36.020275,
+      "longitude": 139.00824,
+      "prefecture": "埼玉県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "埼玉県秩父郡小鹿野町小鹿野1988",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0032",
+          "item_name": "志賀坂峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_034",
+      "name": "奥村茶屋",
+      "latitude": 35.928581,
+      "longitude": 139.179047,
+      "prefecture": "埼玉県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "埼玉県飯能市南川 447-2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0033",
+          "item_name": "正丸峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_035",
+      "name": "定峰峠 峠の茶屋",
+      "latitude": 36.014748,
+      "longitude": 139.175339,
+      "prefecture": "埼玉県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "埼玉県秩父郡東秩父村白石311",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0034",
+          "item_name": "定峰峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_036",
+      "name": "吉田元気村",
+      "latitude": 36.064865,
+      "longitude": 138.965881,
+      "prefecture": "埼玉県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "埼玉県秩父市上吉田4942-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0035",
+          "item_name": "土坂峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_037",
+      "name": "道の駅 くるら戸田",
+      "latitude": 34.964218,
+      "longitude": 138.800659,
+      "prefecture": "静岡県",
+      "region": "東日本",
+      "district": "東海地方",
+      "address": "静岡県沼津市戸田1294-3",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0037",
+          "item_name": "戸田峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_038",
+      "name": "森の駅 箱根十国峠",
+      "latitude": 35.127235,
+      "longitude": 139.040359,
+      "prefecture": "静岡県",
+      "region": "東日本",
+      "district": "東海地方",
+      "address": "静岡県田方郡函南町桑原1400-20",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0038",
+          "item_name": "十国峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_039",
+      "name": "西天城高原 牧場の家",
+      "latitude": 34.84964,
+      "longitude": 138.805862,
+      "prefecture": "静岡県",
+      "region": "東日本",
+      "district": "東海地方",
+      "address": "静岡県賀茂郡西伊豆町宇久須3609-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0039",
+          "item_name": "仁科峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_040",
+      "name": "だるま山高原レストハウス",
+      "latitude": 34.980358,
+      "longitude": 138.858307,
+      "prefecture": "静岡県",
+      "region": "東日本",
+      "district": "東海地方",
+      "address": "静岡県伊豆市大沢1018-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0040",
+          "item_name": "西伊豆スカイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_041",
+      "name": "自然倶楽部",
+      "latitude": 35.09903,
+      "longitude": 138.902771,
+      "prefecture": "静岡県",
+      "region": "東日本",
+      "district": "東海地方",
+      "address": "静岡県清水市草薙日本平673",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0041",
+          "item_name": "日本平",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_042",
+      "name": "箱根関所 旅物語館",
+      "latitude": 35.192562,
+      "longitude": 139.026779,
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "東海地方",
+      "address": "神奈川県足柄下郡箱根町箱根10",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0042",
+          "item_name": "箱根峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_043",
+      "name": "ザ・フィッシュ",
+      "latitude": 35.173904,
+      "longitude": 139.836441,
+      "prefecture": "千葉県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "千葉県富津市金谷2288",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0043",
+          "item_name": "鋸山",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_044",
+      "name": "奥多摩・水と緑のふれあい館",
+      "latitude": 35.77681,
+      "longitude": 139.049667,
+      "prefecture": "東京都",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "東京都西多摩郡奥多摩町原5",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0044",
+          "item_name": "奥多摩",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_045",
+      "name": "Foggy. mountain（フォギーマウンテン）",
+      "latitude": 36.741398,
+      "longitude": 139.494354,
+      "prefecture": "栃木県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "栃木県日光市中宮祠2478",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0045",
+          "item_name": "いろは坂",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0049",
+          "item_name": "中禅寺湖スカイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_046",
+      "name": "栃木県立日光自然博物館 ミュージアムショップ",
+      "latitude": 36.739769,
+      "longitude": 139.501587,
+      "prefecture": "栃木県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "栃木県日光市中宮祠2480-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0045",
+          "item_name": "いろは坂",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0049",
+          "item_name": "中禅寺湖スカイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_047",
+      "name": "塩原もの語り館",
+      "latitude": 36.972401,
+      "longitude": 139.819473,
+      "prefecture": "栃木県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "栃木県那須塩原市塩原747",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0046",
+          "item_name": "もみじライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0047",
+          "item_name": "塩那",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_048",
+      "name": "栄屋",
+      "latitude": 36.663918,
+      "longitude": 139.543411,
+      "prefecture": "栃木県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "栃木県鹿沼市草久5067",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0048",
+          "item_name": "古峰ヶ原峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0050",
+          "item_name": "粕尾峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_049",
+      "name": "山の駅 たかはら",
+      "latitude": 36.889732,
+      "longitude": 139.833145,
+      "prefecture": "栃木県",
+      "region": "東日本",
+      "district": "関東地方",
+      "address": "栃木県矢板市下伊佐野991-3",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0051",
+          "item_name": "八方ヶ原",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_050",
+      "name": "霧ヶ峰ビーナス",
+      "latitude": 36.039165,
+      "longitude": 138.114166,
+      "prefecture": "長野県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "長野県諏訪市霧ヶ峰7718-9",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0052",
+          "item_name": "ビーナスライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_051",
+      "name": "中の湯温泉旅館",
+      "latitude": 36.221169,
+      "longitude": 137.686646,
+      "prefecture": "長野県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "長野県松本市安曇4467 中の湯",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0053",
+          "item_name": "安房峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_052",
+      "name": "横手山ドライブイン",
+      "latitude": 36.742138,
+      "longitude": 138.410156,
+      "prefecture": "長野県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "長野県下高井郡山ノ内町大字平隠7149",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0054",
+          "item_name": "渋峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_053",
+      "name": "信州高山村観光協会",
+      "latitude": 36.678001,
+      "longitude": 138.435837,
+      "prefecture": "長野県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "長野県上高井郡高山村大字奥山田3579-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0055",
+          "item_name": "松川渓谷",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_054",
+      "name": "展望喫茶 風の詩（杖突峠 峠の茶屋 2F）",
+      "latitude": 35.982372,
+      "longitude": 138.133652,
+      "prefecture": "長野県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "長野県茅野市宮川3372-27　2F",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0056",
+          "item_name": "杖突峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_055",
+      "name": "休暇村 茶臼山高原",
+      "latitude": 35.200447,
+      "longitude": 137.679077,
+      "prefecture": "愛知県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "愛知県北設楽郡豊根村坂宇場字御所平70-163",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0057",
+          "item_name": "売木峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0082",
+          "item_name": "茶臼山高原道路",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_056",
+      "name": "道の駅 南魚沼 今泉記念館",
+      "latitude": 37.003124,
+      "longitude": 138.818863,
+      "prefecture": "新潟県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "新潟県南魚沼市下一日市855 道の駅南魚沼 内",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0058",
+          "item_name": "魚沼スカイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_057",
+      "name": "魚沼市インフォメーションセンター",
+      "latitude": 37.224182,
+      "longitude": 138.982422,
+      "prefecture": "新潟県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "新潟県魚沼市吉田1144",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0059",
+          "item_name": "枝折峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_058",
+      "name": "弥彦桜井郷温泉 さくらの湯",
+      "latitude": 37.76049,
+      "longitude": 138.889282,
+      "prefecture": "新潟県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "新潟県新潟市西蒲原郡弥彦村大字麓1970番地",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0060",
+          "item_name": "弥彦山スカイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_059",
+      "name": "弥彦山ロープウェイ（弥彦山スカイライン頂上駐車場 第5売店）",
+      "latitude": 37.728237,
+      "longitude": 138.805023,
+      "prefecture": "新潟県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "新潟県新潟市西蒲区間瀬耕戸山5902-3",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0060",
+          "item_name": "弥彦山スカイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_060",
+      "name": "道の駅 いりひろせ",
+      "latitude": 37.349529,
+      "longitude": 139.06778,
+      "prefecture": "新潟県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "新潟県魚沼市大栃山356-2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0061",
+          "item_name": "六十里越",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_061",
+      "name": "裏磐梯物産館",
+      "latitude": 37.691696,
+      "longitude": 140.084763,
+      "prefecture": "福島県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "福島県耶麻郡北塩原村大字桧原字湯平山1171-9",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0062",
+          "item_name": "西吾妻スカイバレー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0065",
+          "item_name": "磐梯山ゴールドライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_062",
+      "name": "浄土平ビジターセンター",
+      "latitude": 37.685745,
+      "longitude": 140.290253,
+      "prefecture": "福島県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "福島県福島市土湯温泉町字鷲倉山（浄土平）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0063",
+          "item_name": "磐梯吾妻スカイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_063",
+      "name": "道の駅 つちゆ　つちゆロードパーク",
+      "latitude": 37.670242,
+      "longitude": 140.334457,
+      "prefecture": "福島県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "福島県福島市松川町水原字南沢41-2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0063",
+          "item_name": "磐梯吾妻スカイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_064",
+      "name": "猪苗代町中津川渓谷レストハウス",
+      "latitude": 37.651138,
+      "longitude": 140.110336,
+      "prefecture": "福島県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "福島県耶麻郡猪苗代町大字若宮字吾妻山甲2998-47",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0064",
+          "item_name": "磐梯吾妻レークライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_065",
+      "name": "ホエールタウンおしか内観光物産交流施設 cottu インフォメーションコーナー",
+      "latitude": 38.297394,
+      "longitude": 141.508667,
+      "prefecture": "宮城県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "宮城県石巻市鮎川浜南43-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0066",
+          "item_name": "コバルトライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_066",
+      "name": "蔵王山頂 レストハウス 1F売店",
+      "latitude": 38.113247,
+      "longitude": 140.537766,
+      "prefecture": "宮城県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "宮城県刈田郡蔵王町遠刈田温泉倉石岳国有林地内",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0067",
+          "item_name": "蔵王エコーライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0068",
+          "item_name": "蔵王ハイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_067",
+      "name": "陶芸の里 ゆ〜らんど",
+      "latitude": 38.644798,
+      "longitude": 140.685074,
+      "prefecture": "宮城県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "宮城県加美郡加美町宮崎字切込3-2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0069",
+          "item_name": "田代峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_068",
+      "name": "やくらい薬師の湯",
+      "latitude": 38.576054,
+      "longitude": 140.712006,
+      "prefecture": "宮城県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "宮城県加美郡加美町味ケ袋薬来原1-76",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0070",
+          "item_name": "鍋越峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_069",
+      "name": "湯殿山レストハウス",
+      "latitude": 38.568653,
+      "longitude": 139.924103,
+      "prefecture": "山形県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "山形県鶴岡市田麦俣字六十里山7",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0071",
+          "item_name": "六十里越街道",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_070",
+      "name": "道の駅 月山　梵字の蔵",
+      "latitude": 38.604336,
+      "longitude": 139.85849,
+      "prefecture": "山形県",
+      "region": "東日本",
+      "district": "東北地方",
+      "address": "山形県鶴岡市越中山字名平3-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0071",
+          "item_name": "六十里越街道",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_071",
+      "name": "道の駅 たばやま（農林産物直売所）",
+      "latitude": 35.791737,
+      "longitude": 138.91777,
+      "prefecture": "山梨県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "山梨県北都留郡丹波山村2901",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0072",
+          "item_name": "大菩薩ライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0079",
+          "item_name": "柳沢峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_072",
+      "name": "道の駅こすげ　物産館",
+      "latitude": 35.760277,
+      "longitude": 138.940277,
+      "prefecture": "山梨県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "山梨県北都留郡小菅村3445",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0073",
+          "item_name": "鶴峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_073",
+      "name": "道の駅 どうし",
+      "latitude": 35.503372,
+      "longitude": 138.987625,
+      "prefecture": "山梨県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "山梨県南都留郡道志村下中山9745",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0074",
+          "item_name": "道坂峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_074",
+      "name": "湯川屋 両国橋キャンプ場",
+      "latitude": 35.537708,
+      "longitude": 139.110214,
+      "prefecture": "山梨県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "山梨県南都留郡道志村月夜野49",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0075",
+          "item_name": "道志みち",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_075",
+      "name": "もぐら珈琲",
+      "latitude": 35.481388,
+      "longitude": 138.706665,
+      "prefecture": "山梨県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "山梨県南都留郡鳴沢村4467-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0076",
+          "item_name": "富士スバルライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_076",
+      "name": "道の駅 しもべ",
+      "latitude": 35.472012,
+      "longitude": 138.522705,
+      "prefecture": "山梨県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "山梨県南巨摩郡身延町古関4321",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0077",
+          "item_name": "本栖みち",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_077",
+      "name": "民宿旅館なとり屋",
+      "latitude": 35.672966,
+      "longitude": 138.263489,
+      "prefecture": "山梨県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "山梨県南アルプス市芦安芦倉726",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0078",
+          "item_name": "夜叉神峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_078",
+      "name": "古民家cafe 茶蔵〜SAKURA〜",
+      "latitude": 34.836655,
+      "longitude": 137.176208,
+      "prefecture": "愛知県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "愛知県額田郡幸田町深溝中池田2-3",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0080",
+          "item_name": "三ヶ根山スカイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0081",
+          "item_name": "三河湾スカイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_079",
+      "name": "道の駅　つくで手作り村",
+      "latitude": 34.965237,
+      "longitude": 137.410034,
+      "prefecture": "愛知県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "愛知県新城市作手清岳字ナガラミ10-2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0083",
+          "item_name": "本宮山スカイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_080",
+      "name": "宝山寺料金所(横の事務所)",
+      "latitude": 34.692654,
+      "longitude": 135.673477,
+      "prefecture": "奈良県",
+      "region": "西日本",
+      "district": "近畿地方",
+      "address": "奈良県生駒市俵口町2116",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0084",
+          "item_name": "信貴生駒スカイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_081",
+      "name": "道の駅 かもがわ円城",
+      "latitude": 34.882652,
+      "longitude": 133.811584,
+      "prefecture": "岡山県",
+      "region": "西日本",
+      "district": "中国地方",
+      "address": "吉備中央町上田西2325-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0085",
+          "item_name": "奥吉備街道",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_082",
+      "name": "WOOD PAO",
+      "latitude": 35.309883,
+      "longitude": 133.626846,
+      "prefecture": "岡山県",
+      "region": "西日本",
+      "district": "中国地方",
+      "address": "岡山県真庭市蒜山上福田1201-7",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0086",
+          "item_name": "蒜山大山スカイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_083",
+      "name": "シーサイドファーム なんば牧場 アイス屋さん",
+      "latitude": 34.442581,
+      "longitude": 133.782532,
+      "prefecture": "岡山県",
+      "region": "西日本",
+      "district": "中国地方",
+      "address": "岡山県倉敷市下津井5丁目2388-11",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0087",
+          "item_name": "鷲羽山スカイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_084",
+      "name": "お休み処 柊",
+      "latitude": 36.252388,
+      "longitude": 136.926086,
+      "prefecture": "岐阜県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "岐阜県大野郡白川村大字荻町1823番地",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0088",
+          "item_name": "天生峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_085",
+      "name": "道の駅 白川郷",
+      "latitude": 36.277645,
+      "longitude": 136.87738,
+      "prefecture": "岐阜県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "岐阜県大野郡白川村飯島411",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0088",
+          "item_name": "天生峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0090",
+          "item_name": "白山白川郷ホワイトロード",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_086",
+      "name": "白川郷 かたりべ",
+      "latitude": 36.252388,
+      "longitude": 136.926086,
+      "prefecture": "岐阜県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "岐阜県大野郡白川村荻町452",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0088",
+          "item_name": "天生峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0090",
+          "item_name": "白山白川郷ホワイトロード",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_087",
+      "name": "馬籠館",
+      "latitude": 35.528393,
+      "longitude": 137.565277,
+      "prefecture": "岐阜県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "岐阜県中津川市馬籠4571-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0089",
+          "item_name": "馬籠館",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_088",
+      "name": "蓮如茶屋（れんにょちゃや）",
+      "latitude": 36.277645,
+      "longitude": 136.87738,
+      "prefecture": "岐阜県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "岐阜県大野郡白川村大字飯島字横谷1854-1番地",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0090",
+          "item_name": "白山白川郷ホワイトロード",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_089",
+      "name": "舞台峠ファームズ",
+      "latitude": 35.777695,
+      "longitude": 137.329849,
+      "prefecture": "岐阜県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "岐阜県下呂市御厩野518-3",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0091",
+          "item_name": "舞台峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_090",
+      "name": "野麦峠 お助け小屋",
+      "latitude": 36.060284,
+      "longitude": 137.578934,
+      "prefecture": "岐阜県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "岐阜県高山市高根町野麦592",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0092",
+          "item_name": "野麦峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_091",
+      "name": "道の駅 清流の里しろとり",
+      "latitude": 35.87532,
+      "longitude": 136.834641,
+      "prefecture": "岐阜県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "岐阜県郡上市白鳥町向小駄良693-2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0093",
+          "item_name": "油坂峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_092",
+      "name": "N.A.O高山すずらん高原キャンプ場",
+      "latitude": 36.000206,
+      "longitude": 137.36235,
+      "prefecture": "岐阜県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "岐阜県高山市朝日町西洞1628-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0094",
+          "item_name": "鈴蘭峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_093",
+      "name": "別荘管理事務所",
+      "latitude": 36.000206,
+      "longitude": 137.36235,
+      "prefecture": "岐阜県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "岐阜県高山市朝日町西洞1628",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0094",
+          "item_name": "鈴蘭峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_094",
+      "name": "鈴蘭高原カントリークラブ（御嶽鈴蘭高原観光開発株式会社）",
+      "latitude": 36.000206,
+      "longitude": 137.36235,
+      "prefecture": "岐阜県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "岐阜県高山市朝日町西洞1628-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0094",
+          "item_name": "鈴蘭峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_095",
+      "name": "食堂 大江山",
+      "latitude": 35.391556,
+      "longitude": 135.141708,
+      "prefecture": "京都府",
+      "region": "西日本",
+      "district": "近畿地方",
+      "address": "京都府福知山市大江町河守1956",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0095",
+          "item_name": "普甲峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_096",
+      "name": "Food&Drink 観空台",
+      "latitude": 35.046207,
+      "longitude": 135.672836,
+      "prefecture": "京都府",
+      "region": "西日本",
+      "district": "近畿地方",
+      "address": "京都府京都市右京区梅ケ畑菖蒲谷",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0096",
+          "item_name": "嵐山-高雄パークウエイ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_097",
+      "name": "小倉山cafe",
+      "latitude": 35.024155,
+      "longitude": 135.661011,
+      "prefecture": "京都府",
+      "region": "西日本",
+      "district": "近畿地方",
+      "address": "京都府京都市右京区嵯峨亀山町4",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0096",
+          "item_name": "嵐山-高雄パークウエイ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_098",
+      "name": "スカイテラス伊吹山",
+      "latitude": 35.424911,
+      "longitude": 136.371933,
+      "prefecture": "滋賀県",
+      "region": "西日本",
+      "district": "近畿地方",
+      "address": "滋賀県米原市大久保",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0097",
+          "item_name": "伊吹山ドライブウェイ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_099",
+      "name": "延暦寺バスセンター前売店",
+      "latitude": 35.067127,
+      "longitude": 135.852036,
+      "prefecture": "滋賀県",
+      "region": "西日本",
+      "district": "近畿地方",
+      "address": "滋賀県大津市坂本本町4220",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0098",
+          "item_name": "奥比叡ドライブウェイ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_100",
+      "name": "比叡山峰道レストラン＆展望台",
+      "latitude": 35.004513,
+      "longitude": 135.868561,
+      "prefecture": "滋賀県",
+      "region": "西日本",
+      "district": "近畿地方",
+      "address": "滋賀県坂本本町4220",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0098",
+          "item_name": "奥比叡ドライブウェイ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_101",
+      "name": "つづら尾崎売店",
+      "latitude": 35.455887,
+      "longitude": 136.14624,
+      "prefecture": "滋賀県",
+      "region": "西日本",
+      "district": "近畿地方",
+      "address": "滋賀県長浜市西浅井町菅浦",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0099",
+          "item_name": "奥琵琶湖パークウェイ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_102",
+      "name": "ガーデンミュージアム比叡",
+      "latitude": 35.069611,
+      "longitude": 135.827362,
+      "prefecture": "京都府",
+      "region": "西日本",
+      "district": "近畿地方",
+      "address": "京都市左京区修学院尺羅ヶ谷四明ヶ嶽4番地(比叡山頂)",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0100",
+          "item_name": "比叡山ドライブウェイ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_103",
+      "name": "夢見が丘",
+      "latitude": 35.043835,
+      "longitude": 135.827454,
+      "prefecture": "滋賀県",
+      "region": "西日本",
+      "district": "近畿地方",
+      "address": "滋賀県大津市山中町776-3",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0100",
+          "item_name": "比叡山ドライブウェイ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_104",
+      "name": "日御碕ビジターセンター",
+      "latitude": 35.425091,
+      "longitude": 132.655853,
+      "prefecture": "島根県",
+      "region": "西日本",
+      "district": "中国地方",
+      "address": "島根県出雲市大社町日御碕1089-37",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0101",
+          "item_name": "みさきうみねこ海道",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_105",
+      "name": "道の駅 奥出雲おろちループ",
+      "latitude": 35.116013,
+      "longitude": 133.111282,
+      "prefecture": "島根県",
+      "region": "西日本",
+      "district": "中国地方",
+      "address": "島根県仁多郡奥出雲町八川2500-294",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0102",
+          "item_name": "奥出雲おろちループ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_106",
+      "name": "休暇村 奥大山",
+      "latitude": 35.331066,
+      "longitude": 133.572678,
+      "prefecture": "鳥取県",
+      "region": "西日本",
+      "district": "中国地方",
+      "address": "鳥取県日野郡江府町御机字鏡ヶ成709-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0103",
+          "item_name": "鍵掛峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_107",
+      "name": "道の駅 たいら 五箇山和紙の里",
+      "latitude": 36.444843,
+      "longitude": 136.971634,
+      "prefecture": "富山県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "富山県南砺市東中江215",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0104",
+          "item_name": "飛越峡合掌ライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_108",
+      "name": "高円山料金所",
+      "latitude": 34.668133,
+      "longitude": 135.864502,
+      "prefecture": "奈良県",
+      "region": "西日本",
+      "district": "近畿地方",
+      "address": "奈良県奈良市白毫寺町1147-8",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0105",
+          "item_name": "奈良奥山ドライブウェイ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_109",
+      "name": "653cafe",
+      "latitude": 34.758347,
+      "longitude": 135.241043,
+      "prefecture": "兵庫県",
+      "region": "西日本",
+      "district": "近畿地方",
+      "address": "兵庫県神戸市灘区六甲山町一ヶ谷1-70",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0106",
+          "item_name": "裏六甲",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0107",
+          "item_name": "表六甲",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        },
+        {
+          "item_id": "touge_T-0108",
+          "item_name": "六甲山",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_110",
+      "name": "道の駅 アリストぬまくま",
+      "latitude": 34.38921,
+      "longitude": 133.302124,
+      "prefecture": "広島県",
+      "region": "西日本",
+      "district": "中国地方",
+      "address": "広島県福山市沼隈町大字常石1796",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0109",
+          "item_name": "福山グリーンライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_111",
+      "name": "道の駅 若狭おばま",
+      "latitude": 35.492378,
+      "longitude": 135.762634,
+      "prefecture": "福井県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "福井県小浜市和久里24-45-2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0110",
+          "item_name": "エンゼルライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_112",
+      "name": "まちの駅 こってコテいけだ",
+      "latitude": 35.887623,
+      "longitude": 136.345261,
+      "prefecture": "福井県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "福井県今立郡池田町稲荷36-25-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0111",
+          "item_name": "冠山峠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_113",
+      "name": "お土産特産品販売所 今庄観光協会",
+      "latitude": 35.769863,
+      "longitude": 136.213043,
+      "prefecture": "福井県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "福井県南条郡南越前町今庄74-3-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0112",
+          "item_name": "旧北陸線トンネル群",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_114",
+      "name": "レインボーショップ にじいろ",
+      "latitude": 35.621216,
+      "longitude": 135.852539,
+      "prefecture": "福井県",
+      "region": "東日本",
+      "district": "中部地方",
+      "address": "福井県三方郡美浜町日向75-2-6",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0113",
+          "item_name": "三方五湖レインボーライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_115",
+      "name": "鳥羽展望台 海女のテラス",
+      "latitude": 34.416225,
+      "longitude": 136.915253,
+      "prefecture": "三重県",
+      "region": "西日本",
+      "district": "東海地方",
+      "address": "三重県鳥羽市国崎町大岳3-3",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0114",
+          "item_name": "伊勢志摩 パールロード",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_116",
+      "name": "朝熊山頂売店",
+      "latitude": 34.47596,
+      "longitude": 136.779724,
+      "prefecture": "三重県",
+      "region": "西日本",
+      "district": "東海地方",
+      "address": "三重県伊勢市朝熊町名古185-3",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0115",
+          "item_name": "伊勢志摩スカイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_117",
+      "name": "CAFE WINDY HILL（カフェ ウィンディヒル）",
+      "latitude": 34.694744,
+      "longitude": 136.265427,
+      "prefecture": "三重県",
+      "region": "西日本",
+      "district": "東海地方",
+      "address": "三重県伊賀市勝地1852-63",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0116",
+          "item_name": "青山高原道路",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_118",
+      "name": "青山高原保健休養地",
+      "latitude": 34.655544,
+      "longitude": 136.266342,
+      "prefecture": "三重県",
+      "region": "西日本",
+      "district": "東海地方",
+      "address": "三重県津市白山町伊勢見4番地",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0116",
+          "item_name": "青山高原道路",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_119",
+      "name": "アクアイグニス 片岡温泉",
+      "latitude": 35.013287,
+      "longitude": 136.481903,
+      "prefecture": "三重県",
+      "region": "西日本",
+      "district": "東海地方",
+      "address": "三重県三重郡菰野町菰野4800-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0117",
+          "item_name": "鈴鹿スカイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_touge_120",
+      "name": "道の駅 田辺市龍神ごまさんスカイタワー",
+      "latitude": 34.010525,
+      "longitude": 135.566833,
+      "prefecture": "和歌山県",
+      "region": "西日本",
+      "district": "近畿地方",
+      "address": "和歌山県田辺市龍神村龍神1020-6",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "あり",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "touge_T-0118",
+          "item_name": "高野龍神スカイライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    }
+  ]
+}

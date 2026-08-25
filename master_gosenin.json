@@ -1,0 +1,2723 @@
+{
+  "genre": "gosenin",
+  "version": "2026.08.1",
+  "updated_at": "2026-08-18T00:00:00Z",
+  "spots": [
+    {
+      "spot_id": "spot_gosenin_001",
+      "name": "海士町観光協会窓口（菱浦港フェリーターミナル / キンニャモニャセンター1F）",
+      "latitude": 36.099026,
+      "longitude": 133.076141,
+      "prefecture": "島根県",
+      "region": "西日本",
+      "district": "隠岐郡海士町",
+      "address": "島根県隠岐郡海士町福井1365-5",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_001",
+          "item_name": "海士",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_002",
+      "name": "松山観光港ターミナル（石崎汽船 切符売り場・総合案内所）",
+      "latitude": 33.888,
+      "longitude": 132.70314,
+      "prefecture": "愛媛県",
+      "region": "西日本",
+      "district": "松山市",
+      "address": "愛媛県松山市高浜町5丁目2259-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_002",
+          "item_name": "石崎汽船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_003",
+      "name": "広島港宇品旅客ターミナル（石崎汽船 乗船券窓口）",
+      "latitude": 34.352631,
+      "longitude": 132.455124,
+      "prefecture": "広島県",
+      "region": "西日本",
+      "district": "広島市",
+      "address": "広島県広島市南区宇品海岸1丁目13-26",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_002",
+          "item_name": "石崎汽船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_004",
+      "name": "呉中央桟橋ターミナル（石崎汽船 / 瀬戸内海汽船 切符売り場窓口）",
+      "latitude": 34.240749,
+      "longitude": 132.556473,
+      "prefecture": "広島県",
+      "region": "西日本",
+      "district": "呉市",
+      "address": "広島県呉市宝町4-44 呉港ターミナル1F",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_002",
+          "item_name": "石崎汽船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_005",
+      "name": "東海汽船 八丈島営業所（八丈マリンサービス）",
+      "latitude": 33.125652,
+      "longitude": 139.798431,
+      "prefecture": "東京都",
+      "region": "東日本",
+      "district": "八丈島八丈町",
+      "address": "東京都八丈島八丈町三根4184-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_003",
+          "item_name": "伊豆諸島開発",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_006",
+      "name": "伊良湖のりば（伊良湖営業所）",
+      "latitude": 34.583427,
+      "longitude": 137.020294,
+      "prefecture": "愛知県",
+      "region": "東日本",
+      "district": "田原市",
+      "address": "愛知県田原市伊良湖町宮下3000-65",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_004",
+          "item_name": "伊勢湾フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_007",
+      "name": "鳥羽のりば（鳥羽営業所）",
+      "latitude": 34.480488,
+      "longitude": 136.843994,
+      "prefecture": "三重県",
+      "region": "西日本",
+      "district": "鳥羽市",
+      "address": "三重県鳥羽市鳥羽3丁目1484-111",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_004",
+          "item_name": "伊勢湾フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_008",
+      "name": "東京港フェリーターミナル（オーシャン東九フェリー窓口）",
+      "latitude": 35.617344,
+      "longitude": 139.79541,
+      "prefecture": "東京都",
+      "region": "東日本",
+      "district": "江東区",
+      "address": "東京都江東区有明4丁目8-6",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_005",
+          "item_name": "オーシャン東九フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_009",
+      "name": "竹芝客船ターミナル内窓口 / おがさわら丸船内ショップ「ドルフィン」",
+      "latitude": 35.654015,
+      "longitude": 139.7621,
+      "prefecture": "東京都",
+      "region": "東日本",
+      "district": "港区",
+      "address": "東京都港区海岸1丁目12-2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_006",
+          "item_name": "小笠原海運",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_010",
+      "name": "THE KOBE CRUISE チケットカウンター",
+      "latitude": 34.679356,
+      "longitude": 135.184692,
+      "prefecture": "兵庫県",
+      "region": "西日本",
+      "district": "神戸市",
+      "address": "兵庫県神戸市中央区東川崎町1丁目6-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_012",
+          "item_name": "神戸クルーザー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_011",
+      "name": "かもめりあ（中突堤中央ターミナル）乗船券うりば",
+      "latitude": 34.683014,
+      "longitude": 135.185196,
+      "prefecture": "兵庫県",
+      "region": "西日本",
+      "district": "神戸市",
+      "address": "兵庫県神戸市中央区波止場町7-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_013",
+          "item_name": "神戸ベイクルーズ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_012",
+      "name": "新潟港総合案内所",
+      "latitude": 37.929565,
+      "longitude": 139.061783,
+      "prefecture": "新潟県",
+      "region": "東日本",
+      "district": "新潟市",
+      "address": "新潟県新潟市中央区万代島9-1（新潟港）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_015",
+          "item_name": "佐渡汽船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_013",
+      "name": "両津港総合案内所",
+      "latitude": 38.081425,
+      "longitude": 138.437286,
+      "prefecture": "新潟県",
+      "region": "東日本",
+      "district": "佐渡市",
+      "address": "新潟県佐渡市両津湊353（両津港）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_015",
+          "item_name": "佐渡汽船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_014",
+      "name": "日の出ふ頭 シンフォニーのりば（シーライン東京待合所）",
+      "latitude": 35.648914,
+      "longitude": 139.759583,
+      "prefecture": "東京都",
+      "region": "東日本",
+      "district": "港区",
+      "address": "東京都港区海岸2丁目7-104",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_017",
+          "item_name": "シンフォニークルーズ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_015",
+      "name": "ジール 天王洲ヤマツピア",
+      "latitude": 35.620384,
+      "longitude": 139.746506,
+      "prefecture": "東京都",
+      "region": "東日本",
+      "district": "品川区",
+      "address": "東京都品川区東品川1丁目39-21",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_018",
+          "item_name": "ジール",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_016",
+      "name": "賢島営業所（賢島港のりば切符売場）",
+      "latitude": 34.306618,
+      "longitude": 136.816345,
+      "prefecture": "三重県",
+      "region": "西日本",
+      "district": "志摩市",
+      "address": "三重県志摩市阿児町神明752-111",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_019",
+          "item_name": "志摩マリンレジャー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_017",
+      "name": "神戸三宮フェリーターミナル（ジャンボフェリー窓口）",
+      "latitude": 34.682178,
+      "longitude": 135.199112,
+      "prefecture": "兵庫県",
+      "region": "西日本",
+      "district": "神戸市",
+      "address": "兵庫県神戸市中央区新港町3-7",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_020",
+          "item_name": "ジャンボフェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_018",
+      "name": "神新汽船 下田営業所（下田港旅客待合所）",
+      "latitude": 34.668449,
+      "longitude": 138.940781,
+      "prefecture": "静岡県",
+      "region": "東日本",
+      "district": "下田市",
+      "address": "静岡県下田市三丁目26-8",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_022",
+          "item_name": "神新汽船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_019",
+      "name": "小樽フェリーターミナル",
+      "latitude": 43.188156,
+      "longitude": 141.015976,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "小樽市",
+      "address": "北海道小樽市築港7-2（小樽）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_023",
+          "item_name": "新日本海フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_020",
+      "name": "苫小牧東港フェリーターミナル",
+      "latitude": 42.611912,
+      "longitude": 141.867172,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "勇払郡厚真町",
+      "address": "北海道勇払郡厚真町浜厚真17-6（苫小牧東）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_023",
+          "item_name": "新日本海フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_021",
+      "name": "秋田フェリーターミナル",
+      "latitude": 39.755829,
+      "longitude": 140.058105,
+      "prefecture": "秋田県",
+      "region": "東日本",
+      "district": "秋田市",
+      "address": "秋田県秋田市土崎港西1丁目13-13",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_023",
+          "item_name": "新日本海フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_022",
+      "name": "新潟フェリーターミナル / 敦賀フェリーターミナル",
+      "latitude": 37.93211,
+      "longitude": 139.070801,
+      "prefecture": "新潟県",
+      "region": "東日本",
+      "district": "新潟市",
+      "address": "新潟県新潟市東区末広町1-1（新潟） / 〒914-0274 福井県敦賀市泉231（敦賀）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_023",
+          "item_name": "新日本海フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_023",
+      "name": "舞鶴フェリーターミナル",
+      "latitude": 35.474724,
+      "longitude": 135.386108,
+      "prefecture": "京都府",
+      "region": "西日本",
+      "district": "舞鶴市",
+      "address": "京都府舞鶴市字前島2-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_023",
+          "item_name": "新日本海フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_024",
+      "name": "若狭フィッシャーマンズ・ワーフ（乗船券売場）",
+      "latitude": 35.502094,
+      "longitude": 135.737213,
+      "prefecture": "福井県",
+      "region": "東日本",
+      "district": "小浜市",
+      "address": "福井県小浜市川崎1丁目3-2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_027",
+          "item_name": "そともめぐり",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_025",
+      "name": "中部国際空港港 旅客船ターミナル（チケットカウンター）",
+      "latitude": 34.858509,
+      "longitude": 136.809021,
+      "prefecture": "愛知県",
+      "region": "東日本",
+      "district": "常滑市",
+      "address": "愛知県常滑市セントレア1丁目1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_028",
+          "item_name": "津エアポートライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_026",
+      "name": "津なぎさまち 旅客船ターミナル（津新港）",
+      "latitude": 34.728298,
+      "longitude": 136.528809,
+      "prefecture": "三重県",
+      "region": "西日本",
+      "district": "津市",
+      "address": "三重県津市なぎさまち1-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_028",
+          "item_name": "津エアポートライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_027",
+      "name": "竹芝客船ターミナル案内所 / SHOP竹芝 / 各島営業所窓口",
+      "latitude": 35.654015,
+      "longitude": 139.7621,
+      "prefecture": "東京都",
+      "region": "東日本",
+      "district": "港区",
+      "address": "東京都港区海岸1丁目12-2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_029",
+          "item_name": "東海汽船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_028",
+      "name": "横須賀フェリーターミナル（新港ふ頭）",
+      "latitude": 35.27277,
+      "longitude": 139.684723,
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "横須賀市",
+      "address": "神奈川県横須賀市平成町3丁目29-2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_030",
+          "item_name": "東京九州フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_029",
+      "name": "両国待合所（両国リバーセンター内）",
+      "latitude": 35.697655,
+      "longitude": 139.792419,
+      "prefecture": "東京都",
+      "region": "東日本",
+      "district": "墨田区",
+      "address": "東京都墨田区横網1丁目2-13",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_031",
+          "item_name": "東京水辺ライン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_030",
+      "name": "久里浜港フェリーターミナル",
+      "latitude": 35.220188,
+      "longitude": 139.713745,
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "横須賀市",
+      "address": "神奈川県横須賀市久里浜8丁目17-20（久里浜）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_032",
+          "item_name": "東京湾フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_031",
+      "name": "金谷港フェリーターミナル",
+      "latitude": 35.173904,
+      "longitude": 139.836441,
+      "prefecture": "千葉県",
+      "region": "東日本",
+      "district": "富津市",
+      "address": "千葉県富津市金谷4303（金谷）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_032",
+          "item_name": "東京湾フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_032",
+      "name": "和歌山港フェリーターミナル",
+      "latitude": 34.220955,
+      "longitude": 135.144287,
+      "prefecture": "和歌山県",
+      "region": "西日本",
+      "district": "和歌山市",
+      "address": "和歌山県和歌山市湊280",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_033",
+          "item_name": "南海フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_033",
+      "name": "稚内フェリーターミナル",
+      "latitude": 45.415649,
+      "longitude": 141.683319,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "稚内市",
+      "address": "北海道稚内市開運2丁目7-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_034",
+          "item_name": "ハートランドフェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_034",
+      "name": "苫小牧西港フェリーターミナル（さんふらわあ窓口）",
+      "latitude": 42.638927,
+      "longitude": 141.636948,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "苫小牧市",
+      "address": "北海道苫小牧市入船町1丁目2-34",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_036",
+          "item_name": "商船三井さんふらわあ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_035",
+      "name": "大洗港フェリーターミナル",
+      "latitude": 36.308758,
+      "longitude": 140.572906,
+      "prefecture": "茨城県",
+      "region": "東日本",
+      "district": "東茨城郡大洗町",
+      "address": "茨城県東茨城郡大洗町港中央2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_036",
+          "item_name": "商船三井さんふらわあ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_036",
+      "name": "山中湖 旭日丘桟橋チケット売場",
+      "latitude": 35.401627,
+      "longitude": 138.872665,
+      "prefecture": "山梨県",
+      "region": "東日本",
+      "district": "南都留郡山中湖村",
+      "address": "山梨県南都留郡山中湖村平野506-296",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_037",
+          "item_name": "富士汽船(白鳥の湖)",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_037",
+      "name": "熱海港定期船待合所（熱海港初島行乗船券売場）",
+      "latitude": 35.089947,
+      "longitude": 139.07634,
+      "prefecture": "静岡県",
+      "region": "東日本",
+      "district": "熱海市",
+      "address": "静岡県熱海市和田浜南町6-11",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_038",
+          "item_name": "富士急マリンリゾート",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_038",
+      "name": "河口湖遊覧船のりば（アッパレ船乗船券売場）",
+      "latitude": 35.503071,
+      "longitude": 138.767746,
+      "prefecture": "山梨県",
+      "region": "東日本",
+      "district": "南都留郡富士河口湖町",
+      "address": "山梨県南都留郡富士河口湖町船津4034",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_039",
+          "item_name": "富士五湖汽船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_039",
+      "name": "師崎港観光センター",
+      "latitude": 34.697453,
+      "longitude": 136.97226,
+      "prefecture": "愛知県",
+      "region": "東日本",
+      "district": "知多郡南知多町",
+      "address": "愛知県知多郡南知多町師崎明神山8（師崎港）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_044",
+          "item_name": "名鉄海上観光船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_040",
+      "name": "河和港のりば",
+      "latitude": 34.776814,
+      "longitude": 136.915543,
+      "prefecture": "愛知県",
+      "region": "東日本",
+      "district": "知多郡美浜町",
+      "address": "愛知県知多郡美浜町河和北屋敷276（河和港）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_044",
+          "item_name": "名鉄海上観光船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_041",
+      "name": "苫小牧西港フェリーターミナル（太平洋フェリー窓口）",
+      "latitude": 42.638927,
+      "longitude": 141.636948,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "苫小牧市",
+      "address": "北海道苫小牧市入船町1丁目2-34",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_046",
+          "item_name": "太平洋フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_042",
+      "name": "仙台港フェリーターミナル",
+      "latitude": 38.274593,
+      "longitude": 141.004044,
+      "prefecture": "宮城県",
+      "region": "東日本",
+      "district": "仙台市",
+      "address": "宮城県仙台市宮城野区港3丁目7-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_046",
+          "item_name": "太平洋フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_043",
+      "name": "名古屋港フェリーターミナル",
+      "latitude": 35.051914,
+      "longitude": 136.852753,
+      "prefecture": "愛知県",
+      "region": "東日本",
+      "district": "名古屋市",
+      "address": "愛知県名古屋市港区金城ふ頭3丁目1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_046",
+          "item_name": "太平洋フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_044",
+      "name": "道の駅 湯西川（日光湯西川ダックツアー受付窓口）",
+      "latitude": 36.940277,
+      "longitude": 139.651474,
+      "prefecture": "栃木県",
+      "region": "東日本",
+      "district": "日光市",
+      "address": "栃木県日光市西川478-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_047",
+          "item_name": "ダックツアー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_045",
+      "name": "諏訪湖ダックツアー窓口（おぎのや諏訪店駐車場内）",
+      "latitude": 36.007023,
+      "longitude": 138.131546,
+      "prefecture": "長野県",
+      "region": "東日本",
+      "district": "諏訪市",
+      "address": "長野県諏訪市沖田町4丁目39",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_047",
+          "item_name": "ダックツアー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_046",
+      "name": "三笠ターミナル（猿島ビジターセンター1F窓口）",
+      "latitude": 35.283928,
+      "longitude": 139.673569,
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "横須賀市",
+      "address": "神奈川県横須賀市小川町27-10",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_049",
+          "item_name": "トライアングル",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_047",
+      "name": "粟島汽船 岩船営業所（岩船港待合所）",
+      "latitude": 38.188412,
+      "longitude": 139.436462,
+      "prefecture": "新潟県",
+      "region": "東日本",
+      "district": "村",
+      "address": "新潟県村上市岩船新町7-10",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_050",
+          "item_name": "粟島汽船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_048",
+      "name": "奥只見営業所（奥只見ダム船着場）",
+      "latitude": 37.203346,
+      "longitude": 139.027603,
+      "prefecture": "新潟県",
+      "region": "東日本",
+      "district": "魚沼市",
+      "address": "新潟県魚沼市湯之谷芋川字大鳥1317-3",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_054",
+          "item_name": "奥只見遊覧船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_049",
+      "name": "清水港フェリーターミナル",
+      "latitude": 35.009594,
+      "longitude": 138.496704,
+      "prefecture": "静岡県",
+      "region": "東日本",
+      "district": "静岡市",
+      "address": "静岡県静岡市清水区日の出町10-80（清水）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_057",
+          "item_name": "ふじさん駿河湾フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_050",
+      "name": "土肥港フェリーターミナル",
+      "latitude": 34.905785,
+      "longitude": 138.787369,
+      "prefecture": "静岡県",
+      "region": "東日本",
+      "district": "伊豆市",
+      "address": "静岡県伊豆市土肥2920（土肥）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_057",
+          "item_name": "ふじさん駿河湾フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_051",
+      "name": "あわしまマリンパーク 船車券・入場券売場",
+      "latitude": 35.033142,
+      "longitude": 138.888184,
+      "prefecture": "静岡県",
+      "region": "東日本",
+      "district": "沼津市",
+      "address": "静岡県沼津市内浦重寺186",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_061",
+          "item_name": "あわしまマリンパーク",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_052",
+      "name": "海洋交流館（ガリンコ号乗船券窓口）",
+      "latitude": 44.338337,
+      "longitude": 143.370605,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "紋別市",
+      "address": "北海道紋別市海洋公園1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_063",
+          "item_name": "オホーツク・ガリンコタワー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_053",
+      "name": "苫小牧西港フェリーターミナル（川崎近海汽船窓口）",
+      "latitude": 42.638927,
+      "longitude": 141.636948,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "苫小牧市",
+      "address": "北海道苫小牧市入船町1丁目2-34",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_065",
+          "item_name": "シルバーフェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_054",
+      "name": "八戸港フェリーターミナル",
+      "latitude": 40.547077,
+      "longitude": 141.5065,
+      "prefecture": "青森県",
+      "region": "東日本",
+      "district": "八戸市",
+      "address": "青森県八戸市大字河原木字海岸25",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_065",
+          "item_name": "シルバーフェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_055",
+      "name": "気仙沼エースポート発券所（気仙沼市まち・ひと・しごと交流プラザ1F）",
+      "latitude": 38.90535,
+      "longitude": 141.574936,
+      "prefecture": "宮城県",
+      "region": "東日本",
+      "district": "気仙沼市",
+      "address": "宮城県気仙沼市南町海岸1-11",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_066",
+          "item_name": "大島汽船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_056",
+      "name": "岩部クルーズ乗船受付所（岩部漁港）",
+      "latitude": 41.522293,
+      "longitude": 140.357056,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "松前郡福島町",
+      "address": "北海道松前郡福島町字岩部65-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_069",
+          "item_name": "北海道福島町岩部クルーズ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_057",
+      "name": "小樽運河クルーズ 中央橋チケット発券所",
+      "latitude": 43.199028,
+      "longitude": 141.002686,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "小樽市",
+      "address": "北海道小樽市港町5-4",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_074",
+          "item_name": "小樽運河クルーズ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_058",
+      "name": "大沼合同遊船 チケット窓口",
+      "latitude": 41.969452,
+      "longitude": 140.67981,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "亀田郡七飯町",
+      "address": "北海道亀田郡七飯町大沼町1023-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_076",
+          "item_name": "大沼合同遊船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_059",
+      "name": "一色さかな広場・佐久島行船のりば（一色渡船場待合所）",
+      "latitude": 34.795429,
+      "longitude": 137.013275,
+      "prefecture": "愛知県",
+      "region": "東日本",
+      "district": "西尾市",
+      "address": "愛知県西尾市一色町小薮船江東176",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_078",
+          "item_name": "西尾市営渡船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_060",
+      "name": "森の駅 旭日丘（TOKYO MIDTOWN YAESU / KABAチケットカウンター）",
+      "latitude": 35.401627,
+      "longitude": 138.872665,
+      "prefecture": "山梨県",
+      "region": "東日本",
+      "district": "南都留郡山中湖村",
+      "address": "山梨県南都留郡山中湖村平野506-296",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_080",
+          "item_name": "水陸両用バス山中湖のカバ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_061",
+      "name": "日の出桟橋チケット売場（マリンターミナル1F）",
+      "latitude": 35.009594,
+      "longitude": 138.496704,
+      "prefecture": "静岡県",
+      "region": "東日本",
+      "district": "静岡市",
+      "address": "静岡県静岡市清水区日の出町10-80",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_081",
+          "item_name": "富士山清水港クルーズ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_062",
+      "name": "道の駅 流氷街道網走（網走流氷観光砕氷船おーろら窓口）",
+      "latitude": 44.021942,
+      "longitude": 144.273056,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "網走市",
+      "address": "北海道網走市南3条東4丁目5-1（網走）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_082",
+          "item_name": "道東観光開発",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_063",
+      "name": "ウトロ港案内所",
+      "latitude": 44.076618,
+      "longitude": 145.013687,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "斜里郡斜里町",
+      "address": "北海道斜里郡斜里町ウトロ東（ウトロ）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_082",
+          "item_name": "道東観光開発",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_064",
+      "name": "（※営業終了・廃業）",
+      "latitude": 44.076618,
+      "longitude": 145.013687,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "斜里郡斜里町",
+      "address": "北海道斜里郡斜里町ウトロ東363（旧事務所所在地）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_083",
+          "item_name": "知床クルーザー観光船ドルフィン(※廃業)",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_065",
+      "name": "羽幌港フェリーターミナル（本社窓口）",
+      "latitude": 44.369888,
+      "longitude": 141.702362,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "苫前郡羽幌町",
+      "address": "北海道苫前郡羽幌町港町1丁目51",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_085",
+          "item_name": "羽幌沿海フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_066",
+      "name": "ゴジラ岩観光 ウトロ事務所",
+      "latitude": 44.076618,
+      "longitude": 145.013687,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "斜里郡斜里町",
+      "address": "北海道斜里郡斜里町ウトロ東51（ウトロ）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_088",
+          "item_name": "ゴジラ岩観光",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_067",
+      "name": "ゴジラ岩観光 羅臼事務所",
+      "latitude": 44.017895,
+      "longitude": 145.186691,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "目梨郡羅臼町",
+      "address": "北海道目梨郡羅臼町本町27-1（羅臼）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_088",
+          "item_name": "ゴジラ岩観光",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_068",
+      "name": "船の科学館 別館展示場受付（宗谷保存維持活動窓口）",
+      "latitude": 35.621876,
+      "longitude": 139.772415,
+      "prefecture": "東京都",
+      "region": "東日本",
+      "district": "品川区",
+      "address": "東京都品川区東八潮3-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_089",
+          "item_name": "船の科学館",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_069",
+      "name": "シーバス 横浜駅東口チケットカウンター / ピア赤レンガ窓口",
+      "latitude": 35.466892,
+      "longitude": 139.626587,
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "横浜市",
+      "address": "神奈川県横浜市神奈川区金港町1-10（横浜ベイクォーター2F）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_091",
+          "item_name": "ポートサービス",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_070",
+      "name": "マリーンルージュ乗船窓口（ピア赤レンガチケットカウンター）",
+      "latitude": 35.451965,
+      "longitude": 139.643311,
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "横浜市",
+      "address": "神奈川県横浜市中区新港1丁目1（ピア赤レンガ）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_092",
+          "item_name": "ケーエムシーコーポレーション",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_071",
+      "name": "いわき・ら・ら・ミュウ内 小名浜デイクルーズ乗船券売場",
+      "latitude": 36.945614,
+      "longitude": 140.903778,
+      "prefecture": "福島県",
+      "region": "東日本",
+      "district": "いわき市",
+      "address": "福島県いわき市小名浜字辰巳町43-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_094",
+          "item_name": "小名浜デイクルーズ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_072",
+      "name": "青函連絡船メモリアルシップ八甲田丸 受付窓口",
+      "latitude": 40.828243,
+      "longitude": 140.733459,
+      "prefecture": "青森県",
+      "region": "東日本",
+      "district": "青森市",
+      "address": "青森県青森市柳川1丁目112-15",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_097",
+          "item_name": "青函連絡船八甲田丸",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_073",
+      "name": "伊豆クルーズ乗船券売場（下田港）",
+      "latitude": 34.668526,
+      "longitude": 138.940857,
+      "prefecture": "静岡県",
+      "region": "東日本",
+      "district": "下田市",
+      "address": "静岡県下田市三丁目26-7",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_098",
+          "item_name": "伊豆クルーズ",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_074",
+      "name": "元箱根港",
+      "latitude": 35.203037,
+      "longitude": 139.030975,
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "足柄下郡箱根町",
+      "address": "神奈川県足柄下郡箱根町元箱根45-4（元箱根港）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_101",
+          "item_name": "箱根遊船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_075",
+      "name": "箱根園港 チケット売場（箱根遊船 SORAKAZE）",
+      "latitude": 35.211807,
+      "longitude": 139.009964,
+      "prefecture": "",
+      "region": "その他",
+      "district": "全域",
+      "address": "箱根町元箱根139（箱根園港）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_101",
+          "item_name": "箱根遊船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_076",
+      "name": "記念艦「三笠」観覧券売場（三笠公園内）",
+      "latitude": 35.282368,
+      "longitude": 139.672165,
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "横須賀市",
+      "address": "神奈川県横須賀市小川町82-19",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_108",
+          "item_name": "記念艦 三笠",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_077",
+      "name": "美浜町レイクセンター 乗船受付窓口（三方五湖電池推進遊覧船）",
+      "latitude": 35.619946,
+      "longitude": 135.9021,
+      "prefecture": "福井県",
+      "region": "東日本",
+      "district": "三方郡美浜町",
+      "address": "福井県三方郡美浜町早瀬24-4-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_109",
+          "item_name": "美浜町レイクセンター",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_078",
+      "name": "堂ヶ島マリン 乗船券売場（堂ヶ島営業所）",
+      "latitude": 34.781197,
+      "longitude": 138.774338,
+      "prefecture": "静岡県",
+      "region": "東日本",
+      "district": "賀茂郡西伊豆町",
+      "address": "静岡県賀茂郡西伊豆町仁科2060",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_110",
+          "item_name": "堂ヶ島マリン",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_079",
+      "name": "東尋坊観光遊覧船 チケット売場（三国営業所）",
+      "latitude": 36.235687,
+      "longitude": 136.128922,
+      "prefecture": "福井県",
+      "region": "東日本",
+      "district": "坂井市",
+      "address": "福井県坂井市三国町安島64-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_111",
+          "item_name": "東尋坊観光遊覧船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_080",
+      "name": "SHIRASE 5002 見学受付（サッポロビール千葉工場内岸壁）",
+      "latitude": 35.666405,
+      "longitude": 139.992004,
+      "prefecture": "千葉県",
+      "region": "東日本",
+      "district": "船橋市",
+      "address": "千葉県船橋市高瀬町2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_112",
+          "item_name": "SHIRASE5002",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_081",
+      "name": "箱根町港",
+      "latitude": 35.192562,
+      "longitude": 139.026779,
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "足柄下郡箱根町",
+      "address": "神奈川県足柄下郡箱根町箱根161（箱根町港）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_117",
+          "item_name": "箱根海賊船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_082",
+      "name": "元箱根港",
+      "latitude": 35.201691,
+      "longitude": 139.031448,
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "足柄下郡箱根町",
+      "address": "神奈川県足柄下郡箱根町元箱根6-40（元箱根港）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_117",
+          "item_name": "箱根海賊船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_083",
+      "name": "海上保安資料館 横浜館（工作船展示館）内 売店",
+      "latitude": 35.455482,
+      "longitude": 139.644547,
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "横浜市",
+      "address": "神奈川県横浜市中区新港1丁目2-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_118",
+          "item_name": "海上保安協会",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_084",
+      "name": "小樽港第3号ふ頭 観光船のりば待合所（小樽観光振興公社）",
+      "latitude": 43.202847,
+      "longitude": 141.000656,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "小樽市",
+      "address": "北海道小樽市港町4-2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_122",
+          "item_name": "小樽海上観光船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_085",
+      "name": "猪苗代観光船 長浜切符売場",
+      "latitude": 37.526443,
+      "longitude": 140.045593,
+      "prefecture": "福島県",
+      "region": "東日本",
+      "district": "耶麻郡猪苗代町",
+      "address": "福島県耶麻郡猪苗代町大字翁沢字長浜870",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_124",
+          "item_name": "猪苗代観光船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_086",
+      "name": "鹿島港見学船ユーリカ号 のりば（港公園内窓口）",
+      "latitude": 35.911015,
+      "longitude": 140.67131,
+      "prefecture": "茨城県",
+      "region": "東日本",
+      "district": "神栖市",
+      "address": "茨城県神栖市東深芝9",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_125",
+          "item_name": "鹿島埠頭",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_087",
+      "name": "函館フェリーターミナル",
+      "latitude": 41.810024,
+      "longitude": 140.712112,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "函館市",
+      "address": "北海道函館市港町3丁目19-2",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_128",
+          "item_name": "津軽海峡フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_088",
+      "name": "青森フェリーターミナル",
+      "latitude": 40.844463,
+      "longitude": 140.715805,
+      "prefecture": "青森県",
+      "region": "東日本",
+      "district": "青森市",
+      "address": "青森県青森市沖館2丁目12-1（青森）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_128",
+          "item_name": "津軽海峡フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_089",
+      "name": "大間フェリーターミナル",
+      "latitude": 41.52702,
+      "longitude": 140.920334,
+      "prefecture": "青森県",
+      "region": "東日本",
+      "district": "下北郡大間町",
+      "address": "青森県下北郡大間町大字大間字割石127（大間）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_128",
+          "item_name": "津軽海峡フェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_090",
+      "name": "江差港フェリーターミナル",
+      "latitude": 43.064323,
+      "longitude": 141.346878,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "蝦夷郡江差町",
+      "address": "北海道蝦夷郡江差町字姥神町1-10（江差）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_132",
+          "item_name": "オクシリアイランドフェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_091",
+      "name": "奥尻港フェリーターミナル",
+      "latitude": 42.1707,
+      "longitude": 139.491104,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "奥尻郡奥尻町",
+      "address": "北海道奥尻郡奥尻町奥尻（奥尻）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_132",
+          "item_name": "オクシリアイランドフェリー",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_092",
+      "name": "桧原湖観光船 桧原丸のりば（裏磐梯物産館横）",
+      "latitude": 37.691696,
+      "longitude": 140.084763,
+      "prefecture": "福島県",
+      "region": "東日本",
+      "district": "耶麻郡北塩原村",
+      "address": "福島県耶麻郡北塩原村大字桧原字湯平山1171-1",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_133",
+          "item_name": "桧原湖観光船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_093",
+      "name": "沼津港 千鳥丸のりば待合所",
+      "latitude": 35.081272,
+      "longitude": 138.856262,
+      "prefecture": "静岡県",
+      "region": "東日本",
+      "district": "沼津市",
+      "address": "静岡県沼津市千本港町128-1（沼津港）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_135",
+          "item_name": "千鳥観光汽船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_094",
+      "name": "沼津港 三津営業所",
+      "latitude": 35.019711,
+      "longitude": 138.899048,
+      "prefecture": "静岡県",
+      "region": "東日本",
+      "district": "沼津市",
+      "address": "静岡県沼津市内浦三津43-7（三津）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_135",
+          "item_name": "千鳥観光汽船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_095",
+      "name": "霧幻峡の渡し 乗船受付所（早戸温泉つるの湯 / 滝谷側乗船場）",
+      "latitude": 37.464878,
+      "longitude": 139.595764,
+      "prefecture": "福島県",
+      "region": "東日本",
+      "district": "大沼郡三島町",
+      "address": "福島県大沼郡三島町早戸湯ノ平888（つるの湯）",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_144",
+          "item_name": "霧幻峡の渡し",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_096",
+      "name": "船の駅中禅寺（東武興業 中禅寺湖遊覧船営業所）",
+      "latitude": 36.741398,
+      "longitude": 139.494354,
+      "prefecture": "栃木県",
+      "region": "東日本",
+      "district": "日光市",
+      "address": "栃木県日光市中宮祠2478",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_145",
+          "item_name": "中禅寺湖遊覧船",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gosenin_097",
+      "name": "石川県銭屋五兵衛記念館・銭五の館 受付窓口",
+      "latitude": 36.596855,
+      "longitude": 136.597549,
+      "prefecture": "石川県",
+      "region": "東日本",
+      "district": "金沢市",
+      "address": "石川県金沢市金石本町ロ55",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "",
+      "image_urls": [
+        "assets/images/spots/sample.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "gosenin_146",
+          "item_name": "石川県銭屋五兵衛記念館",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/spots/sample.png"
+        }
+      ]
+    }
+  ]
+}
