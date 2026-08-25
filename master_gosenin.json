@@ -1,7 +1,7 @@
 {
   "genre": "gosenin",
-  "version": "2026.08.1",
-  "updated_at": "2026-08-18T00:00:00Z",
+  "version": "20260825.164215",
+  "updated_at": "2026-08-25T07:42:15Z",
   "spots": [
     {
       "spot_id": "spot_gosenin_001",
@@ -10,12 +10,12 @@
       "longitude": 133.076141,
       "prefecture": "島根県",
       "region": "西日本",
-      "district": "隠岐郡海士町",
+      "district": "中国",
       "address": "島根県隠岐郡海士町福井1365-5",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.ama-kankou.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -38,12 +38,12 @@
       "longitude": 132.70314,
       "prefecture": "愛媛県",
       "region": "西日本",
-      "district": "松山市",
+      "district": "四国",
       "address": "愛媛県松山市高浜町5丁目2259-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.matsuyamakankouko.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -66,12 +66,12 @@
       "longitude": 132.455124,
       "prefecture": "広島県",
       "region": "西日本",
-      "district": "広島市",
+      "district": "中国",
       "address": "広島県広島市南区宇品海岸1丁目13-26",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.hijikou.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -94,12 +94,12 @@
       "longitude": 132.556473,
       "prefecture": "広島県",
       "region": "西日本",
-      "district": "呉市",
+      "district": "中国",
       "address": "広島県呉市宝町4-44 呉港ターミナル1F",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kure-port.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -122,12 +122,12 @@
       "longitude": 139.798431,
       "prefecture": "東京都",
       "region": "東日本",
-      "district": "八丈島八丈町",
+      "district": "関東",
       "address": "東京都八丈島八丈町三根4184-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tokaikisen.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -150,12 +150,12 @@
       "longitude": 137.020294,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "田原市",
+      "district": "東海",
       "address": "愛知県田原市伊良湖町宮下3000-65",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tatsumi-joko.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -178,12 +178,12 @@
       "longitude": 136.843994,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "鳥羽市",
+      "district": "東海",
       "address": "三重県鳥羽市鳥羽3丁目1484-111",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.shima-marineline.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -206,12 +206,12 @@
       "longitude": 139.79541,
       "prefecture": "東京都",
       "region": "東日本",
-      "district": "江東区",
+      "district": "関東",
       "address": "東京都江東区有明4丁目8-6",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.uf-ferry.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -234,12 +234,12 @@
       "longitude": 139.7621,
       "prefecture": "東京都",
       "region": "東日本",
-      "district": "港区",
+      "district": "関東",
       "address": "東京都港区海岸1丁目12-2",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tokaikisen.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -262,12 +262,12 @@
       "longitude": 135.184692,
       "prefecture": "兵庫県",
       "region": "西日本",
-      "district": "神戸市",
+      "district": "近畿",
       "address": "兵庫県神戸市中央区東川崎町1丁目6-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://thekobecruise.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -290,12 +290,12 @@
       "longitude": 135.185196,
       "prefecture": "兵庫県",
       "region": "西日本",
-      "district": "神戸市",
+      "district": "近畿",
       "address": "兵庫県神戸市中央区波止場町7-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kamomeria.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -318,12 +318,12 @@
       "longitude": 139.061783,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "新潟市",
+      "district": "甲信越",
       "address": "新潟県新潟市中央区万代島9-1（新潟港）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.niigatakou.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -346,12 +346,12 @@
       "longitude": 138.437286,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "佐渡市",
+      "district": "甲信越",
       "address": "新潟県佐渡市両津湊353（両津港）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.ryotsuport.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -374,12 +374,12 @@
       "longitude": 139.759583,
       "prefecture": "東京都",
       "region": "東日本",
-      "district": "港区",
+      "district": "関東",
       "address": "東京都港区海岸2丁目7-104",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.symphony-cruise.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -402,12 +402,12 @@
       "longitude": 139.746506,
       "prefecture": "東京都",
       "region": "東日本",
-      "district": "品川区",
+      "district": "関東",
       "address": "東京都品川区東品川1丁目39-21",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.zeal.as/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -430,12 +430,12 @@
       "longitude": 136.816345,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "志摩市",
+      "district": "東海",
       "address": "三重県志摩市阿児町神明752-111",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.shima-marineline.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -458,12 +458,12 @@
       "longitude": 135.199112,
       "prefecture": "兵庫県",
       "region": "西日本",
-      "district": "神戸市",
+      "district": "近畿",
       "address": "兵庫県神戸市中央区新港町3-7",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://with-ferry.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -486,12 +486,12 @@
       "longitude": 138.940781,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "下田市",
+      "district": "東海",
       "address": "静岡県下田市三丁目26-8",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.shinshin-kisen.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -514,12 +514,12 @@
       "longitude": 141.015976,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "小樽市",
+      "district": "北海道",
       "address": "北海道小樽市築港7-2（小樽）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.otaru-port.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -542,12 +542,12 @@
       "longitude": 141.867172,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "勇払郡厚真町",
+      "district": "北海道",
       "address": "北海道勇払郡厚真町浜厚真17-6（苫小牧東）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tomakomai-higashi.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -570,12 +570,12 @@
       "longitude": 140.058105,
       "prefecture": "秋田県",
       "region": "東日本",
-      "district": "秋田市",
+      "district": "東北",
       "address": "秋田県秋田市土崎港西1丁目13-13",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.akitako.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -598,12 +598,12 @@
       "longitude": 139.070801,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "新潟市",
+      "district": "甲信越",
       "address": "新潟県新潟市東区末広町1-1（新潟） / 〒914-0274 福井県敦賀市泉231（敦賀）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.niigata-port.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -626,12 +626,12 @@
       "longitude": 135.386108,
       "prefecture": "京都府",
       "region": "西日本",
-      "district": "舞鶴市",
+      "district": "近畿",
       "address": "京都府舞鶴市字前島2-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www. maizuru-kanko.net/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -654,12 +654,12 @@
       "longitude": 135.737213,
       "prefecture": "福井県",
       "region": "東日本",
-      "district": "小浜市",
+      "district": "北陸",
       "address": "福井県小浜市川崎1丁目3-2",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.wakasa-fishermanswharf.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -682,12 +682,12 @@
       "longitude": 136.809021,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "常滑市",
+      "district": "東海",
       "address": "愛知県常滑市セントレア1丁目1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.centrair.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -710,12 +710,12 @@
       "longitude": 136.528809,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "津市",
+      "district": "東海",
       "address": "三重県津市なぎさまち1-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tsu-nagisamachi.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -738,12 +738,12 @@
       "longitude": 139.7621,
       "prefecture": "東京都",
       "region": "東日本",
-      "district": "港区",
+      "district": "関東",
       "address": "東京都港区海岸1丁目12-2",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tokaikisen.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -766,12 +766,12 @@
       "longitude": 139.684723,
       "prefecture": "神奈川県",
       "region": "東日本",
-      "district": "横須賀市",
+      "district": "関東",
       "address": "神奈川県横須賀市平成町3丁目29-2",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.sinnkouhuto.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -794,12 +794,12 @@
       "longitude": 139.792419,
       "prefecture": "東京都",
       "region": "東日本",
-      "district": "墨田区",
+      "district": "関東",
       "address": "東京都墨田区横網1丁目2-13",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tokyo-park.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -822,12 +822,12 @@
       "longitude": 139.713745,
       "prefecture": "神奈川県",
       "region": "東日本",
-      "district": "横須賀市",
+      "district": "関東",
       "address": "神奈川県横須賀市久里浜8丁目17-20（久里浜）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kurihama-ferry.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -850,12 +850,12 @@
       "longitude": 139.836441,
       "prefecture": "千葉県",
       "region": "東日本",
-      "district": "富津市",
+      "district": "関東",
       "address": "千葉県富津市金谷4303（金谷）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kanaya-ferry.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -878,12 +878,12 @@
       "longitude": 135.144287,
       "prefecture": "和歌山県",
       "region": "西日本",
-      "district": "和歌山市",
+      "district": "近畿",
       "address": "和歌山県和歌山市湊280",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.wakayamako.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -906,12 +906,12 @@
       "longitude": 141.683319,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "稚内市",
+      "district": "北海道",
       "address": "北海道稚内市開運2丁目7-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.wakkanai-ferry.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -934,12 +934,12 @@
       "longitude": 141.636948,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "苫小牧市",
+      "district": "北海道",
       "address": "北海道苫小牧市入船町1丁目2-34",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.sunflower.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -962,12 +962,12 @@
       "longitude": 140.572906,
       "prefecture": "茨城県",
       "region": "東日本",
-      "district": "東茨城郡大洗町",
+      "district": "関東",
       "address": "茨城県東茨城郡大洗町港中央2",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.daikai-port.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -990,12 +990,12 @@
       "longitude": 138.872665,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "南都留郡山中湖村",
+      "district": "甲信越",
       "address": "山梨県南都留郡山中湖村平野506-296",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.yamanakako.gr.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1018,12 +1018,12 @@
       "longitude": 139.07634,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "熱海市",
+      "district": "東海",
       "address": "静岡県熱海市和田浜南町6-11",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.hatamari.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1046,12 +1046,12 @@
       "longitude": 138.767746,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "南都留郡富士河口湖町",
+      "district": "甲信越",
       "address": "山梨県南都留郡富士河口湖町船津4034",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.funatsukakanko.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1074,12 +1074,12 @@
       "longitude": 136.97226,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "知多郡南知多町",
+      "district": "東海",
       "address": "愛知県知多郡南知多町師崎明神山8（師崎港）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.minami-chita-kankou.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1102,12 +1102,12 @@
       "longitude": 136.915543,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "知多郡美浜町",
+      "district": "東海",
       "address": "愛知県知多郡美浜町河和北屋敷276（河和港）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.meitetsu.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1130,12 +1130,12 @@
       "longitude": 141.636948,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "苫小牧市",
+      "district": "北海道",
       "address": "北海道苫小牧市入船町1丁目2-34",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.taiheiyo-ferry.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1158,12 +1158,12 @@
       "longitude": 141.004044,
       "prefecture": "宮城県",
       "region": "東日本",
-      "district": "仙台市",
+      "district": "東北",
       "address": "宮城県仙台市宮城野区港3丁目7-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.taiheiyo-ferry.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1186,12 +1186,12 @@
       "longitude": 136.852753,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "名古屋市",
+      "district": "東海",
       "address": "愛知県名古屋市港区金城ふ頭3丁目1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.taiheiyo-ferry.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1214,12 +1214,12 @@
       "longitude": 139.651474,
       "prefecture": "栃木県",
       "region": "東日本",
-      "district": "日光市",
+      "district": "関東",
       "address": "栃木県日光市西川478-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.yunisigawa.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1242,12 +1242,12 @@
       "longitude": 138.131546,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "諏訪市",
+      "district": "甲信越",
       "address": "長野県諏訪市沖田町4丁目39",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.suwako-ducktour.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1270,12 +1270,12 @@
       "longitude": 139.673569,
       "prefecture": "神奈川県",
       "region": "東日本",
-      "district": "横須賀市",
+      "district": "関東",
       "address": "神奈川県横須賀市小川町27-10",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.sarushima.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1298,12 +1298,12 @@
       "longitude": 139.436462,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "村",
+      "district": "甲信越",
       "address": "新潟県村上市岩船新町7-10",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.awashima-kisen.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1326,12 +1326,12 @@
       "longitude": 139.027603,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "魚沼市",
+      "district": "甲信越",
       "address": "新潟県魚沼市湯之谷芋川字大鳥1317-3",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.okutadami.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1354,12 +1354,12 @@
       "longitude": 138.496704,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "静岡市",
+      "district": "東海",
       "address": "静岡県静岡市清水区日の出町10-80（清水）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www. Shimizu-port.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1382,12 +1382,12 @@
       "longitude": 138.787369,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "伊豆市",
+      "district": "東海",
       "address": "静岡県伊豆市土肥2920（土肥）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.toshicruise.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1410,12 +1410,12 @@
       "longitude": 138.888184,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "沼津市",
+      "district": "東海",
       "address": "静岡県沼津市内浦重寺186",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.awashima-marine.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1438,12 +1438,12 @@
       "longitude": 143.370605,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "紋別市",
+      "district": "北海道",
       "address": "北海道紋別市海洋公園1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.garinko.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1466,12 +1466,12 @@
       "longitude": 141.636948,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "苫小牧市",
+      "district": "北海道",
       "address": "北海道苫小牧市入船町1丁目2-34",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kline-k.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1494,12 +1494,12 @@
       "longitude": 141.5065,
       "prefecture": "青森県",
       "region": "東日本",
-      "district": "八戸市",
+      "district": "東北",
       "address": "青森県八戸市大字河原木字海岸25",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.silverferry.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1522,12 +1522,12 @@
       "longitude": 141.574936,
       "prefecture": "宮城県",
       "region": "東日本",
-      "district": "気仙沼市",
+      "district": "東北",
       "address": "宮城県気仙沼市南町海岸1-11",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://kesennuma-kankou.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1550,12 +1550,12 @@
       "longitude": 140.357056,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "松前郡福島町",
+      "district": "北海道",
       "address": "北海道松前郡福島町字岩部65-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://iwa-cruise.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1578,12 +1578,12 @@
       "longitude": 141.002686,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "小樽市",
+      "district": "北海道",
       "address": "北海道小樽市港町5-4",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://otaru.cc/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1606,12 +1606,12 @@
       "longitude": 140.67981,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "亀田郡七飯町",
+      "district": "北海道",
       "address": "北海道亀田郡七飯町大沼町1023-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://onuma-yusen.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1634,12 +1634,12 @@
       "longitude": 137.013275,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "西尾市",
+      "district": "東海",
       "address": "愛知県西尾市一色町小薮船江東176",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.isshiki-sakushima.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1662,12 +1662,12 @@
       "longitude": 138.872665,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "南都留郡山中湖村",
+      "district": "甲信越",
       "address": "山梨県南都留郡山中湖村平野506-296",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.yamanakako.gr.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1690,12 +1690,12 @@
       "longitude": 138.496704,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "静岡市",
+      "district": "東海",
       "address": "静岡県静岡市清水区日の出町10-80",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www. Shimizu-port.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1718,12 +1718,12 @@
       "longitude": 144.273056,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "網走市",
+      "district": "北海道",
       "address": "北海道網走市南3条東4丁目5-1（網走）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.ms-aurora.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1746,12 +1746,12 @@
       "longitude": 145.013687,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "斜里郡斜里町",
+      "district": "北海道",
       "address": "北海道斜里郡斜里町ウトロ東（ウトロ）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.shiretoko.at/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1774,7 +1774,7 @@
       "longitude": 145.013687,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "斜里郡斜里町",
+      "district": "北海道",
       "address": "北海道斜里郡斜里町ウトロ東363（旧事務所所在地）",
       "contact": "",
       "business_hours": "",
@@ -1802,12 +1802,12 @@
       "longitude": 141.702362,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "苫前郡羽幌町",
+      "district": "北海道",
       "address": "北海道苫前郡羽幌町港町1丁目51",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.haboro-ferry.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1830,12 +1830,12 @@
       "longitude": 145.013687,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "斜里郡斜里町",
+      "district": "北海道",
       "address": "北海道斜里郡斜里町ウトロ東51（ウトロ）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://kamuiwakka.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1858,12 +1858,12 @@
       "longitude": 145.186691,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "目梨郡羅臼町",
+      "district": "北海道",
       "address": "北海道目梨郡羅臼町本町27-1（羅臼）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://kamuiwakka.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1886,12 +1886,12 @@
       "longitude": 139.772415,
       "prefecture": "東京都",
       "region": "東日本",
-      "district": "品川区",
+      "district": "関東",
       "address": "東京都品川区東八潮3-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kaiyou-hakubutsukan.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1914,12 +1914,12 @@
       "longitude": 139.626587,
       "prefecture": "神奈川県",
       "region": "東日本",
-      "district": "横浜市",
+      "district": "関東",
       "address": "神奈川県横浜市神奈川区金港町1-10（横浜ベイクォーター2F）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.yokohama-cruising.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1942,12 +1942,12 @@
       "longitude": 139.643311,
       "prefecture": "神奈川県",
       "region": "東日本",
-      "district": "横浜市",
+      "district": "関東",
       "address": "神奈川県横浜市中区新港1丁目1（ピア赤レンガ）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.yokohama-cruising.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1970,12 +1970,12 @@
       "longitude": 140.903778,
       "prefecture": "福島県",
       "region": "東日本",
-      "district": "いわき市",
+      "district": "東北",
       "address": "福島県いわき市小名浜字辰巳町43-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.ondahama-daycruise.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1998,12 +1998,12 @@
       "longitude": 140.733459,
       "prefecture": "青森県",
       "region": "東日本",
-      "district": "青森市",
+      "district": "東北",
       "address": "青森県青森市柳川1丁目112-15",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://happodamaru.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2026,12 +2026,12 @@
       "longitude": 138.940857,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "下田市",
+      "district": "東海",
       "address": "静岡県下田市三丁目26-7",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.izukyu-marine.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2054,12 +2054,12 @@
       "longitude": 139.030975,
       "prefecture": "神奈川県",
       "region": "東日本",
-      "district": "足柄下郡箱根町",
+      "district": "関東",
       "address": "神奈川県足柄下郡箱根町元箱根45-4（元箱根港）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.hakone-kankosen.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2080,14 +2080,14 @@
       "name": "箱根園港 チケット売場（箱根遊船 SORAKAZE）",
       "latitude": 35.211807,
       "longitude": 139.009964,
-      "prefecture": "",
-      "region": "その他",
-      "district": "全域",
-      "address": "箱根町元箱根139（箱根園港）",
+      "prefecture": "神奈川県",
+      "region": "東日本",
+      "district": "関東",
+      "address": "神奈川県箱根町元箱根139（箱根園港）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.princehotels.co.jp/hakone-en/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2110,12 +2110,12 @@
       "longitude": 139.672165,
       "prefecture": "神奈川県",
       "region": "東日本",
-      "district": "横須賀市",
+      "district": "関東",
       "address": "神奈川県横須賀市小川町82-19",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kinenkan-mikasa.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2138,12 +2138,12 @@
       "longitude": 135.9021,
       "prefecture": "福井県",
       "region": "東日本",
-      "district": "三方郡美浜町",
+      "district": "北陸",
       "address": "福井県三方郡美浜町早瀬24-4-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.mihamatakajuku.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2166,12 +2166,12 @@
       "longitude": 138.774338,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "賀茂郡西伊豆町",
+      "district": "東海",
       "address": "静岡県賀茂郡西伊豆町仁科2060",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.dougashima.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2194,12 +2194,12 @@
       "longitude": 136.128922,
       "prefecture": "福井県",
       "region": "東日本",
-      "district": "坂井市",
+      "district": "北陸",
       "address": "福井県坂井市三国町安島64-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://toujinbou-yuransen.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2222,12 +2222,12 @@
       "longitude": 139.992004,
       "prefecture": "千葉県",
       "region": "東日本",
-      "district": "船橋市",
+      "district": "関東",
       "address": "千葉県船橋市高瀬町2",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://shirase.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2250,12 +2250,12 @@
       "longitude": 139.026779,
       "prefecture": "神奈川県",
       "region": "東日本",
-      "district": "足柄下郡箱根町",
+      "district": "関東",
       "address": "神奈川県足柄下郡箱根町箱根161（箱根町港）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.hakone-kankosen.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2278,12 +2278,12 @@
       "longitude": 139.031448,
       "prefecture": "神奈川県",
       "region": "東日本",
-      "district": "足柄下郡箱根町",
+      "district": "関東",
       "address": "神奈川県足柄下郡箱根町元箱根6-40（元箱根港）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.hakone-kankosen.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2306,12 +2306,12 @@
       "longitude": 139.644547,
       "prefecture": "神奈川県",
       "region": "東日本",
-      "district": "横浜市",
+      "district": "関東",
       "address": "神奈川県横浜市中区新港1丁目2-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kaiho.mlit.go.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2334,12 +2334,12 @@
       "longitude": 141.000656,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "小樽市",
+      "district": "北海道",
       "address": "北海道小樽市港町4-2",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.otaru.cc/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2362,12 +2362,12 @@
       "longitude": 140.045593,
       "prefecture": "福島県",
       "region": "東日本",
-      "district": "耶麻郡猪苗代町",
+      "district": "東北",
       "address": "福島県耶麻郡猪苗代町大字翁沢字長浜870",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.inawashiro-kankou.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2390,12 +2390,12 @@
       "longitude": 140.67131,
       "prefecture": "茨城県",
       "region": "東日本",
-      "district": "神栖市",
+      "district": "関東",
       "address": "茨城県神栖市東深芝9",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kashima-port.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2418,12 +2418,12 @@
       "longitude": 140.712112,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "函館市",
+      "district": "北海道",
       "address": "北海道函館市港町3丁目19-2",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tsugarukaikyo.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2446,12 +2446,12 @@
       "longitude": 140.715805,
       "prefecture": "青森県",
       "region": "東日本",
-      "district": "青森市",
+      "district": "東北",
       "address": "青森県青森市沖館2丁目12-1（青森）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tsugarukaikyo.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2474,12 +2474,12 @@
       "longitude": 140.920334,
       "prefecture": "青森県",
       "region": "東日本",
-      "district": "下北郡大間町",
+      "district": "東北",
       "address": "青森県下北郡大間町大字大間字割石127（大間）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tsugarukaikyo.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2502,12 +2502,12 @@
       "longitude": 141.346878,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "蝦夷郡江差町",
+      "district": "北海道",
       "address": "北海道蝦夷郡江差町字姥神町1-10（江差）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.ハートランドフェリー.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2530,12 +2530,12 @@
       "longitude": 139.491104,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "奥尻郡奥尻町",
+      "district": "北海道",
       "address": "北海道奥尻郡奥尻町奥尻（奥尻）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.okushiri-ferry.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2558,12 +2558,12 @@
       "longitude": 140.084763,
       "prefecture": "福島県",
       "region": "東日本",
-      "district": "耶麻郡北塩原村",
+      "district": "東北",
       "address": "福島県耶麻郡北塩原村大字桧原字湯平山1171-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.urabandai-inf.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2586,12 +2586,12 @@
       "longitude": 138.856262,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "沼津市",
+      "district": "東海",
       "address": "静岡県沼津市千本港町128-1（沼津港）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.chidorimaru.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2614,12 +2614,12 @@
       "longitude": 138.899048,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "沼津市",
+      "district": "東海",
       "address": "静岡県沼津市内浦三津43-7（三津）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.izuhakone.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2642,12 +2642,12 @@
       "longitude": 139.595764,
       "prefecture": "福島県",
       "region": "東日本",
-      "district": "大沼郡三島町",
+      "district": "東北",
       "address": "福島県大沼郡三島町早戸湯ノ平888（つるの湯）",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://mugenkyo.info/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2670,12 +2670,12 @@
       "longitude": 139.494354,
       "prefecture": "栃木県",
       "region": "東日本",
-      "district": "日光市",
+      "district": "関東",
       "address": "栃木県日光市中宮祠2478",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.chuzenjiko-cruise.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2698,12 +2698,12 @@
       "longitude": 136.597549,
       "prefecture": "石川県",
       "region": "東日本",
-      "district": "金沢市",
+      "district": "北陸",
       "address": "石川県金沢市金石本町ロ55",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.zenigoya.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],

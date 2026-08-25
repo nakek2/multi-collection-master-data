@@ -1,7 +1,7 @@
 {
   "genre": "goshouin",
-  "version": "2026.08.1",
-  "updated_at": "2026-08-18T00:00:00Z",
+  "version": "20260825.164221",
+  "updated_at": "2026-08-25T07:42:21Z",
   "spots": [
     {
       "spot_id": "spot_goshouin_001",
@@ -10,12 +10,12 @@
       "longitude": 139.7798,
       "prefecture": "東京都",
       "region": "東日本",
-      "district": "大田区",
+      "district": "関東",
       "address": "東京都大田区羽田空港",
       "contact": "03-5757-9086",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://tokyo-haneda.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -38,12 +38,12 @@
       "longitude": 139.7798,
       "prefecture": "東京都",
       "region": "東日本",
-      "district": "大田区",
+      "district": "関東",
       "address": "東京都大田区羽田空港",
       "contact": "03-5757-9087",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://tokyo-haneda.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -66,12 +66,12 @@
       "longitude": 139.7798,
       "prefecture": "東京都",
       "region": "東日本",
-      "district": "大田区",
+      "district": "関東",
       "address": "東京都大田区羽田空港",
       "contact": "03-5757-9495",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://tokyo-haneda.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -94,12 +94,12 @@
       "longitude": 139.7798,
       "prefecture": "東京都",
       "region": "東日本",
-      "district": "大田区",
+      "district": "関東",
       "address": "東京都大田区羽田空港",
       "contact": "03-5757-9490",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://tokyo-haneda.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -122,12 +122,12 @@
       "longitude": 139.7798,
       "prefecture": "東京都",
       "region": "東日本",
-      "district": "大田区",
+      "district": "関東",
       "address": "東京都大田区羽田空港",
       "contact": "03-5757-9335",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://tokyo-haneda.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -150,12 +150,12 @@
       "longitude": 139.7798,
       "prefecture": "東京都",
       "region": "東日本",
-      "district": "大田区",
+      "district": "関東",
       "address": "東京都大田区羽田空港",
       "contact": "03-5757-9439",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://tokyo-haneda.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -178,12 +178,12 @@
       "longitude": 139.7798,
       "prefecture": "東京都",
       "region": "東日本",
-      "district": "大田区",
+      "district": "関東",
       "address": "東京都大田区羽田空港",
       "contact": "03-5757-9487",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://tokyo-haneda.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -206,12 +206,12 @@
       "longitude": 135.4383,
       "prefecture": "大阪府",
       "region": "西日本",
-      "district": "豊中市",
+      "district": "近畿",
       "address": "大阪府豊中市蛍池西町3-555",
       "contact": "06-6856-0008",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.osaka-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -234,12 +234,12 @@
       "longitude": 135.4383,
       "prefecture": "大阪府",
       "region": "西日本",
-      "district": "豊中市",
+      "district": "近畿",
       "address": "大阪府豊中市蛍池西町3-555",
       "contact": "06-6856-7400",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.osaka-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -262,12 +262,12 @@
       "longitude": 132.6997,
       "prefecture": "愛媛県",
       "region": "西日本",
-      "district": "松山市",
+      "district": "四国",
       "address": "愛媛県松山市南吉田町2731",
       "contact": "089-972-5630",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.matsuyama-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -290,12 +290,12 @@
       "longitude": 132.6997,
       "prefecture": "愛媛県",
       "region": "西日本",
-      "district": "松山市",
+      "district": "四国",
       "address": "愛媛県松山市南吉田町2731",
       "contact": "089-972-5630",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.matsuyama-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -318,12 +318,12 @@
       "longitude": 134.6067,
       "prefecture": "徳島県",
       "region": "西日本",
-      "district": "板野郡",
+      "district": "四国",
       "address": "徳島県板野郡松茂町豊久字朝日野16-2",
       "contact": "088-699-4155",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tokushima-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -346,12 +346,12 @@
       "longitude": 134.6067,
       "prefecture": "徳島県",
       "region": "西日本",
-      "district": "板野郡",
+      "district": "四国",
       "address": "徳島県板野郡松茂町豊久字朝日野16-2",
       "contact": "088-699-4155",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tokushima-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -374,12 +374,12 @@
       "longitude": 130.4506,
       "prefecture": "福岡県",
       "region": "西日本",
-      "district": "福岡市",
+      "district": "九州",
       "address": "福岡県福岡市博多区下臼井778-1",
       "contact": "092-621-8700",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.fuk-ab.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -402,12 +402,12 @@
       "longitude": 130.4506,
       "prefecture": "福岡県",
       "region": "西日本",
-      "district": "福岡市",
+      "district": "九州",
       "address": "福岡県福岡市博多区下臼井778-1",
       "contact": "092-622-4693",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.fuk-ab.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -430,12 +430,12 @@
       "longitude": 130.4506,
       "prefecture": "福岡県",
       "region": "西日本",
-      "district": "福岡市",
+      "district": "九州",
       "address": "福岡県福岡市博多区下臼井778-1",
       "contact": "092-611-8810",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.fuk-ab.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -458,12 +458,12 @@
       "longitude": 130.4506,
       "prefecture": "福岡県",
       "region": "西日本",
-      "district": "福岡市",
+      "district": "九州",
       "address": "福岡県福岡市博多区下臼井778-1",
       "contact": "092-411-1011",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.fuk-ab.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -486,12 +486,12 @@
       "longitude": 127.6458,
       "prefecture": "沖縄県",
       "region": "西日本",
-      "district": "那覇市",
+      "district": "那覇",
       "address": "沖縄県那覇市鏡水150",
       "contact": "098-857-6872",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.naha-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -514,12 +514,12 @@
       "longitude": 127.6458,
       "prefecture": "沖縄県",
       "region": "西日本",
-      "district": "那覇市",
+      "district": "那覇",
       "address": "沖縄県那覇市鏡水150",
       "contact": "098-858-0261",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.naha-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -542,12 +542,12 @@
       "longitude": 141.6923,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "千歳市",
+      "district": "北海道",
       "address": "北海道千歳市美々",
       "contact": "0123-46-2461",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.new-chitose-airport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -570,12 +570,12 @@
       "longitude": 141.6923,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "千歳市",
+      "district": "北海道",
       "address": "北海道千歳市美々",
       "contact": "0123-46-2455",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.new-chitose-airport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -598,12 +598,12 @@
       "longitude": 136.8053,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "常滑市",
+      "district": "中部",
       "address": "愛知県常滑市セントレア1-1",
       "contact": "0569-38-7062",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.centrair.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -626,12 +626,12 @@
       "longitude": 136.8053,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "常滑市",
+      "district": "中部",
       "address": "愛知県常滑市セントレア1-1",
       "contact": "0569-38-7068",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.centrair.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -654,12 +654,12 @@
       "longitude": 134.0156,
       "prefecture": "香川県",
       "region": "西日本",
-      "district": "高松市",
+      "district": "四国",
       "address": "香川県高松市香南町岡1312-7",
       "contact": "087-814-3419",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.takamatsu-airport.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -682,12 +682,12 @@
       "longitude": 134.0156,
       "prefecture": "香川県",
       "region": "西日本",
-      "district": "高松市",
+      "district": "四国",
       "address": "香川県高松市香南町岡1312-7",
       "contact": "087-815-8377",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.takamatsu-airport.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -710,12 +710,12 @@
       "longitude": 133.6694,
       "prefecture": "高知県",
       "region": "西日本",
-      "district": "南国市",
+      "district": "四国",
       "address": "高知県南国市久枝乙58",
       "contact": "088-863-2907",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kochi-airport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -738,12 +738,12 @@
       "longitude": 139.1206,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "新潟市",
+      "district": "北陸",
       "address": "新潟県新潟市東区松浜町3710",
       "contact": "025-275-2638",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.niigata-airport.gr.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -766,12 +766,12 @@
       "longitude": 140.8222,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "函館市",
+      "district": "北海道",
       "address": "北海道函館市高松町511",
       "contact": "0138-59-3131",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.airport.hakodate.hkd.mlit.go.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -794,12 +794,12 @@
       "longitude": 144.1931,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "釧路市",
+      "district": "北海道",
       "address": "北海道釧路市鶴丘2",
       "contact": "0154-57-5274",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://kushiro-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -822,12 +822,12 @@
       "longitude": 144.1931,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "釧路市",
+      "district": "北海道",
       "address": "北海道釧路市鶴丘2",
       "contact": "0154-57-5274",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://kushiro-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -850,12 +850,12 @@
       "longitude": 142.4475,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "東神楽町",
+      "district": "北海道",
       "address": "北海道上川郡東神楽町東2線16号98",
       "contact": "0166-83-3659",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.aapb.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -878,12 +878,12 @@
       "longitude": 142.4475,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "東神楽町",
+      "district": "北海道",
       "address": "北海道上川郡東神楽町東2線16号98",
       "contact": "0166-83-3659",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.aapb.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -906,12 +906,12 @@
       "longitude": 143.2172,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "帯広市",
+      "district": "北海道",
       "address": "北海道帯広市泉町西9線中8-41",
       "contact": "0155-64-5676",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.obihiro-airport.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -934,12 +934,12 @@
       "longitude": 143.2172,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "帯広市",
+      "district": "北海道",
       "address": "北海道帯広市泉町西9線中8-41",
       "contact": "0155-64-5676",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.obihiro-airport.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -962,12 +962,12 @@
       "longitude": 144.1644,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "網走郡",
+      "district": "北海道",
       "address": "北海道網走郡大空町女満別中央201-3",
       "contact": "0152-74-3516",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://memanbetsu-airport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -990,12 +990,12 @@
       "longitude": 144.1644,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "網走郡",
+      "district": "北海道",
       "address": "北海道網走郡大空町女満別中央201-3",
       "contact": "0152-74-3516",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://memanbetsu-airport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1018,12 +1018,12 @@
       "longitude": 140.6906,
       "prefecture": "青森県",
       "region": "東日本",
-      "district": "青森市",
+      "district": "東北",
       "address": "青森県青森市大谷小谷1-5",
       "contact": "017-739-9809",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.aomori-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1046,12 +1046,12 @@
       "longitude": 140.6906,
       "prefecture": "青森県",
       "region": "東日本",
-      "district": "青森市",
+      "district": "東北",
       "address": "青森県青森市大谷小谷1-5",
       "contact": "017-739-9809",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.aomori-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1074,12 +1074,12 @@
       "longitude": 140.3856,
       "prefecture": "千葉県",
       "region": "東日本",
-      "district": "成田市",
+      "district": "北海道",
       "address": "千葉県成田市古込1-1",
       "contact": "0476-34-6205",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.narita-airport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1102,12 +1102,12 @@
       "longitude": 140.3856,
       "prefecture": "千葉県",
       "region": "東日本",
-      "district": "成田市",
+      "district": "北海道",
       "address": "千葉県成田市古込1-1",
       "contact": "0476-34-6210",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.narita-airport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1130,12 +1130,12 @@
       "longitude": 140.3856,
       "prefecture": "千葉県",
       "region": "東日本",
-      "district": "成田市",
+      "district": "北海道",
       "address": "千葉県成田市古込1-1",
       "contact": "0476-34-6212",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.narita-airport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1158,12 +1158,12 @@
       "longitude": 140.3856,
       "prefecture": "千葉県",
       "region": "東日本",
-      "district": "成田市",
+      "district": "北海道",
       "address": "千葉県成田市古込1-1",
       "contact": "0476-34-6128",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.narita-airport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1186,12 +1186,12 @@
       "longitude": 140.3856,
       "prefecture": "千葉県",
       "region": "東日本",
-      "district": "成田市",
+      "district": "北海道",
       "address": "千葉県成田市古込1-1",
       "contact": "0476-34-6217",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.narita-airport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1214,12 +1214,12 @@
       "longitude": 132.89,
       "prefecture": "島根県",
       "region": "西日本",
-      "district": "出雲市",
+      "district": "中国",
       "address": "島根県出雲市斐川町沖洲2633-1",
       "contact": "0853-72-6979",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.izumo-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1242,12 +1242,12 @@
       "longitude": 132.89,
       "prefecture": "島根県",
       "region": "西日本",
-      "district": "出雲市",
+      "district": "中国",
       "address": "島根県出雲市斐川町沖洲2633-1",
       "contact": "0853-72-6979",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.izumo-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1270,12 +1270,12 @@
       "longitude": 132.9194,
       "prefecture": "広島県",
       "region": "西日本",
-      "district": "三原市",
+      "district": "中国",
       "address": "広島県三原市本郷町善入寺64-31",
       "contact": "0848-86-8620",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.hij.aeroport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1298,12 +1298,12 @@
       "longitude": 131.0347,
       "prefecture": "福岡県",
       "region": "西日本",
-      "district": "北九州市",
+      "district": "九州",
       "address": "福岡県北九州市小倉南区空港北町6",
       "contact": "093-474-3811",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kitakyu-air.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1326,12 +1326,12 @@
       "longitude": 131.4486,
       "prefecture": "宮崎県",
       "region": "西日本",
-      "district": "宮崎市",
+      "district": "九州",
       "address": "宮崎県宮崎市大字赤江",
       "contact": "0985-52-1136",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.miyazaki-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1354,12 +1354,12 @@
       "longitude": 131.7375,
       "prefecture": "大分県",
       "region": "西日本",
-      "district": "国東市",
+      "district": "九州",
       "address": "大分県国東市安岐町下原13",
       "contact": "0978-66-7351",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.oita-airport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1382,12 +1382,12 @@
       "longitude": 130.7194,
       "prefecture": "鹿児島県",
       "region": "西日本",
-      "district": "霧島市",
+      "district": "九州",
       "address": "鹿児島県霧島市溝辺町麓822",
       "contact": "0995-58-2737",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.koj-ab.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1410,12 +1410,12 @@
       "longitude": 130.7194,
       "prefecture": "鹿児島県",
       "region": "西日本",
-      "district": "霧島市",
+      "district": "九州",
       "address": "鹿児島県霧島市溝辺町麓822",
       "contact": "0995-58-4636",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.koj-ab.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1438,12 +1438,12 @@
       "longitude": 129.9136,
       "prefecture": "長崎県",
       "region": "西日本",
-      "district": "大村市",
+      "district": "九州",
       "address": "長崎県大村市箕島町593",
       "contact": "0957-20-7166",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://nagasaki-airport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1466,12 +1466,12 @@
       "longitude": 130.8547,
       "prefecture": "熊本県",
       "region": "西日本",
-      "district": "上益城郡",
+      "district": "九州",
       "address": "熊本県上益城郡益城町大字小谷1802-2",
       "contact": "096-232-5069",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kumamoto-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1494,12 +1494,12 @@
       "longitude": 141.38,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "札幌市",
+      "district": "北海道",
       "address": "北海道札幌市東区丘珠町",
       "contact": "011-785-5411",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://okadama-airport.gr.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1522,12 +1522,12 @@
       "longitude": 141.3683,
       "prefecture": "青森県",
       "region": "東日本",
-      "district": "三沢市",
+      "district": "東北",
       "address": "青森県三沢市三沢下平",
       "contact": "0176-51-1460",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.misawa-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1550,12 +1550,12 @@
       "longitude": 140.9169,
       "prefecture": "宮城県",
       "region": "東日本",
-      "district": "名取市",
+      "district": "東北",
       "address": "宮城県名取市下増田南原",
       "contact": "022-383-6205",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.sendai-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1578,12 +1578,12 @@
       "longitude": 140.9169,
       "prefecture": "宮城県",
       "region": "東日本",
-      "district": "名取市",
+      "district": "東北",
       "address": "宮城県名取市下増田南原",
       "contact": "022-383-6205",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.sendai-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1606,12 +1606,12 @@
       "longitude": 136.4075,
       "prefecture": "石川県",
       "region": "東日本",
-      "district": "小松市",
+      "district": "北陸",
       "address": "石川県小松市浮柳町ヨ50",
       "contact": "0761-23-6122",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.komatsuairport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1634,12 +1634,12 @@
       "longitude": 141.1358,
       "prefecture": "岩手県",
       "region": "東日本",
-      "district": "花巻市",
+      "district": "東北",
       "address": "岩手県花巻市東宮野目第2地割53",
       "contact": "0198-26-5011",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.hna-terminal.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1662,12 +1662,12 @@
       "longitude": 140.3714,
       "prefecture": "山形県",
       "region": "東日本",
-      "district": "東根市",
+      "district": "東北",
       "address": "山形県東根市大字羽入字柏原新林3008",
       "contact": "0237-53-1145",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.yamagata-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1690,12 +1690,12 @@
       "longitude": 140.2186,
       "prefecture": "秋田県",
       "region": "東日本",
-      "district": "秋田市",
+      "district": "東北",
       "address": "秋田県秋田市雄和椿川字山籠49",
       "contact": "018-886-3367",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.akita-airport.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1718,12 +1718,12 @@
       "longitude": 131.2783,
       "prefecture": "山口県",
       "region": "西日本",
-      "district": "宇部市",
+      "district": "中国",
       "address": "山口県宇部市沖宇部625",
       "contact": "0836-32-7525",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.yamaguchiube-airport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1746,12 +1746,12 @@
       "longitude": 133.8553,
       "prefecture": "岡山県",
       "region": "西日本",
-      "district": "岡山市",
+      "district": "中国",
       "address": "岡山県岡山市北区日応寺1277",
       "contact": "086-294-5606",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.okayama-airport.org/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1774,12 +1774,12 @@
       "longitude": 134.7869,
       "prefecture": "兵庫県",
       "region": "西日本",
-      "district": "豊岡市",
+      "district": "近畿",
       "address": "兵庫県豊岡市岩井字河谷1598-34",
       "contact": "0796-26-1528",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://tajima-airport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1802,12 +1802,12 @@
       "longitude": 135.2442,
       "prefecture": "大阪府",
       "region": "西日本",
-      "district": "泉佐野市",
+      "district": "近畿",
       "address": "大阪府泉佐野市泉州空港北1",
       "contact": "072-455-4195",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kansai-airport.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1830,12 +1830,12 @@
       "longitude": 135.2442,
       "prefecture": "大阪府",
       "region": "西日本",
-      "district": "泉佐野市",
+      "district": "近畿",
       "address": "大阪府泉佐野市泉州空港北1",
       "contact": "072-455-2089",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kansai-airport.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1858,12 +1858,12 @@
       "longitude": 135.3622,
       "prefecture": "和歌山県",
       "region": "西日本",
-      "district": "西牟婁郡",
+      "district": "近畿",
       "address": "和歌山県西牟婁郡白浜町2926",
       "contact": "0739-43-0095",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://shirahama-airport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1886,12 +1886,12 @@
       "longitude": 141.1861,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "利尻郡",
+      "district": "北海道",
       "address": "北海道利尻郡利尻富士町鴛泊本泊1143",
       "contact": "050-1808-3855",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.town.rishiri.hokkaido.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1914,12 +1914,12 @@
       "longitude": 139.4328,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "奥尻郡",
+      "district": "北海道",
       "address": "北海道奥尻郡奥尻町米岡185-3",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "01397-2-3237",
+      "official_url": "https://www.town.okushiri.lg.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1942,12 +1942,12 @@
       "longitude": 133.3253,
       "prefecture": "島根県",
       "region": "西日本",
-      "district": "隠岐郡",
+      "district": "中国",
       "address": "島根県隠岐郡隠岐の島町岬町3560",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "08512-2-1457",
+      "official_url": "https://www.pref.shimane.lg.jp/okiairport/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1970,12 +1970,12 @@
       "longitude": 129.7125,
       "prefecture": "鹿児島県",
       "region": "西日本",
-      "district": "奄美市",
+      "district": "九州",
       "address": "鹿児島県奄美市笠利町大字和野字長濱金久374-4",
       "contact": "0997-63-2541",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.pref.kagoshima.jp/amami-airport/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1998,12 +1998,12 @@
       "longitude": 130.9572,
       "prefecture": "鹿児島県",
       "region": "西日本",
-      "district": "中種子町",
+      "district": "九州",
       "address": "鹿児島県熊毛郡中種子町増田2675-58",
       "contact": "0997-27-5678",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.pref.kagoshima.jp/tanegashima-airport/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2026,12 +2026,12 @@
       "longitude": 130.6586,
       "prefecture": "鹿児島県",
       "region": "西日本",
-      "district": "屋久島町",
+      "district": "九州",
       "address": "鹿児島県熊毛郡屋久島町小瀬田501",
       "contact": "0997-42-0091",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.pref.kagoshima.jp/yakushima-airport/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2054,12 +2054,12 @@
       "longitude": 128.8814,
       "prefecture": "鹿児島県",
       "region": "西日本",
-      "district": "天城町",
+      "district": "九州",
       "address": "鹿児島県大島郡天城町浅間1",
       "contact": "0997-85-3164",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.pref.kagoshima.jp/tokunoshima-airport/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2082,12 +2082,12 @@
       "longitude": 128.4017,
       "prefecture": "鹿児島県",
       "region": "西日本",
-      "district": "与論町",
+      "district": "九州",
       "address": "鹿児島県大島郡与論町立長358-1",
       "contact": "0997-97-2961",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.pref.kagoshima.jp/yoron-airport/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2110,12 +2110,12 @@
       "longitude": 129.9281,
       "prefecture": "鹿児島県",
       "region": "西日本",
-      "district": "喜界町",
+      "district": "九州",
       "address": "鹿児島県大島郡喜界町中里",
       "contact": "0997-65-4388",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.pref.kagoshima.jp/kikai-airport/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2138,12 +2138,12 @@
       "longitude": 128.7058,
       "prefecture": "鹿児島県",
       "region": "西日本",
-      "district": "和泊町",
+      "district": "九州",
       "address": "鹿児島県大島郡和泊町国頭字後利1732-1",
       "contact": "0997-92-6002",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.pref.kagoshima.jp/okinoerabu-airport/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2166,12 +2166,12 @@
       "longitude": 124.245,
       "prefecture": "沖縄県",
       "region": "西日本",
-      "district": "石垣市",
+      "district": "那覇",
       "address": "沖縄県石垣市字白保1960-104-1",
       "contact": "0980-87-0158",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.ishigaki-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2194,12 +2194,12 @@
       "longitude": 122.9781,
       "prefecture": "沖縄県",
       "region": "西日本",
-      "district": "与那国町",
+      "district": "那覇",
       "address": "沖縄県八重山郡与那国町与那国4350",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "0980-87-2289、0980-87-2803",
+      "official_url": "https://www.pref.okinawa.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2222,12 +2222,12 @@
       "longitude": 126.7139,
       "prefecture": "沖縄県",
       "region": "西日本",
-      "district": "久米島町",
+      "district": "那覇",
       "address": "沖縄県島尻郡久米島町字北原566-2",
       "contact": "098-985-4890",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.pref.okinawa.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2250,12 +2250,12 @@
       "longitude": 131.2619,
       "prefecture": "沖縄県",
       "region": "西日本",
-      "district": "島尻郡",
+      "district": "那覇",
       "address": "沖縄県島尻郡南大東村字在44",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "09802-2-2665",
+      "official_url": "https://www.pref.okinawa.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2278,12 +2278,12 @@
       "longitude": 131.3328,
       "prefecture": "沖縄県",
       "region": "西日本",
-      "district": "島尻郡",
+      "district": "那覇",
       "address": "沖縄県島尻郡北大東村字中野214",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "09802-3-4880",
+      "official_url": "https://www.pref.okinawa.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2306,12 +2306,12 @@
       "longitude": 131.3328,
       "prefecture": "沖縄県",
       "region": "西日本",
-      "district": "島尻郡",
+      "district": "那覇",
       "address": "沖縄県島尻郡北大東村字中野214",
       "contact": "098-023-4350",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.pref.okinawa.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2334,12 +2334,12 @@
       "longitude": 124.6756,
       "prefecture": "沖縄県",
       "region": "西日本",
-      "district": "多良間村",
+      "district": "那覇",
       "address": "沖縄県宮古郡多良間村字塩川2381-4",
       "contact": "0980-79-2028",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.pref.okinawa.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2362,12 +2362,12 @@
       "longitude": 125.2953,
       "prefecture": "沖縄県",
       "region": "西日本",
-      "district": "宮古島市",
+      "district": "那覇",
       "address": "沖縄県宮古島市平良字下里1657-128",
       "contact": "0980-72-7521",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.miyako-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2390,12 +2390,12 @@
       "longitude": 125.2953,
       "prefecture": "沖縄県",
       "region": "西日本",
-      "district": "宮古島市",
+      "district": "那覇",
       "address": "沖縄県宮古島市平良字下里1657-128",
       "contact": "0980-73-1004",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.miyako-airport.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2418,12 +2418,12 @@
       "longitude": 144.9606,
       "prefecture": "北海道",
       "region": "東日本",
-      "district": "標津郡",
+      "district": "北海道",
       "address": "北海道標津郡中標津町北中25-25",
       "contact": "0153-73-5651",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.nakashibetsu-airport.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],

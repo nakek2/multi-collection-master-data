@@ -1,7 +1,7 @@
 {
   "genre": "touge",
-  "version": "2026.08.1",
-  "updated_at": "2026-08-18T00:00:00Z",
+  "version": "20260825.164228",
+  "updated_at": "2026-08-25T07:42:28Z",
   "spots": [
     {
       "spot_id": "spot_touge_001",
@@ -15,7 +15,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.city.oga.akita.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -43,7 +43,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.kisakata-nemunooka.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -79,7 +79,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.kandaji.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -107,7 +107,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.mt-tsukuba.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -143,7 +143,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.takadamatsuwara.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -171,7 +171,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.city.ofunato.iwate.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -199,7 +199,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.bike-station.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -227,7 +227,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.goeishi.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -255,7 +255,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.matsuo-hachimantai.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -283,7 +283,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.hachimantai-resthouse.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -311,7 +311,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.anest-iwata.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -347,7 +347,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.kintarou-furusato.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -383,7 +383,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.sekisouan.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -419,7 +419,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.esantei.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -455,7 +455,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.michinoeki-kiyokawa.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -483,7 +483,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.hotoriya.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -535,7 +535,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://sekidora.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -563,7 +563,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.tsumagoi-kankou.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -591,7 +591,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.shigenoya.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -619,7 +619,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.oze-katashina.info/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -647,7 +647,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://dzgarage.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -683,7 +683,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.ikaho-toy.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -711,7 +711,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.sakurairyokan.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -747,7 +747,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.ookurabou.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -783,7 +783,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.meigetsukan.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -819,7 +819,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.aokiryokan.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -855,7 +855,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.soyama-shouten.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -891,7 +891,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.kusaki-drivein.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -919,7 +919,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.kadoya-myogi.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -947,7 +947,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.denenplaza.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -975,7 +975,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.loverscafe.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1003,7 +1003,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.ootaki-onsen.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1031,7 +1031,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.ideura.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1059,7 +1059,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.okumurachaya.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1087,7 +1087,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.sadamine-chaya.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1115,7 +1115,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.yoshida-genkimura.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1143,7 +1143,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://kururatoda.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1171,7 +1171,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.jukkoku-group.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1199,7 +1199,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.nishi-amagi.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1227,7 +1227,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.darumayama.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1255,7 +1255,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.shizen-club.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1283,7 +1283,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.tabimonogatari.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1311,7 +1311,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.thefish.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1339,7 +1339,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.waterinfo.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1367,7 +1367,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.foggymountain.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1403,7 +1403,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.nikko-nsm.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1439,7 +1439,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.siobaramonogatari.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1475,7 +1475,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.sakaeya-kanuma.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1511,7 +1511,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.yama-takahara.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1539,7 +1539,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.kirigamine-venus.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1567,7 +1567,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.nakanoyu-onsen.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1595,7 +1595,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://yokoteyama-drivein.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1623,7 +1623,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.takayama-kanko.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1651,7 +1651,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.tsuetukitouge.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1679,7 +1679,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.qkamura.or.jp/chausuyama/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1715,7 +1715,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.michinoeki-minamiuonuma.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1743,7 +1743,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.uonuma-kankou.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1771,7 +1771,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.sakuranoyu.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1799,7 +1799,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.yanagi-ropeway.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1827,7 +1827,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.irihirose.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1855,7 +1855,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.urabandai-bussankan.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1891,7 +1891,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.bes.or.jp/jododaira/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1919,7 +1919,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.tsuchiyu-roadpark.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1947,7 +1947,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.bandaisan.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1975,7 +1975,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.whaletown-oshika.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2003,7 +2003,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.zao-ropeway.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2039,7 +2039,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.yurando.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2067,7 +2067,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.yakurai-yakushinoyu.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2095,7 +2095,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.yudonosansan.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2123,7 +2123,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.bonjikura.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2151,7 +2151,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.michinoeki-tabayama.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2187,7 +2187,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.ktr.mlit.go.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2215,7 +2215,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.michinoeki-doushi.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2243,7 +2243,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.ryogokubashi.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2271,7 +2271,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.moguracoffee.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2299,7 +2299,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.michinoeki-shimobe.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2327,7 +2327,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.natoriya.net/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2355,7 +2355,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.sakura-kominka.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2391,7 +2391,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.tsukude.gr.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2419,7 +2419,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.hozanji.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2447,7 +2447,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.kamogawa-enjyo.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2475,7 +2475,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.wood-pao.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2503,7 +2503,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.nanpobokujo.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2531,7 +2531,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.hiragi-shirakawa.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2559,7 +2559,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.vill.shirakawa.lg.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2595,7 +2595,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.kataribe.net/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2631,7 +2631,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.magomekan.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2659,7 +2659,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.rennyochaya.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2687,7 +2687,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.butaitoge.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2715,7 +2715,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.nomugi-otasukegoya.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2743,7 +2743,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.shirotori-kogen.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2771,7 +2771,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.nao-suzurandai.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2799,7 +2799,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.nao-suzurandai.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2827,7 +2827,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.suzurankogen.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2855,7 +2855,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.oeyama-shokudo.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2883,7 +2883,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.kankodai.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2911,7 +2911,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.ogurayama-cafe.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2939,7 +2939,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.ibukiyama-driveway.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2967,7 +2967,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.enryakuji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2995,7 +2995,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.hieizan.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3023,7 +3023,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.tsuzurao.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3051,7 +3051,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.garden-museum-hiei.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3079,7 +3079,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.yumemigaoka.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3107,7 +3107,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.hinomisaki-vc.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3135,7 +3135,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.orochi-loop.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3163,7 +3163,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.qkamura.or.jp/okudaishan/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3191,7 +3191,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.gokayama-washinosato.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3219,7 +3219,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.koryanoyama.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3247,7 +3247,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.653cafe.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3291,7 +3291,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.assist-numakuma.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3319,7 +3319,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.wakasa-obama.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3347,7 +3347,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.kottekote.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3375,7 +3375,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.imajou.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3403,7 +3403,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.rainbowshop-nijiiro.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3431,7 +3431,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.toba-展望台.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3459,7 +3459,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.asama-denshi.co.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3487,7 +3487,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.windyhill.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3515,7 +3515,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.aoyama-jinjaba.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3543,7 +3543,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.aquadignis.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -3571,7 +3571,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "あり",
-      "official_url": "",
+      "official_url": "https://www.gomasan-skytower.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],

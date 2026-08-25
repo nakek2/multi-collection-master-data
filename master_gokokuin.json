@@ -1,7 +1,7 @@
 {
   "genre": "gokokuin",
-  "version": "2026.08.1",
-  "updated_at": "2026-08-18T00:00:00Z",
+  "version": "20260825.164207",
+  "updated_at": "2026-08-25T07:42:07Z",
   "spots": [
     {
       "spot_id": "spot_gokokuin_001",
@@ -10,12 +10,12 @@
       "longitude": 137.42688,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "愛知県豊川市上長山町本宮下４",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.togajinja.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -38,12 +38,12 @@
       "longitude": 137.420807,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "愛知県豊川市一宮町西垣内2",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.togajinja.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -66,12 +66,12 @@
       "longitude": 138.949661,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県三島市谷田夏梅木683-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.myosenji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -94,12 +94,12 @@
       "longitude": 138.824112,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "山梨県南都留郡忍野村忍草38",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.touenji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -122,12 +122,12 @@
       "longitude": 136.735046,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "岐阜県岐阜市正木236-2",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.manaka-jinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -150,12 +150,12 @@
       "longitude": 136.822205,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "岐阜県各務原市那加手力町4",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tezikao-jinja.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -178,12 +178,12 @@
       "longitude": 136.568665,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "岐阜県揖斐川郡揖斐川町三輪1322",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.miwadinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -206,12 +206,12 @@
       "longitude": 138.754578,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "山梨県甲州市塩山小田原1005",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.fukuzouin.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -234,12 +234,12 @@
       "longitude": 138.675537,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県富士市浅間本町5-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.fuchirokuso.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -262,12 +262,12 @@
       "longitude": 138.016724,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県掛川市下西郷84",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tatsuo-jinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -290,12 +290,12 @@
       "longitude": 138.314972,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "長野県東御市本海野1116",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.shiratori-jinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -318,12 +318,12 @@
       "longitude": 138.84082,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県賀茂郡南伊豆町石廊崎125",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.ishimuro-jinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -346,12 +346,12 @@
       "longitude": 137.215103,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "岐阜県土岐市鶴里町柿野2240",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.shiratori-jinja.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -374,12 +374,12 @@
       "longitude": 136.731522,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "岐阜県岐阜市萱場南3-4-25",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.ontake-kayagatsu.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -402,12 +402,12 @@
       "longitude": 138.68306,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "山梨県山梨市南1376-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.sashidasan.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -430,12 +430,12 @@
       "longitude": 138.470703,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "山梨県南アルプス市鮎沢505",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kochozenji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -458,12 +458,12 @@
       "longitude": 138.971298,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県三島市三ツ谷新田7-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.shounji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -486,12 +486,12 @@
       "longitude": 138.481857,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県静岡市清水区小芝町4-10",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.oshiba-hachimangu.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -514,12 +514,12 @@
       "longitude": 138.434875,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "山梨県北杜市須玉町穴平2629",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.enshoji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -542,12 +542,12 @@
       "longitude": 137.726303,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県浜松市東区天王町1484-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.toshijinja.org/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -570,12 +570,12 @@
       "longitude": 137.726303,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県浜松市西区舘山寺町2231",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kanzanji.net/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -598,12 +598,12 @@
       "longitude": 137.726303,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県浜松市南区飯田町628-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.ryukokuji.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -626,12 +626,12 @@
       "longitude": 138.902725,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "静岡県駿東群小山町須走112-528",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.koufudaiji.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -654,12 +654,12 @@
       "longitude": 138.103058,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "長野県千曲市八幡3012",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.takemusubeki.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -682,12 +682,12 @@
       "longitude": 137.907074,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "長野県松本市新村2290-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.iwasakijinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -710,12 +710,12 @@
       "longitude": 138.197479,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "長野県上田市武石小沢根230",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.komayumine-jinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -738,12 +738,12 @@
       "longitude": 137.835526,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "長野県飯田市浜井町3363",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.fujiyama-inari.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -766,12 +766,12 @@
       "longitude": 136.827408,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "中部",
+      "district": "東海",
       "address": "愛知県あま市坂牧字郷30",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.enmeiji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -794,12 +794,12 @@
       "longitude": 138.428558,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "中部",
+      "district": "甲信越",
       "address": "山梨県南巨摩郡身延町身延3493",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.hababo.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -827,7 +827,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tamaimigu.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -855,7 +855,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kumohachimangu.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -883,7 +883,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tsuejinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -911,7 +911,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.iimori-jinja.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -939,7 +939,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kuyamanet.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -967,7 +967,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.fukushimahachimangu.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -995,7 +995,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tobetsu-jinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1023,7 +1023,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.shinkotoni-jinja.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1051,7 +1051,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.atsubetsu-jinja.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1079,7 +1079,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.toyaji.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1107,7 +1107,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.otobe-hachimangu.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1135,7 +1135,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.ishimizu-jinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1163,7 +1163,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.oji-jinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1191,7 +1191,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.asamine-jinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1219,7 +1219,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tsuda-hachimangu.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1247,7 +1247,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.ishioka-jinja.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1275,7 +1275,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.mishima-jinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1303,7 +1303,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.hiwasa-hachimangu.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1331,7 +1331,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kochidaijingu.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1359,7 +1359,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kokubu-hachimangu.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1387,7 +1387,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.souchinjyu-hachimangu.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1410,12 +1410,12 @@
       "longitude": 136.553482,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "関西",
+      "district": "東海",
       "address": "三重県鈴鹿市稲生西2丁目24-20",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.inafu-jinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1438,12 +1438,12 @@
       "longitude": 136.590103,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "関西",
+      "district": "東海",
       "address": "三重県鈴鹿市東玉垣町1412",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.mizugakijinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1466,12 +1466,12 @@
       "longitude": 135.310043,
       "prefecture": "和歌山県",
       "region": "西日本",
-      "district": "関西",
+      "district": "近畿",
       "address": "和歌山県海草郡紀美野町動木1495",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.ryukouji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1494,12 +1494,12 @@
       "longitude": 136.126846,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "関西",
+      "district": "東海",
       "address": "三重県伊賀市上野万町2296",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.sainenji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1522,12 +1522,12 @@
       "longitude": 136.694931,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "関西",
+      "district": "東海",
       "address": "三重県桑名市本町46",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kuwanasousha.org/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1550,12 +1550,12 @@
       "longitude": 135.081665,
       "prefecture": "兵庫県",
       "region": "西日本",
-      "district": "関西",
+      "district": "近畿",
       "address": "兵庫県丹波市柏原町３６２５",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kaibaramachimangu.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1578,12 +1578,12 @@
       "longitude": 134.803818,
       "prefecture": "兵庫県",
       "region": "西日本",
-      "district": "関西",
+      "district": "近畿",
       "address": "兵庫県高砂市高砂町東宮町１９０",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.takasagojinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1606,12 +1606,12 @@
       "longitude": 135.028641,
       "prefecture": "兵庫県",
       "region": "西日本",
-      "district": "関西",
+      "district": "近畿",
       "address": "兵庫県神戸市垂水区西舞子１丁目５－７",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.rokujinja.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1634,12 +1634,12 @@
       "longitude": 138.797653,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県燕市渡部1195",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kisshoji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1662,12 +1662,12 @@
       "longitude": 139.331039,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県新発田市諏訪町１丁目８－９",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.shibata-suwa.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1690,12 +1690,12 @@
       "longitude": 138.284637,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県佐渡市小比叡182",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.rengebuji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1718,12 +1718,12 @@
       "longitude": 138.380463,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "北陸",
+      "district": "甲信越",
       "address": "新潟県上越市三和区岡田24",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kazamaki-jinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1751,7 +1751,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.fushikijinja.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1779,7 +1779,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.fukaehachimangu.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1807,7 +1807,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.shinozajinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1835,7 +1835,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.hirotajinja.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1858,12 +1858,12 @@
       "longitude": 141.4489,
       "prefecture": "宮城県",
       "region": "東日本",
-      "district": "本吉郡",
+      "district": "東北",
       "address": "宮城県本吉郡南三陸町志津川字塩入72",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.yasaka-jinja.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1886,12 +1886,12 @@
       "longitude": 140.7811,
       "prefecture": "宮城県",
       "region": "東日本",
-      "district": "角田市",
+      "district": "東北",
       "address": "宮城県角田市島田字元木山1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.atsuhikohiko-jinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1914,12 +1914,12 @@
       "longitude": 141.3056,
       "prefecture": "岩手県",
       "region": "東日本",
-      "district": "二戸市",
+      "district": "東北",
       "address": "岩手県二戸市福岡字五日町48",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tonkou-inari.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1947,7 +1947,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.araogawajinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -1975,7 +1975,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.wakakusajinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2003,7 +2003,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.ookunitamajinja.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2031,7 +2031,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kenmyoji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2059,7 +2059,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.koumyoji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2087,7 +2087,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.numata-harunajinja.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2115,7 +2115,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.nakanotake.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2143,7 +2143,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.azumajinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2171,7 +2171,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.soyajinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2199,7 +2199,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.horinji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2227,7 +2227,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kainajinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2255,7 +2255,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.yoshidajinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2283,7 +2283,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.higashikanasajinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2311,7 +2311,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.ooknakajinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2339,7 +2339,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.hanazono-jinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2367,7 +2367,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.chofukuji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2395,7 +2395,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.ooemiyasjinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2423,7 +2423,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.takioujinja.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2451,7 +2451,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.jounji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2479,7 +2479,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.nogijinja.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2507,7 +2507,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kamowakakazuchinjinja.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2535,7 +2535,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.chokyuji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2563,7 +2563,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.kozenji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2591,7 +2591,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.yakumojinja.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2619,7 +2619,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.negishi-hachimangu.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2647,7 +2647,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.hosenji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
@@ -2675,7 +2675,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.tofukuji.or.jp/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
