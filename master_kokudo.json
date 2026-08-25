@@ -1,7 +1,7 @@
 {
   "genre": "kokudo",
-  "version": "20260825.151837",
-  "updated_at": "2026-08-25T06:18:37Z",
+  "version": "20260825.154112",
+  "updated_at": "2026-08-25T06:41:12Z",
   "spots": [
     {
       "spot_id": "spot_kokudo_001",
@@ -379,7 +379,7 @@
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
-      "official_url": "",
+      "official_url": "https://www.nukumorino-yu.com/",
       "image_urls": [
         "assets/images/spots/sample.png"
       ],
