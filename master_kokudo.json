@@ -1,7 +1,7 @@
 {
   "genre": "kokudo",
-  "version": "20260825.144105",
-  "updated_at": "2026-08-25T05:41:05Z",
+  "version": "20260825.145150",
+  "updated_at": "2026-08-25T05:51:50Z",
   "spots": [
     {
       "spot_id": "spot_kokudo_001",
@@ -17,7 +17,7 @@
       "winter_business_hours": "",
       "official_url": "",
       "image_urls": [
-        "28-0l.gif"
+        "assets/images/spots/28-0l.gif"
       ],
       "note": "",
       "items": [
@@ -27,7 +27,7 @@
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "natsu.jpg"
+          "image_url": "assets/images/spots/natsu.jpg"
         },
         {
           "item_id": "kokudo_K-0024",
