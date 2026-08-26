@@ -1,0 +1,20 @@
+ステップ1：チェックリストExcelを生成する
+
+python3 master_to_checklist.py master_manhole.json master_kokudo.json checklist.xlsx
+
+
+
+
+
+
+ステップ2：Excel上で「collected」列にチェックを入れる
+
+持っているもののcollected列に何か文字（「済」でも「TRUE」でも「1」でも何でも構いません、空欄でなければOK）を入力してください。取得日をcollected_date列にYYYY-MM-DD形式で入れられますが、空欄なら変換時の日付が自動で入ります。
+
+
+
+
+ステップ3：インポート用JSONに変換する
+python3 checklist_to_backup_json.py checklist.xlsx backup_import.json
+
+生成されたbackup_import.jsonを、アプリの設定タブ→一括インポートでそのまま読み込めます。
