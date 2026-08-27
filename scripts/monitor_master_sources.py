@@ -137,20 +137,21 @@ def check_kokudo() -> CheckResult:
     except Exception as e:
         return CheckResult("国道ステッカー", {}, "", ok=False, error=str(e))
 
-    # 想定パターンをいくつか試す(サイト側のマークアップが読めないため、
-    # よくある書き方のバリエーションに幅を持たせている)。
-    patterns = [
-        r'default\.aspx\?id=(\d+)"[^>]*>([^<]+)</a>',          # 二重引用符
-        r"default\.aspx\?id=(\d+)'[^>]*>([^<]+)</a>",          # 単一引用符
-        r'default\.aspx\?id=(\d+)[^"\'>]*["\'][^>]*>([^<]+)</a>',  # id直後にクエリ文字列が続く場合
-    ]
-    matches = []
-    for pat in patterns:
-        matches = re.findall(pat, html, re.IGNORECASE)
-        if matches:
-            break
+    # 実際のHTML構造(2026-08-27、実機ログで確認済み):
+    # <a href='./default.aspx?id=50' class='a-blue'><img src='...' alt='1号' />
+    #   <dl><dt>神奈川県</dt><dd><h2>道の駅 箱根峠</h2></dd></dl></a>
+    # シングルクォート、店名はh2タグの中、路線番号はimgのalt属性という
+    # 想定と異なる構造だったため、これに合わせて書き直した。
+    pattern = re.compile(
+        r"<a href='\./default\.aspx\?id=(\d+)'[^>]*>.*?alt='([^']*)'.*?<dt>([^<]*)</dt><dd><h2>([^<]*)</h2>",
+        re.DOTALL,
+    )
+    matches = pattern.findall(html)
 
-    id_to_label = {m[0]: m[1].strip() for m in matches}
+    id_to_label = {}
+    for spot_id, route_no, prefecture, store_name in matches:
+        id_to_label[spot_id] = f"{route_no} {prefecture}{store_name}"
+
     if not id_to_label:
         return CheckResult(
             "国道ステッカー", {}, "",
