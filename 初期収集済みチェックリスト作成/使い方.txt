@@ -2,6 +2,7 @@
 
 python3 master_to_checklist.py master_manhole.json master_kokudo.json checklist.xlsx
 
+python3 master_to_checklist.py master_kokudo.json checklist.xlsx
 
 
 
