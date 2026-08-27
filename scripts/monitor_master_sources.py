@@ -117,6 +117,11 @@ def check_touge() -> CheckResult:
 
 
 def diff_touge(old_signal: dict, new_signal: dict) -> str | None:
+    if old_signal is None:
+        # このジャンルの取得に初めて成功した回。比較対象の基準値が
+        # まだ無いため、通知はせず静かに基準値として保存するだけにする
+        # (でないと現在の全件が「新規追加」として誤検知されてしまう)。
+        return None
     old_ids = set((old_signal or {}).get("ids", {}).keys())
     new_ids_map = new_signal.get("ids", {})
     new_ids = set(new_ids_map.keys())
@@ -164,6 +169,8 @@ def check_kokudo() -> CheckResult:
 
 
 def diff_kokudo(old_signal: dict, new_signal: dict) -> str | None:
+    if old_signal is None:
+        return None  # 初回成功時は基準値として保存するだけ(峠と同じ理由)
     old_ids = set((old_signal or {}).get("ids", {}).keys())
     new_ids_map = new_signal.get("ids", {})
     new_ids = set(new_ids_map.keys())
