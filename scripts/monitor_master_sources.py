@@ -53,6 +53,32 @@ def fetch_html(url: str) -> str:
     return resp.text
 
 
+def _diagnose(html: str, marker: str) -> str:
+    """抽出に失敗した際、原因調査用の情報をエラーメッセージに含める。
+    ・取得できたページの文字数
+    ・目印となる文字列(marker)がページ内に何回出現するか
+    ・出現していれば、その前後の生の中身(タグ構造の確認用)
+    """
+    count = html.count(marker)
+    lines = [
+        "ページ構造が変わった可能性があります(抽出できませんでした)。",
+        f"取得ページの文字数: {len(html)}",
+        f"目印文字列 '{marker}' の出現回数: {count}",
+    ]
+    if count > 0:
+        idx = html.find(marker)
+        snippet = html[max(0, idx - 100): idx + 300]
+        lines.append(f"出現箇所の前後200文字:\n{snippet}")
+    else:
+        lines.append(
+            "目印文字列が1回も見つかりませんでした。"
+            "JavaScriptで動的に描画されるページの可能性があります"
+            "(単純なHTTP取得では中身が空のことがあります)。"
+        )
+        lines.append(f"取得できたページの先頭500文字:\n{html[:500]}")
+    return "\n".join(lines)
+
+
 # ---------------------------------------------------------------------------
 # 峠ステッカー: tohge-project.jp
 # ---------------------------------------------------------------------------
@@ -111,18 +137,25 @@ def check_kokudo() -> CheckResult:
     except Exception as e:
         return CheckResult("国道ステッカー", {}, "", ok=False, error=str(e))
 
-    # <a href="default.aspx?id=50">1号 神奈川県道の駅 箱根峠</a> のようなパターン。
-    pattern = re.compile(
-        r'default\.aspx\?id=(\d+)"[^>]*>([^<]+)</a>',
-        re.IGNORECASE,
-    )
-    matches = pattern.findall(html)
+    # 想定パターンをいくつか試す(サイト側のマークアップが読めないため、
+    # よくある書き方のバリエーションに幅を持たせている)。
+    patterns = [
+        r'default\.aspx\?id=(\d+)"[^>]*>([^<]+)</a>',          # 二重引用符
+        r"default\.aspx\?id=(\d+)'[^>]*>([^<]+)</a>",          # 単一引用符
+        r'default\.aspx\?id=(\d+)[^"\'>]*["\'][^>]*>([^<]+)</a>',  # id直後にクエリ文字列が続く場合
+    ]
+    matches = []
+    for pat in patterns:
+        matches = re.findall(pat, html, re.IGNORECASE)
+        if matches:
+            break
+
     id_to_label = {m[0]: m[1].strip() for m in matches}
     if not id_to_label:
         return CheckResult(
             "国道ステッカー", {}, "",
             ok=False,
-            error="ページ構造が変わった可能性があります(id一覧を抽出できませんでした)",
+            error=_diagnose(html, "default.aspx?id="),
         )
 
     signal = {"ids": id_to_label}
@@ -151,12 +184,18 @@ def check_gosenin() -> CheckResult:
         return CheckResult("御船印", {}, "", ok=False, error=str(e))
 
     # ページ上部に明記されている「最終更新日：08月20日」を抽出する。
-    m = re.search(r"最終更新日[:：]\s*(\d{1,2}月\d{1,2}日)", html)
+    # 「最終更新日」の出現位置を先に見つけ、その直後の一定範囲内から
+    # 日付パターンだけを探す2段階方式にする(タグ等が間に挟まっても頑健)。
+    idx = html.find("最終更新日")
+    m = None
+    if idx != -1:
+        window = html[idx: idx + 200]
+        m = re.search(r"(\d{1,2}月\d{1,2}日)", window)
     if not m:
         return CheckResult(
             "御船印", {}, "",
             ok=False,
-            error="ページ構造が変わった可能性があります(最終更新日を抽出できませんでした)",
+            error=_diagnose(html, "最終更新日"),
         )
 
     signal = {"last_updated": m.group(1)}
