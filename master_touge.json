@@ -1,7 +1,7 @@
 {
   "genre": "touge",
-  "version": "20260828.135400",
-  "updated_at": "2026-08-28T04:54:00Z",
+  "version": "20260828.140550",
+  "updated_at": "2026-08-28T05:05:50Z",
   "spots": [
     {
       "spot_id": "spot_touge_001",
@@ -27,7 +27,7 @@
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/アイテム.png"
+          "image_url": "assets/images/items/アイテム.png"
         }
       ]
     },
@@ -323,7 +323,7 @@
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/touge_T-0010.gif"
+          "image_url": "assets/images/items/touge_T-0010.gif"
         },
         {
           "item_id": "touge_T-0018",
@@ -431,7 +431,7 @@
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/touge_T-0013.gif"
+          "image_url": "assets/images/items/touge_T-0013.gif"
         },
         {
           "item_id": "touge_T-0019",
@@ -467,7 +467,7 @@
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/touge_T-0013.gif"
+          "image_url": "assets/images/items/touge_T-0013.gif"
         }
       ]
     },
@@ -1323,7 +1323,7 @@
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/touge_T-0043.gif"
+          "image_url": "assets/images/items/touge_T-0043.gif"
         }
       ]
     },
@@ -1351,7 +1351,7 @@
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/touge_T-0044.gif"
+          "image_url": "assets/images/items/touge_T-0044.gif"
         }
       ]
     },
@@ -2365,7 +2365,7 @@
       "winter_business_hours": "あり",
       "official_url": "https://www.instagram.com/hanare_totomaru/",
       "image_urls": [
-        "assets/images/spots/spot_touge_078"
+        "assets/images/spots/spot_touge_078.png"
       ],
       "note": "",
       "items": [
@@ -2375,7 +2375,7 @@
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/touge_T-0080"
+          "image_url": "assets/images/items/touge_T-0080.png"
         },
         {
           "item_id": "touge_T-0081",
@@ -2383,7 +2383,7 @@
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/touge_T-0081"
+          "image_url": "assets/images/items/touge_T-0081.png"
         }
       ]
     },
