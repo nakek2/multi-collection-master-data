@@ -1,825 +1,825 @@
 {
   "genre": "gokokuin",
-  "version": "20260825.164207",
-  "updated_at": "2026-08-25T07:42:07Z",
+  "version": "20261005.163552",
+  "updated_at": "2026-10-05T07:35:52Z",
   "spots": [
     {
-      "spot_id": "spot_gokokuin_001",
+      "spot_id": "spot_gokokuin-0001",
       "name": "砥鹿神社 奥宮",
-      "latitude": 34.878361,
-      "longitude": 137.42688,
+      "latitude": 34.905832,
+      "longitude": 137.4213429,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "愛知県豊川市上長山町本宮下４",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.togajinja.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0001",
+          "item_id": "item_gokokuin-0001",
           "item_name": "砥鹿神社 奥宮",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_002",
+      "spot_id": "spot_gokokuin-0002",
       "name": "砥鹿神社 里宮",
-      "latitude": 34.847977,
-      "longitude": 137.420807,
+      "latitude": 34.8475127,
+      "longitude": 137.4199067,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "愛知県豊川市一宮町西垣内2",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.togajinja.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0002",
+          "item_id": "item_gokokuin-0002",
           "item_name": "砥鹿神社 里宮",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_003",
+      "spot_id": "spot_gokokuin-0003",
       "name": "梅夏山　妙泉寺",
-      "latitude": 35.127453,
-      "longitude": 138.949661,
+      "latitude": 35.1140303,
+      "longitude": 138.9327813,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "静岡県三島市谷田夏梅木683-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.myosenji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0003",
+          "item_id": "item_gokokuin-0003",
           "item_name": "梅夏山　妙泉寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_004",
+      "spot_id": "spot_gokokuin-0004",
       "name": "忍草山 大日院　東圓寺",
-      "latitude": 35.467789,
-      "longitude": 138.824112,
+      "latitude": 35.4636847,
+      "longitude": 138.8315611,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "甲信越",
+      "district": "中部",
       "address": "山梨県南都留郡忍野村忍草38",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.touenji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0004",
+          "item_id": "item_gokokuin-0004",
           "item_name": "忍草山 大日院　東圓寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_005",
+      "spot_id": "spot_gokokuin-0005",
       "name": "眞中（みなか）神社",
-      "latitude": 35.452328,
-      "longitude": 136.735046,
+      "latitude": 35.4525844,
+      "longitude": 136.7362349,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "岐阜県岐阜市正木236-2",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.manaka-jinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0005",
+          "item_id": "item_gokokuin-0005",
           "item_name": "眞中（みなか）神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_006",
+      "spot_id": "spot_gokokuin-0006",
       "name": "那加 総社 手力雄神社",
-      "latitude": 35.408596,
-      "longitude": 136.822205,
+      "latitude": 35.408934,
+      "longitude": 136.8243757,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "岐阜県各務原市那加手力町4",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.tezikao-jinja.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0006",
+          "item_id": "item_gokokuin-0006",
           "item_name": "那加 総社 手力雄神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_007",
+      "spot_id": "spot_gokokuin-0007",
       "name": "揖斐川 総鎮守 三輪神社",
-      "latitude": 35.487293,
-      "longitude": 136.568665,
+      "latitude": 35.4890557,
+      "longitude": 136.5732249,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "岐阜県揖斐川郡揖斐川町三輪1322",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.miwadinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0007",
+          "item_id": "item_gokokuin-0007",
           "item_name": "揖斐川 総鎮守 三輪神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_008",
+      "spot_id": "spot_gokokuin-0008",
       "name": "金剛山 福蔵院",
-      "latitude": 35.772091,
-      "longitude": 138.754578,
+      "latitude": 35.7054135,
+      "longitude": 138.7346248,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "甲信越",
+      "district": "中部",
       "address": "山梨県甲州市塩山小田原1005",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.fukuzouin.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0008",
+          "item_id": "item_gokokuin-0008",
           "item_name": "金剛山 福蔵院",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_009",
+      "spot_id": "spot_gokokuin-0009",
       "name": "富知六所浅間神社",
-      "latitude": 35.167133,
-      "longitude": 138.675537,
+      "latitude": 35.1672276,
+      "longitude": 138.6762692,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "静岡県富士市浅間本町5-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.fuchirokuso.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0009",
+          "item_id": "item_gokokuin-0009",
           "item_name": "富知六所浅間神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_010",
+      "spot_id": "spot_gokokuin-0010",
       "name": "龍尾神社",
-      "latitude": 34.782936,
-      "longitude": 138.016724,
+      "latitude": 34.782733,
+      "longitude": 138.0170007,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "静岡県掛川市下西郷84",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.tatsuo-jinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0010",
+          "item_id": "item_gokokuin-0010",
           "item_name": "龍尾神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_011",
+      "spot_id": "spot_gokokuin-0011",
       "name": "白鳥神社｜長野",
-      "latitude": 36.362499,
-      "longitude": 138.314972,
+      "latitude": 36.3610084,
+      "longitude": 138.3154303,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "甲信越",
+      "district": "中部",
       "address": "長野県東御市本海野1116",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.shiratori-jinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0011",
+          "item_id": "item_gokokuin-0011",
           "item_name": "白鳥神社｜長野",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_012",
+      "spot_id": "spot_gokokuin-0012",
       "name": "石室神社",
-      "latitude": 34.61636,
-      "longitude": 138.84082,
+      "latitude": 34.6027569,
+      "longitude": 138.8450754,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "静岡県賀茂郡南伊豆町石廊崎125",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.ishimuro-jinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0012",
+          "item_id": "item_gokokuin-0012",
           "item_name": "石室神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_013",
+      "spot_id": "spot_gokokuin-0013",
       "name": "白鳥神社｜岐阜",
-      "latitude": 35.276138,
-      "longitude": 137.215103,
+      "latitude": 35.271449,
+      "longitude": 137.2170934,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "岐阜県土岐市鶴里町柿野2240",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.shiratori-jinja.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0013",
+          "item_id": "item_gokokuin-0013",
           "item_name": "白鳥神社｜岐阜",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_014",
+      "spot_id": "spot_gokokuin-0014",
       "name": "御嶽神社茅萱宮",
-      "latitude": 35.43536,
-      "longitude": 136.731522,
+      "latitude": 35.435147,
+      "longitude": 136.73137,
       "prefecture": "岐阜県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "岐阜県岐阜市萱場南3-4-25",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.ontake-kayagatsu.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0014",
+          "item_id": "item_gokokuin-0014",
           "item_name": "御嶽神社茅萱宮",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_015",
+      "spot_id": "spot_gokokuin-0015",
       "name": "差出磯大嶽山神社",
-      "latitude": 35.696396,
-      "longitude": 138.68306,
+      "latitude": 35.6970305,
+      "longitude": 138.6844393,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "甲信越",
+      "district": "中部",
       "address": "山梨県山梨市南1376-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.sashidasan.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0015",
+          "item_id": "item_gokokuin-0015",
           "item_name": "差出磯大嶽山神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_016",
+      "spot_id": "spot_gokokuin-0016",
       "name": "瑞雲山 古長禅寺",
-      "latitude": 35.596439,
-      "longitude": 138.470703,
+      "latitude": 35.5963967,
+      "longitude": 138.4700306,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "甲信越",
+      "district": "中部",
       "address": "山梨県南アルプス市鮎沢505",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.kochozenji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0016",
+          "item_id": "item_gokokuin-0016",
           "item_name": "瑞雲山 古長禅寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_017",
+      "spot_id": "spot_gokokuin-0017",
       "name": "覚源山 松雲寺",
-      "latitude": 35.145363,
-      "longitude": 138.971298,
+      "latitude": 35.1422041,
+      "longitude": 138.9696955,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "静岡県三島市三ツ谷新田7-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.shounji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0017",
+          "item_id": "item_gokokuin-0017",
           "item_name": "覚源山 松雲寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_018",
+      "spot_id": "spot_gokokuin-0018",
       "name": "小芝八幡宮",
-      "latitude": 35.022884,
-      "longitude": 138.481857,
+      "latitude": 35.0227291,
+      "longitude": 138.481428,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "静岡県静岡市清水区小芝町4-10",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.oshiba-hachimangu.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0018",
+          "item_id": "item_gokokuin-0018",
           "item_name": "小芝八幡宮",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_019",
+      "spot_id": "spot_gokokuin-0019",
       "name": "遠照寺",
-      "latitude": 35.816414,
-      "longitude": 138.434875,
+      "latitude": 35.8218881,
+      "longitude": 138.4371003,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "甲信越",
+      "district": "中部",
       "address": "山梨県北杜市須玉町穴平2629",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.enshoji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0019",
+          "item_id": "item_gokokuin-0019",
           "item_name": "遠照寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_020",
+      "spot_id": "spot_gokokuin-0020",
       "name": "大歳神社",
-      "latitude": 34.710808,
-      "longitude": 137.726303,
+      "latitude": 34.7375004,
+      "longitude": 137.771136,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "静岡県浜松市東区天王町1484-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.toshijinja.org/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0020",
+          "item_id": "item_gokokuin-0020",
           "item_name": "大歳神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_021",
+      "spot_id": "spot_gokokuin-0021",
       "name": "舘山寺",
-      "latitude": 34.710808,
-      "longitude": 137.726303,
+      "latitude": 34.7682972,
+      "longitude": 137.6131719,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "静岡県浜松市西区舘山寺町2231",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.kanzanji.net/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0021",
+          "item_id": "item_gokokuin-0021",
           "item_name": "舘山寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_022",
+      "spot_id": "spot_gokokuin-0022",
       "name": "龍谷寺",
-      "latitude": 34.710808,
-      "longitude": 137.726303,
+      "latitude": 34.7073128,
+      "longitude": 137.7742769,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "静岡県浜松市南区飯田町628-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.ryukokuji.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0022",
+          "item_id": "item_gokokuin-0022",
           "item_name": "龍谷寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_023",
+      "spot_id": "spot_gokokuin-0023",
       "name": "紅冨台寺",
-      "latitude": 35.099014,
-      "longitude": 138.902725,
+      "latitude": 35.3718524,
+      "longitude": 138.8605915,
       "prefecture": "静岡県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "静岡県駿東群小山町須走112-528",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.koufudaiji.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0023",
+          "item_id": "item_gokokuin-0023",
           "item_name": "紅冨台寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_024",
+      "spot_id": "spot_gokokuin-0024",
       "name": "武水別神社",
-      "latitude": 36.518124,
-      "longitude": 138.103058,
+      "latitude": 36.5195232,
+      "longitude": 138.1029914,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "甲信越",
+      "district": "中部",
       "address": "長野県千曲市八幡3012",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.takemusubeki.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0024",
+          "item_id": "item_gokokuin-0024",
           "item_name": "武水別神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_025",
+      "spot_id": "spot_gokokuin-0025",
       "name": "岩崎神社",
-      "latitude": 36.22155,
-      "longitude": 137.907074,
+      "latitude": 36.2212733,
+      "longitude": 137.9068772,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "甲信越",
+      "district": "中部",
       "address": "長野県松本市新村2290-1",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.iwasakijinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0025",
+          "item_id": "item_gokokuin-0025",
           "item_name": "岩崎神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_026",
+      "spot_id": "spot_gokokuin-0026",
       "name": "子檀嶺神社（こまゆみね）",
-      "latitude": 36.248894,
-      "longitude": 138.197479,
+      "latitude": 36.2787962,
+      "longitude": 138.2330794,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "甲信越",
+      "district": "中部",
       "address": "長野県上田市武石小沢根230",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.komayumine-jinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0026",
+          "item_id": "item_gokokuin-0026",
           "item_name": "子檀嶺神社（こまゆみね）",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_027",
+      "spot_id": "spot_gokokuin-0027",
       "name": "冨士山稲荷神社",
-      "latitude": 35.515579,
-      "longitude": 137.835526,
+      "latitude": 35.5155516,
+      "longitude": 137.8353076,
       "prefecture": "長野県",
       "region": "東日本",
-      "district": "甲信越",
+      "district": "中部",
       "address": "長野県飯田市浜井町3363",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.fujiyama-inari.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0027",
+          "item_id": "item_gokokuin-0027",
           "item_name": "冨士山稲荷神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_028",
+      "spot_id": "spot_gokokuin-0028",
       "name": "延命寺",
-      "latitude": 35.182369,
-      "longitude": 136.827408,
+      "latitude": 35.1824292,
+      "longitude": 136.8274025,
       "prefecture": "愛知県",
       "region": "東日本",
-      "district": "東海",
+      "district": "中部",
       "address": "愛知県あま市坂牧字郷30",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.enmeiji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0028",
+          "item_id": "item_gokokuin-0028",
           "item_name": "延命寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_029",
+      "spot_id": "spot_gokokuin-0029",
       "name": "端場坊",
-      "latitude": 35.383202,
-      "longitude": 138.428558,
+      "latitude": 35.3813441,
+      "longitude": 138.4294365,
       "prefecture": "山梨県",
       "region": "東日本",
-      "district": "甲信越",
+      "district": "中部",
       "address": "山梨県南巨摩郡身延町身延3493",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.hababo.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0029",
+          "item_id": "item_gokokuin-0029",
           "item_name": "端場坊",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_030",
+      "spot_id": "spot_gokokuin-0030",
       "name": "玉井宮東照宮",
-      "latitude": 34.655796,
-      "longitude": 133.944534,
+      "latitude": 34.6563607,
+      "longitude": 133.9457053,
       "prefecture": "岡山県",
       "region": "西日本",
       "district": "中国",
@@ -829,25 +829,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.tamaimigu.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0030",
+          "item_id": "item_gokokuin-0030",
           "item_name": "玉井宮東照宮",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_031",
+      "spot_id": "spot_gokokuin-0031",
       "name": "雲八幡宮",
-      "latitude": 33.427395,
-      "longitude": 131.080704,
+      "latitude": 33.4256209,
+      "longitude": 131.0914423,
       "prefecture": "大分県",
       "region": "西日本",
       "district": "九州",
@@ -857,25 +857,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.kumohachimangu.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0031",
+          "item_id": "item_gokokuin-0031",
           "item_name": "雲八幡宮",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_032",
+      "spot_id": "spot_gokokuin-0032",
       "name": "丑の宮 津江神社",
-      "latitude": 33.221813,
-      "longitude": 130.671097,
+      "latitude": 33.2127004,
+      "longitude": 130.6634483,
       "prefecture": "福岡県",
       "region": "西日本",
       "district": "九州",
@@ -885,25 +885,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.tsuejinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0032",
+          "item_id": "item_gokokuin-0032",
           "item_name": "丑の宮 津江神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_033",
+      "spot_id": "spot_gokokuin-0033",
       "name": "飯盛神社",
-      "latitude": 33.196747,
-      "longitude": 129.665894,
+      "latitude": 33.1967904,
+      "longitude": 129.6661253,
       "prefecture": "長崎県",
       "region": "西日本",
       "district": "九州",
@@ -913,25 +913,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.iimori-jinja.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0033",
+          "item_id": "item_gokokuin-0033",
           "item_name": "飯盛神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_034",
+      "spot_id": "spot_gokokuin-0034",
       "name": "久山年神社",
-      "latitude": 32.833744,
-      "longitude": 129.996796,
+      "latitude": 32.8311239,
+      "longitude": 129.9981358,
       "prefecture": "長崎県",
       "region": "西日本",
       "district": "九州",
@@ -941,25 +941,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.kuyamanet.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0034",
+          "item_id": "item_gokokuin-0034",
           "item_name": "久山年神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_035",
+      "spot_id": "spot_gokokuin-0035",
       "name": "福島八幡宮",
-      "latitude": 33.20953,
-      "longitude": 130.558273,
+      "latitude": 33.2336837,
+      "longitude": 130.5915163,
       "prefecture": "福岡県",
       "region": "西日本",
       "district": "九州",
@@ -969,25 +969,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.fukushimahachimangu.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0035",
+          "item_id": "item_gokokuin-0035",
           "item_name": "福島八幡宮",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_036",
+      "spot_id": "spot_gokokuin-0036",
       "name": "当別神社",
-      "latitude": 43.218388,
-      "longitude": 141.522644,
+      "latitude": 43.218403,
+      "longitude": 141.5205864,
       "prefecture": "北海道",
       "region": "東日本",
       "district": "北海道",
@@ -997,25 +997,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.tobetsu-jinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0036",
+          "item_id": "item_gokokuin-0036",
           "item_name": "当別神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_037",
+      "spot_id": "spot_gokokuin-0037",
       "name": "新琴似（しんことに）神社",
-      "latitude": 43.101543,
-      "longitude": 141.327072,
+      "latitude": 43.1295939,
+      "longitude": 141.3006769,
       "prefecture": "北海道",
       "region": "東日本",
       "district": "北海道",
@@ -1025,25 +1025,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.shinkotoni-jinja.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0037",
+          "item_id": "item_gokokuin-0037",
           "item_name": "新琴似（しんことに）神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_038",
+      "spot_id": "spot_gokokuin-0038",
       "name": "厚別神社",
-      "latitude": 43.001144,
-      "longitude": 141.444489,
+      "latitude": 43.0012137,
+      "longitude": 141.4445588,
       "prefecture": "北海道",
       "region": "東日本",
       "district": "北海道",
@@ -1053,25 +1053,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.atsubetsu-jinja.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0038",
+          "item_id": "item_gokokuin-0038",
           "item_name": "厚別神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_039",
+      "spot_id": "spot_gokokuin-0039",
       "name": "洞爺寺",
-      "latitude": 42.642254,
-      "longitude": 140.82637,
+      "latitude": 42.6479971,
+      "longitude": 140.8367102,
       "prefecture": "北海道",
       "region": "東日本",
       "district": "北海道",
@@ -1081,25 +1081,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.toyaji.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0039",
+          "item_id": "item_gokokuin-0039",
           "item_name": "洞爺寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_040",
+      "spot_id": "spot_gokokuin-0040",
       "name": "乙部八幡神社",
-      "latitude": 41.966755,
-      "longitude": 140.131287,
+      "latitude": 41.966913,
+      "longitude": 140.1319085,
       "prefecture": "北海道",
       "region": "東日本",
       "district": "北海道",
@@ -1109,25 +1109,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.otobe-hachimangu.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0040",
+          "item_id": "item_gokokuin-0040",
           "item_name": "乙部八幡神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_041",
+      "spot_id": "spot_gokokuin-0041",
       "name": "石清水神社",
-      "latitude": 34.286716,
-      "longitude": 134.252213,
+      "latitude": 34.2860671,
+      "longitude": 134.2534621,
       "prefecture": "香川県",
       "region": "西日本",
       "district": "四国",
@@ -1137,25 +1137,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.ishimizu-jinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0041",
+          "item_id": "item_gokokuin-0041",
           "item_name": "石清水神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_042",
+      "spot_id": "spot_gokokuin-0042",
       "name": "王子神社",
-      "latitude": 34.040089,
-      "longitude": 134.522202,
+      "latitude": 34.0396216,
+      "longitude": 134.5254689,
       "prefecture": "徳島県",
       "region": "西日本",
       "district": "四国",
@@ -1165,25 +1165,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.oji-jinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0042",
+          "item_id": "item_gokokuin-0042",
           "item_name": "王子神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_043",
+      "spot_id": "spot_gokokuin-0043",
       "name": "朝峯神社",
-      "latitude": 33.556847,
-      "longitude": 133.612473,
+      "latitude": 33.5588182,
+      "longitude": 133.6105011,
       "prefecture": "高知県",
       "region": "西日本",
       "district": "四国",
@@ -1193,25 +1193,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.asamine-jinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0043",
+          "item_id": "item_gokokuin-0043",
           "item_name": "朝峯神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_044",
+      "spot_id": "spot_gokokuin-0044",
       "name": "津田八幡神社",
-      "latitude": 34.05159,
-      "longitude": 134.576263,
+      "latitude": 34.0519633,
+      "longitude": 134.5758796,
       "prefecture": "徳島県",
       "region": "西日本",
       "district": "四国",
@@ -1221,25 +1221,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.tsuda-hachimangu.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0044",
+          "item_id": "item_gokokuin-0044",
           "item_name": "津田八幡神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_045",
+      "spot_id": "spot_gokokuin-0045",
       "name": "石岡神社",
-      "latitude": 33.901604,
-      "longitude": 133.128113,
+      "latitude": 33.8999604,
+      "longitude": 133.1288649,
       "prefecture": "愛媛県",
       "region": "西日本",
       "district": "四国",
@@ -1249,25 +1249,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.ishioka-jinja.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0045",
+          "item_id": "item_gokokuin-0045",
           "item_name": "石岡神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_046",
+      "spot_id": "spot_gokokuin-0046",
       "name": "三島神社",
-      "latitude": 33.677559,
-      "longitude": 132.902481,
+      "latitude": 33.64113,
+      "longitude": 132.9130851,
       "prefecture": "愛媛県",
       "region": "西日本",
       "district": "四国",
@@ -1277,25 +1277,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.mishima-jinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0046",
+          "item_id": "item_gokokuin-0046",
           "item_name": "三島神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_047",
+      "spot_id": "spot_gokokuin-0047",
       "name": "日和佐八幡神社",
-      "latitude": 33.735065,
-      "longitude": 134.540512,
+      "latitude": 33.7349316,
+      "longitude": 134.5403123,
       "prefecture": "徳島県",
       "region": "西日本",
       "district": "四国",
@@ -1305,25 +1305,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.hiwasa-hachimangu.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0047",
+          "item_id": "item_gokokuin-0047",
           "item_name": "日和佐八幡神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_048",
+      "spot_id": "spot_gokokuin-0048",
       "name": "高知大神宮",
-      "latitude": 33.559872,
-      "longitude": 133.534866,
+      "latitude": 33.5600222,
+      "longitude": 133.5345677,
       "prefecture": "高知県",
       "region": "西日本",
       "district": "四国",
@@ -1333,25 +1333,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.kochidaijingu.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0048",
+          "item_id": "item_gokokuin-0048",
           "item_name": "高知大神宮",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_049",
+      "spot_id": "spot_gokokuin-0049",
       "name": "國分八幡宮",
-      "latitude": 34.30933,
-      "longitude": 133.952103,
+      "latitude": 34.3079867,
+      "longitude": 133.9504664,
       "prefecture": "香川県",
       "region": "西日本",
       "district": "四国",
@@ -1361,25 +1361,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.kokubu-hachimangu.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0049",
+          "item_id": "item_gokokuin-0049",
           "item_name": "國分八幡宮",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_050",
+      "spot_id": "spot_gokokuin-0050",
       "name": "總鎮守八幡神社",
-      "latitude": 33.462883,
-      "longitude": 132.42337,
+      "latitude": 33.4586313,
+      "longitude": 132.4316268,
       "prefecture": "愛媛県",
       "region": "西日本",
       "district": "四国",
@@ -1389,81 +1389,81 @@
       "winter_business_hours": "",
       "official_url": "https://www.souchinjyu-hachimangu.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0050",
+          "item_id": "item_gokokuin-0050",
           "item_name": "總鎮守八幡神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_051",
+      "spot_id": "spot_gokokuin-0051",
       "name": "伊奈冨神社",
-      "latitude": 34.836681,
-      "longitude": 136.553482,
+      "latitude": 34.8370701,
+      "longitude": 136.5520465,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "東海",
+      "district": "関西",
       "address": "三重県鈴鹿市稲生西2丁目24-20",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.inafu-jinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0051",
+          "item_id": "item_gokokuin-0051",
           "item_name": "伊奈冨神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_052",
+      "spot_id": "spot_gokokuin-0052",
       "name": "彌都加伎神社-みずがきじんじゃ-",
-      "latitude": 34.860786,
-      "longitude": 136.590103,
+      "latitude": 34.8602764,
+      "longitude": 136.5896389,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "東海",
+      "district": "関西",
       "address": "三重県鈴鹿市東玉垣町1412",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.mizugakijinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0052",
+          "item_id": "item_gokokuin-0052",
           "item_name": "彌都加伎神社-みずがきじんじゃ-",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_053",
+      "spot_id": "spot_gokokuin-0053",
       "name": "日蓮宗 龍光寺",
-      "latitude": 34.164387,
-      "longitude": 135.310043,
+      "latitude": 34.163313,
+      "longitude": 135.305981,
       "prefecture": "和歌山県",
       "region": "西日本",
       "district": "近畿",
@@ -1473,81 +1473,81 @@
       "winter_business_hours": "",
       "official_url": "https://www.ryukouji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0053",
+          "item_id": "item_gokokuin-0053",
           "item_name": "日蓮宗 龍光寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_054",
+      "spot_id": "spot_gokokuin-0054",
       "name": "西方山 極楽院 西念寺",
-      "latitude": 34.761196,
-      "longitude": 136.126846,
+      "latitude": 34.761847,
+      "longitude": 136.1268157,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "東海",
+      "district": "関西",
       "address": "三重県伊賀市上野万町2296",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.sainenji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0054",
+          "item_id": "item_gokokuin-0054",
           "item_name": "西方山 極楽院 西念寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_055",
+      "spot_id": "spot_gokokuin-0055",
       "name": "桑名宗社",
-      "latitude": 35.065434,
-      "longitude": 136.694931,
+      "latitude": 35.0654158,
+      "longitude": 136.6946191,
       "prefecture": "三重県",
       "region": "西日本",
-      "district": "東海",
+      "district": "関西",
       "address": "三重県桑名市本町46",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.kuwanasousha.org/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0055",
+          "item_id": "item_gokokuin-0055",
           "item_name": "桑名宗社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_056",
+      "spot_id": "spot_gokokuin-0056",
       "name": "柏原八幡宮",
-      "latitude": 35.111183,
-      "longitude": 135.081665,
+      "latitude": 35.1299495,
+      "longitude": 135.0794149,
       "prefecture": "兵庫県",
       "region": "西日本",
       "district": "近畿",
@@ -1557,25 +1557,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.kaibaramachimangu.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0056",
+          "item_id": "item_gokokuin-0056",
           "item_name": "柏原八幡宮",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_057",
+      "spot_id": "spot_gokokuin-0057",
       "name": "高砂神社",
-      "latitude": 34.74379,
-      "longitude": 134.803818,
+      "latitude": 34.7438025,
+      "longitude": 134.804019,
       "prefecture": "兵庫県",
       "region": "西日本",
       "district": "近畿",
@@ -1585,25 +1585,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.takasagojinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0057",
+          "item_id": "item_gokokuin-0057",
           "item_name": "高砂神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_058",
+      "spot_id": "spot_gokokuin-0058",
       "name": "舞子六神社",
-      "latitude": 34.637363,
-      "longitude": 135.028641,
+      "latitude": 34.6375527,
+      "longitude": 135.0288062,
       "prefecture": "兵庫県",
       "region": "西日本",
       "district": "近畿",
@@ -1613,137 +1613,137 @@
       "winter_business_hours": "",
       "official_url": "https://www.rokujinja.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0058",
+          "item_id": "item_gokokuin-0058",
           "item_name": "舞子六神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_059",
+      "spot_id": "spot_gokokuin-0059",
       "name": "曹洞宗聖福山 吉田寺",
-      "latitude": 37.651226,
-      "longitude": 138.797653,
+      "latitude": 37.6551358,
+      "longitude": 138.7977744,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "甲信越",
+      "district": "北陸",
       "address": "新潟県燕市渡部1195",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.kisshoji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0059",
+          "item_id": "item_gokokuin-0059",
           "item_name": "曹洞宗聖福山 吉田寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_060",
+      "spot_id": "spot_gokokuin-0060",
       "name": "新発田 諏訪神社",
-      "latitude": 37.944508,
-      "longitude": 139.331039,
+      "latitude": 37.9445014,
+      "longitude": 139.3321895,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "甲信越",
+      "district": "北陸",
       "address": "新潟県新発田市諏訪町１丁目８－９",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.shibata-suwa.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0060",
+          "item_id": "item_gokokuin-0060",
           "item_name": "新発田 諏訪神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_061",
+      "spot_id": "spot_gokokuin-0061",
       "name": "小比叡山 蓮華峰寺",
-      "latitude": 37.838116,
-      "longitude": 138.284637,
+      "latitude": 37.8353656,
+      "longitude": 138.2880537,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "甲信越",
+      "district": "北陸",
       "address": "新潟県佐渡市小比叡182",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.rengebuji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0061",
+          "item_id": "item_gokokuin-0061",
           "item_name": "小比叡山 蓮華峰寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_062",
+      "spot_id": "spot_gokokuin-0062",
       "name": "風巻神社",
-      "latitude": 37.12579,
-      "longitude": 138.380463,
+      "latitude": 37.1233892,
+      "longitude": 138.3812754,
       "prefecture": "新潟県",
       "region": "東日本",
-      "district": "甲信越",
+      "district": "北陸",
       "address": "新潟県上越市三和区岡田24",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.kazamaki-jinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0062",
+          "item_id": "item_gokokuin-0062",
           "item_name": "風巻神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_063",
+      "spot_id": "spot_gokokuin-0063",
       "name": "伏木神社",
-      "latitude": 36.796101,
-      "longitude": 137.054886,
+      "latitude": 36.7959663,
+      "longitude": 137.0551629,
       "prefecture": "富山県",
       "region": "東日本",
       "district": "北陸",
@@ -1753,25 +1753,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.fushikijinja.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0063",
+          "item_id": "item_gokokuin-0063",
           "item_name": "伏木神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_064",
+      "spot_id": "spot_gokokuin-0064",
       "name": "深江八幡神社",
-      "latitude": 36.904549,
-      "longitude": 136.802765,
+      "latitude": 36.9043969,
+      "longitude": 136.8025881,
       "prefecture": "石川県",
       "region": "東日本",
       "district": "北陸",
@@ -1781,25 +1781,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.fukaehachimangu.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0064",
+          "item_id": "item_gokokuin-0064",
           "item_name": "深江八幡神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_065",
+      "spot_id": "spot_gokokuin-0065",
       "name": "篠座神社",
-      "latitude": 35.961517,
-      "longitude": 136.503326,
+      "latitude": 35.9713585,
+      "longitude": 136.4895313,
       "prefecture": "福井県",
       "region": "東日本",
       "district": "北陸",
@@ -1809,25 +1809,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.shinozajinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0065",
+          "item_id": "item_gokokuin-0065",
           "item_name": "篠座神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_066",
+      "spot_id": "spot_gokokuin-0066",
       "name": "廣田神社",
-      "latitude": 36.723423,
-      "longitude": 137.252151,
+      "latitude": 36.7250433,
+      "longitude": 137.2505108,
       "prefecture": "富山県",
       "region": "東日本",
       "district": "北陸",
@@ -1837,109 +1837,109 @@
       "winter_business_hours": "",
       "official_url": "https://www.hirotajinja.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0066",
+          "item_id": "item_gokokuin-0066",
           "item_name": "廣田神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_067",
+      "spot_id": "spot_gokokuin-0067",
       "name": "八坂神社",
-      "latitude": 38.6775,
-      "longitude": 141.4489,
-      "prefecture": "宮城県",
+      "latitude": 38.630612,
+      "longitude": 141.1193048,
+      "prefecture": "宮城",
       "region": "東日本",
-      "district": "東北",
-      "address": "宮城県本吉郡南三陸町志津川字塩入72",
+      "district": "#N/A",
+      "address": "宮城",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.yasaka-jinja.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0067",
+          "item_id": "item_gokokuin-0067",
           "item_name": "八坂神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_068",
+      "spot_id": "spot_gokokuin-0068",
       "name": "熱日髙彦神社",
-      "latitude": 37.9733,
-      "longitude": 140.7811,
-      "prefecture": "宮城県",
+      "latitude": 38.630612,
+      "longitude": 141.1193048,
+      "prefecture": "宮城",
       "region": "東日本",
-      "district": "東北",
-      "address": "宮城県角田市島田字元木山1",
+      "district": "#N/A",
+      "address": "宮城",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.atsuhikohiko-jinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0068",
+          "item_id": "item_gokokuin-0068",
           "item_name": "熱日髙彦神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_069",
+      "spot_id": "spot_gokokuin-0069",
       "name": "呑香（とんこう）稲荷神社",
-      "latitude": 40.2711,
-      "longitude": 141.3056,
-      "prefecture": "岩手県",
+      "latitude": 39.5832989,
+      "longitude": 141.2534574,
+      "prefecture": "岩手",
       "region": "東日本",
-      "district": "東北",
-      "address": "岩手県二戸市福岡字五日町48",
+      "district": "#N/A",
+      "address": "岩手",
       "contact": "",
       "business_hours": "",
       "winter_business_hours": "",
       "official_url": "https://www.tonkou-inari.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0069",
+          "item_id": "item_gokokuin-0069",
           "item_name": "呑香（とんこう）稲荷神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_070",
+      "spot_id": "spot_gokokuin-0070",
       "name": "荒雄川神社",
-      "latitude": 38.827175,
-      "longitude": 140.635757,
+      "latitude": 38.7944736,
+      "longitude": 140.6631244,
       "prefecture": "宮城県",
       "region": "東日本",
       "district": "東北",
@@ -1949,25 +1949,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.araogawajinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0070",
+          "item_id": "item_gokokuin-0070",
           "item_name": "荒雄川神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_071",
+      "spot_id": "spot_gokokuin-0071",
       "name": "若草神社",
-      "latitude": 38.775192,
-      "longitude": 141.344009,
+      "latitude": 38.7739061,
+      "longitude": 141.3294562,
       "prefecture": "宮城県",
       "region": "東日本",
       "district": "東北",
@@ -1977,25 +1977,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.wakakusajinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0071",
+          "item_id": "item_gokokuin-0071",
           "item_name": "若草神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_072",
+      "spot_id": "spot_gokokuin-0072",
       "name": "大國魂神社",
-      "latitude": 37.052441,
-      "longitude": 140.938644,
+      "latitude": 37.0526029,
+      "longitude": 140.939915,
       "prefecture": "福島県",
       "region": "東日本",
       "district": "東北",
@@ -2005,25 +2005,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.ookunitamajinja.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0072",
+          "item_id": "item_gokokuin-0072",
           "item_name": "大國魂神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_073",
+      "spot_id": "spot_gokokuin-0073",
       "name": "顕妙寺",
-      "latitude": 38.324368,
-      "longitude": 141.017365,
+      "latitude": 38.3243708,
+      "longitude": 141.0178053,
       "prefecture": "宮城県",
       "region": "東日本",
       "district": "東北",
@@ -2033,25 +2033,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.kenmyoji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0073",
+          "item_id": "item_gokokuin-0073",
           "item_name": "顕妙寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_074",
+      "spot_id": "spot_gokokuin-0074",
       "name": "光明寺",
-      "latitude": 38.727787,
-      "longitude": 141.07222,
+      "latitude": 38.7489349,
+      "longitude": 141.1257479,
       "prefecture": "宮城県",
       "region": "東日本",
       "district": "東北",
@@ -2061,25 +2061,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.koumyoji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0074",
+          "item_id": "item_gokokuin-0074",
           "item_name": "光明寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_075",
+      "spot_id": "spot_gokokuin-0075",
       "name": "上州沼田　榛名神社",
-      "latitude": 36.648647,
-      "longitude": 139.03508,
+      "latitude": 36.6486385,
+      "longitude": 139.0352463,
       "prefecture": "群馬県",
       "region": "東日本",
       "district": "関東",
@@ -2089,25 +2089,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.numata-harunajinja.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0075",
+          "item_id": "item_gokokuin-0075",
           "item_name": "上州沼田　榛名神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_076",
+      "spot_id": "spot_gokokuin-0076",
       "name": "中之嶽神社",
-      "latitude": 36.27224,
-      "longitude": 138.734619,
+      "latitude": 36.2832898,
+      "longitude": 138.7380984,
       "prefecture": "群馬県",
       "region": "東日本",
       "district": "関東",
@@ -2117,25 +2117,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.nakanotake.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0076",
+          "item_id": "item_gokokuin-0076",
           "item_name": "中之嶽神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_077",
+      "spot_id": "spot_gokokuin-0077",
       "name": "和利宮 吾妻神社",
-      "latitude": 36.603516,
-      "longitude": 138.856735,
+      "latitude": 36.6028723,
+      "longitude": 138.8573491,
       "prefecture": "群馬県",
       "region": "東日本",
       "district": "関東",
@@ -2145,25 +2145,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.azumajinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0077",
+          "item_id": "item_gokokuin-0077",
           "item_name": "和利宮 吾妻神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_078",
+      "spot_id": "spot_gokokuin-0078",
       "name": "曾屋神社",
-      "latitude": 35.379234,
-      "longitude": 139.221268,
+      "latitude": 35.3795741,
+      "longitude": 139.2204418,
       "prefecture": "神奈川県",
       "region": "東日本",
       "district": "関東",
@@ -2173,25 +2173,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.soyajinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0078",
+          "item_id": "item_gokokuin-0078",
           "item_name": "曾屋神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_079",
+      "spot_id": "spot_gokokuin-0079",
       "name": "天台宗 光丸山 法輪寺",
-      "latitude": 36.794861,
-      "longitude": 140.116608,
+      "latitude": 36.7918348,
+      "longitude": 140.1233799,
       "prefecture": "栃木県",
       "region": "東日本",
       "district": "関東",
@@ -2201,25 +2201,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.horinji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0079",
+          "item_id": "item_gokokuin-0079",
           "item_name": "天台宗 光丸山 法輪寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_080",
+      "spot_id": "spot_gokokuin-0080",
       "name": "海南神社",
-      "latitude": 35.142265,
-      "longitude": 139.618744,
+      "latitude": 35.1422154,
+      "longitude": 139.6189449,
       "prefecture": "神奈川県",
       "region": "東日本",
       "district": "関東",
@@ -2229,25 +2229,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.kainajinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0080",
+          "item_id": "item_gokokuin-0080",
           "item_name": "海南神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_081",
+      "spot_id": "spot_gokokuin-0081",
       "name": "吉田神社",
-      "latitude": 36.361485,
-      "longitude": 140.482407,
+      "latitude": 36.3616211,
+      "longitude": 140.4827235,
       "prefecture": "茨城県",
       "region": "東日本",
       "district": "関東",
@@ -2257,25 +2257,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.yoshidajinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0081",
+          "item_id": "item_gokokuin-0081",
           "item_name": "吉田神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_082",
+      "spot_id": "spot_gokokuin-0082",
       "name": "東金砂神社",
-      "latitude": 36.66592,
-      "longitude": 140.473495,
+      "latitude": 36.677899,
+      "longitude": 140.4969716,
       "prefecture": "茨城県",
       "region": "東日本",
       "district": "関東",
@@ -2285,25 +2285,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.higashikanasajinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0082",
+          "item_id": "item_gokokuin-0082",
           "item_name": "東金砂神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_083",
+      "spot_id": "spot_gokokuin-0083",
       "name": "大中神社",
-      "latitude": 36.731812,
-      "longitude": 140.490585,
+      "latitude": 36.7326665,
+      "longitude": 140.4889723,
       "prefecture": "茨城県",
       "region": "東日本",
       "district": "関東",
@@ -2313,25 +2313,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.ooknakajinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0083",
+          "item_id": "item_gokokuin-0083",
           "item_name": "大中神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_084",
+      "spot_id": "spot_gokokuin-0084",
       "name": "花園神社",
-      "latitude": 36.867512,
-      "longitude": 140.625977,
+      "latitude": 36.8608417,
+      "longitude": 140.6279532,
       "prefecture": "茨城県",
       "region": "東日本",
       "district": "関東",
@@ -2341,25 +2341,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.hanazono-jinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0084",
+          "item_id": "item_gokokuin-0084",
           "item_name": "花園神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_085",
+      "spot_id": "spot_gokokuin-0085",
       "name": "長福寺",
-      "latitude": 36.334435,
-      "longitude": 140.554947,
+      "latitude": 36.3318524,
+      "longitude": 140.5464819,
       "prefecture": "茨城県",
       "region": "東日本",
       "district": "関東",
@@ -2369,25 +2369,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.chofukuji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0085",
+          "item_id": "item_gokokuin-0085",
           "item_name": "長福寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_086",
+      "spot_id": "spot_gokokuin-0086",
       "name": "大前神社",
-      "latitude": 36.449654,
-      "longitude": 140.025635,
+      "latitude": 36.4490403,
+      "longitude": 140.026325,
       "prefecture": "栃木県",
       "region": "東日本",
       "district": "関東",
@@ -2397,25 +2397,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.ooemiyasjinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0086",
+          "item_id": "item_gokokuin-0086",
           "item_name": "大前神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_087",
+      "spot_id": "spot_gokokuin-0087",
       "name": "瀧尾神社",
-      "latitude": 36.726143,
-      "longitude": 139.680176,
+      "latitude": 36.7260847,
+      "longitude": 139.6802717,
       "prefecture": "栃木県",
       "region": "東日本",
       "district": "関東",
@@ -2425,25 +2425,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.takioujinja.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0087",
+          "item_id": "item_gokokuin-0087",
           "item_name": "瀧尾神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_088",
+      "spot_id": "spot_gokokuin-0088",
       "name": "浄運寺",
-      "latitude": 35.542999,
-      "longitude": 139.447739,
+      "latitude": 35.5431867,
+      "longitude": 139.4481983,
       "prefecture": "東京都",
       "region": "東日本",
       "district": "関東",
@@ -2453,25 +2453,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.jounji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0088",
+          "item_id": "item_gokokuin-0088",
           "item_name": "浄運寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_089",
+      "spot_id": "spot_gokokuin-0089",
       "name": "乃木神社",
-      "latitude": 36.889202,
-      "longitude": 140.002869,
+      "latitude": 36.8876469,
+      "longitude": 140.0029266,
       "prefecture": "栃木県",
       "region": "東日本",
       "district": "関東",
@@ -2481,25 +2481,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.nogijinja.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0089",
+          "item_id": "item_gokokuin-0089",
           "item_name": "乃木神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_090",
+      "spot_id": "spot_gokokuin-0090",
       "name": "賀茂別雷神社",
-      "latitude": 36.384773,
-      "longitude": 139.592743,
+      "latitude": 36.3811051,
+      "longitude": 139.5939401,
       "prefecture": "栃木県",
       "region": "東日本",
       "district": "関東",
@@ -2509,25 +2509,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.kamowakakazuchinjinja.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0090",
+          "item_id": "item_gokokuin-0090",
           "item_name": "賀茂別雷神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_091",
+      "spot_id": "spot_gokokuin-0091",
       "name": "長久寺",
-      "latitude": 35.398136,
-      "longitude": 140.234787,
+      "latitude": 35.3864095,
+      "longitude": 140.2371693,
       "prefecture": "千葉県",
       "region": "東日本",
       "district": "関東",
@@ -2537,25 +2537,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.chokyuji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0091",
+          "item_id": "item_gokokuin-0091",
           "item_name": "長久寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_092",
+      "spot_id": "spot_gokokuin-0092",
       "name": "宏善寺",
-      "latitude": 35.566227,
-      "longitude": 139.447617,
+      "latitude": 35.5659241,
+      "longitude": 139.4470918,
       "prefecture": "東京都",
       "region": "東日本",
       "district": "関東",
@@ -2565,25 +2565,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.kozenji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0092",
+          "item_id": "item_gokokuin-0092",
           "item_name": "宏善寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_093",
+      "spot_id": "spot_gokokuin-0093",
       "name": "八雲神社",
-      "latitude": 36.531223,
-      "longitude": 140.183975,
+      "latitude": 36.5313589,
+      "longitude": 140.1834541,
       "prefecture": "栃木県",
       "region": "東日本",
       "district": "関東",
@@ -2593,25 +2593,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.yakumojinja.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0093",
+          "item_id": "item_gokokuin-0093",
           "item_name": "八雲神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_094",
+      "spot_id": "spot_gokokuin-0094",
       "name": "根岸八幡神社",
-      "latitude": 35.418221,
-      "longitude": 139.632553,
+      "latitude": 35.4184045,
+      "longitude": 139.6324134,
       "prefecture": "神奈川県",
       "region": "東日本",
       "district": "関東",
@@ -2621,25 +2621,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.negishi-hachimangu.com/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0094",
+          "item_id": "item_gokokuin-0094",
           "item_name": "根岸八幡神社",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_095",
+      "spot_id": "spot_gokokuin-0095",
       "name": "長光山法泉寺",
-      "latitude": 35.405022,
-      "longitude": 139.271988,
+      "latitude": 35.4051579,
+      "longitude": 139.2752816,
       "prefecture": "神奈川県",
       "region": "東日本",
       "district": "関東",
@@ -2649,25 +2649,25 @@
       "winter_business_hours": "",
       "official_url": "https://www.hosenji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0095",
+          "item_id": "item_gokokuin-0095",
           "item_name": "長光山法泉寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     },
     {
-      "spot_id": "spot_gokokuin_096",
+      "spot_id": "spot_gokokuin-0096",
       "name": "東福寺",
-      "latitude": 35.702072,
-      "longitude": 139.466843,
+      "latitude": 35.7023135,
+      "longitude": 139.468211,
       "prefecture": "東京都",
       "region": "東日本",
       "district": "関東",
@@ -2677,17 +2677,73 @@
       "winter_business_hours": "",
       "official_url": "https://www.tofukuji.or.jp/",
       "image_urls": [
-        "assets/images/spots/sample.png"
+        "assets/images/spots/placeholder_spot.png"
       ],
       "note": "",
       "items": [
         {
-          "item_id": "gokokuin_Gokoku-0096",
+          "item_id": "item_gokokuin-0096",
           "item_name": "東福寺",
           "status": "active",
           "acquisition_condition": "",
           "tags": [],
-          "image_url": "assets/images/spots/sample.png"
+          "image_url": "assets/images/items/placeholder_item.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gokokuin-0097",
+      "name": "片山神社",
+      "latitude": 35.1876128399518,
+      "longitude": 136.92009468309,
+      "prefecture": "愛知県",
+      "region": "東日本",
+      "district": "中部",
+      "address": "愛知県名古屋市東区芳野2-4-28",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "https://www.instagram.com/katayamashrine/",
+      "image_urls": [
+        "assets/images/spots/placeholder_spot.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "item_gokokuin-0097",
+          "item_name": "片山神社",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/items/placeholder_item.png"
+        }
+      ]
+    },
+    {
+      "spot_id": "spot_gokokuin-0098",
+      "name": "苫前神社",
+      "latitude": 44.3131291498992,
+      "longitude": 141.650363652222,
+      "prefecture": "北海道",
+      "region": "東日本",
+      "district": "北海道",
+      "address": "北海道苫前郡苫前町字苫前106",
+      "contact": "",
+      "business_hours": "",
+      "winter_business_hours": "",
+      "official_url": "https://www.instagram.com/tomamaejinja/",
+      "image_urls": [
+        "assets/images/spots/placeholder_spot.png"
+      ],
+      "note": "",
+      "items": [
+        {
+          "item_id": "item_gokokuin-0098",
+          "item_name": "苫前神社",
+          "status": "active",
+          "acquisition_condition": "",
+          "tags": [],
+          "image_url": "assets/images/items/placeholder_item.png"
         }
       ]
     }
